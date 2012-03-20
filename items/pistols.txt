@@ -1,0 +1,643 @@
+start
+tl 86
+'Blacksun' RP-97
+graphic rolh
+id 6212
+req dex 86
+req pistolcombat 108
+req techcombat 77
+end
+
+
+
+start
+tl 63
+'Rapidfire' SMG224
+graphic liberator
+id 6172
+req dex 63
+req pistolcombat 94
+end
+
+
+
+start
+tl 17
+A&W 'Needle' N31 Nailgun
+graphic craftsmansdream
+id 6623
+req dex 17
+req pistolcombat 42
+end
+
+
+
+start
+tl 9
+A&W Colt 'Budget'
+graphic wyatt
+id 650123
+req dex 9
+req pistolcombat 22
+end
+
+
+
+start
+tl 51
+A&W PP183k Plasma Pistol
+graphic judge
+id 676345
+req dex 51
+req pistolcombat 84
+req techcombat 56
+end
+
+
+
+start
+tl 26
+A&W Street Model Gun
+graphic liberator
+id 61001
+req dex 26
+req pistolcombat 57
+end
+
+
+
+start
+tl 41
+Automatic Pistol
+graphic auto
+id 62834
+req dex 41
+req pistolcombat 75
+end
+
+
+
+start
+tl 105
+BEAM OF HELL
+graphic slasher
+id 643
+req dex 105
+req pistolcombat 117
+req techcombat 85
+end
+
+
+
+start
+tl 1
+Beggar Nailgun
+graphic craftsmansdream
+id 693
+req dex 1
+req pistolcombat 2
+end
+
+
+
+start
+tl 113
+Ceres Handgun BHG-9
+graphic ceresgun
+id 6000
+req wocdex 1
+req pistolcombat 121
+req dex 113
+end
+
+
+
+start
+tl 107
+CRAFTSMANS DREAM 6100
+graphic craftsmansdream
+id 646
+req dex 107
+req pistolcombat 118
+end
+
+
+
+start
+tl 110
+DREADFIRE PROTOTYPE 03
+graphic dread
+id 64734
+req dex 110
+req pistolcombat 120
+end
+
+
+
+start
+tl 77
+Enhanced 'Spitfire' Gatlin Pistol
+graphic dread
+id 615
+req dex 77
+req pistolcombat 103
+end
+
+
+
+start
+tl 64
+Enhanced Automatic Pistol
+id 613
+req dex 64
+req pistolcombat 95
+end
+
+
+
+start
+tl 112
+EXECUTIONER
+graphic executioner
+id 645
+req dex 112
+req pistolcombat 121
+req techcombat 88
+end
+
+
+
+start
+tl 71
+Fusion Pistol
+graphic executioner
+id 69
+req dex 71
+req pistolcombat 100
+req techcombat 69
+end
+
+
+
+start
+tl 59
+Gatlin Pistol
+graphic dread
+id 65
+req dex 59
+req pistolcombat 90
+end
+
+
+
+start
+tl 65
+HEW 'Jordan Special' LP-82a
+id 607
+req dex 65
+req pistolcombat 95
+req techcombat 65
+end
+
+
+
+start
+tl 15
+HEW 'Lightwand' L77x3
+id 657
+req dex 15
+req pistolcombat 37
+req techcombat 18
+end
+
+
+
+start
+tl 106
+HVAP-100 Freeman Pistol
+graphic freeman
+id 6030
+req wocdex 1
+req pistolcombat 112
+req dex 106
+end
+
+
+
+start
+tl 40
+IC-E-4453 Freezer Pistol
+id 623
+req dex 40
+req pistolcombat 75
+req techcombat 50
+end
+
+
+
+start
+tl 95
+Ionic Shotgun Pistol
+graphic ionpistol
+id 692
+req dex 95
+req pistolcombat 112
+end
+
+
+
+start
+tl 100
+JUDGE
+graphic judge
+id 642
+req dex 100
+req pistolcombat 115
+req techcombat 83
+end
+
+
+
+start
+tl 100
+Juggernaut Crossbow Pistol
+graphic xbow
+id 61764
+req wocdex 1
+req pistolcombat 106
+req dex 100
+req techcombat 83
+end
+
+
+
+start
+tl 2
+Lazar Gun
+graphic wyatt
+id 690
+req dex 2
+req pistolcombat 5
+end
+
+
+
+start
+tl 91
+LIBERATOR
+graphic liberator
+id 641
+req dex 91
+req pistolcombat 110
+end
+
+
+
+start
+tl 7
+Mendicant SMG
+graphic liberator
+id 695
+req dex 7
+req pistolcombat 17
+end
+
+
+
+start
+tl 46
+Mini Rocket Launcher
+graphic rocketpistol
+id 634
+req dex 46
+req pistolcombat 80
+end
+
+
+
+start
+tl 68
+Plasma Pistol
+graphic judge
+id 625
+req dex 68
+req pistolcombat 98
+req techcombat 67
+end
+
+
+
+start
+tl 75
+Prototype Tangent Laserbeam Pistol
+graphic slasher
+id 6157
+req dex 75
+req pistolcombat 102
+req techcombat 71
+end
+
+
+
+start
+tl 108
+RAY OF LAST HOPE
+graphic rolh
+id 644
+req dex 108
+req pistolcombat 119
+req techcombat 86
+end
+
+
+
+start
+tl 74
+RayGun Pistol
+graphic rolh
+id 622
+req dex 74
+req pistolcombat 102
+req techcombat 71
+end
+
+
+
+start
+tl 83
+Ryker 'Atomfist' FP-26 Fusion Pistol
+graphic executioner
+id 619
+req dex 83
+req pistolcombat 106
+req techcombat 76
+end
+
+
+
+start
+tl 31
+Ryker 'Legacy' N-52 Nailgun
+graphic craftsmansdream
+id 616
+req dex 31
+req pistolcombat 63
+end
+
+
+
+start
+tl 80
+Ryker 'Napalm' PP-42
+graphic judge
+id 624
+req dex 80
+req pistolcombat 105
+req techcombat 75
+end
+
+
+
+start
+tl 61
+Ryker 'Pocketblizzard' FP-224
+graphic steiner
+id 622
+req dex 61
+req pistolcombat 92
+req techcombat 63
+end
+
+
+
+start
+tl 36
+Ryker 'Revver' Gatlin
+graphic dread
+id 667
+req dex 36
+req pistolcombat 70
+end
+
+
+
+start
+tl 46
+Ryker 'Glare' Laser Pistol
+graphic slasher
+id 62
+req dex 46
+req pistolcombat 80
+req techcombat 53
+end
+
+
+
+start
+tl 96
+S.W.A.T. Backup Gun
+graphic swatpistol
+id 6060
+req wocdex 1
+req pistolcombat 102
+req dex 96
+end
+
+
+
+start
+tl 38
+S-337-f Submachine Gun
+graphic liberator
+id 67
+req dex 38
+req pistolcombat 72
+end
+
+
+
+start
+tl 103
+SLASHER
+graphic slasher
+id 6253
+req dex 103
+req pistolcombat 116
+req techcombat 84
+end
+
+
+
+start
+tl 102
+STEINER FP 1.0
+graphic steiner
+id 648
+req dex 102
+req pistolcombat 116
+req techcombat 84
+end
+
+
+
+start
+tl 20
+Street Model 'Uziel' SMG
+graphic liberator
+id 669
+req dex 20
+req pistolcombat 50
+end
+
+
+
+start
+tl 54
+Street Model 'Welder' Fusion Pistol
+graphic executioner
+id 671
+req dex 54
+req pistolcombat 86
+req techcombat 58
+end
+
+
+
+start
+tl 42
+Tangent 'Wasteland Eagle'
+graphic wyatt
+id 600
+req dex 42
+req pistolcombat 76
+end
+
+
+
+start
+tl 18
+Tangent 'Substandard' Pulselaser Pistol
+graphic slasher
+id 6250
+req dex 18
+req pistolcombat 45
+req techcombat 22
+end
+
+
+
+start
+tl 92
+Tangent Assault Pulselaser Pistol
+graphic slasher
+id 6252
+req dex 92
+req pistolcombat 111
+req techcombat 80
+end
+
+
+
+start
+tl 65
+Tangent Mini Rocket Launcher
+graphic rocketpistol
+id 612
+req dex 65
+req pistolcombat 95
+end
+
+
+
+start
+tl 64
+Tangent Pulselaser Pistol
+graphic slasher
+id 6251
+req dex 65
+req pistolcombat 95
+req techcombat 65
+end
+
+
+
+start
+tl 86
+TG RayGun Pistol
+graphic rolh
+id 676
+req dex 86
+req pistolcombat 108
+req techcombat 77
+end
+
+
+
+start
+tl 24
+Unlabeled 'Chill' Freezer Pistol
+graphic steiner
+id 674
+req dex 24
+req pistolcombat 55
+req techcombat 30
+end
+
+
+
+start
+tl 4
+Unlabeled 'Pinfire' Nailgun
+graphic craftsmansdream
+id 668
+req dex 4
+req pistolcombat 10
+end
+
+
+
+start
+tl 57
+Unlabeled 'Sunray' RayGun Pistol
+graphic rolh
+id 673
+req dex 57
+req pistolcombat 89
+req techcombat 60
+end
+
+
+
+start
+tl 25
+Unlabeled Automatic Pistol
+graphic auto
+id 683
+req dex 25
+req pistolcombat 56
+end
+
+
+
+start
+tl 32
+Unlabeled Mini Rocket Launcher
+graphic rocketpistol
+id 682
+req dex 32
+req pistolcombat 65
+end
+
+
+
+start
+tl 88
+WYATT EARP
+graphic wyatt
+id 640
+req dex 88
+req pistolcombat 109
+end
+
+
+

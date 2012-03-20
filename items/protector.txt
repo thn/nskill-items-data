@@ -1,0 +1,27 @@
+start
+tl 12
+Crahn Protector
+req psi 12
+req ppu 45
+req focussing 15
+psi amp 1
+end
+
+start
+tl 14
+Crahn Group Protector
+req psi 14
+req ppu 51
+req focussing 17
+psi amp 1
+end
+
+
+start
+tl 15
+Crahn Protector Sanctum
+req psi 18
+req ppu 58
+req focussing 22
+psi amp 1
+end

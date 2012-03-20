@@ -1,0 +1,203 @@
+start
+Shabby Carbon Helmet
+req str 49
++ force 51
++ piercing 63
++ poison 12
+end
+
+start
+Good Carbon Helmet
+req str 57
++ force 56
++ piercing 70
++ poison 14
+end
+
+start
+Great Carbon Helmet
+graphic heavyhelmet
+req str 65
++ force 61
++ piercing 76
++ poison 15
+end
+
+start
+Outstanding Carbon Helmet
+graphic heavyhelmet
+req str 75
++ force 67
++ piercing 84
++ poison 16
+end
+
+start
+Light Kevlar Helmet
+graphic kevlarhelmet
+req str 12
++ force 16
++ piercing 10
++ fire 13
++ poison 27
+end
+
+start
+Medium Kevlar Helmet
+graphic kevlarhelmet
+req str 24
++ force 21
++ piercing 13
++ fire 17
++ poison 34
+end
+
+start
+Heavy Kevlar Helmet
+graphic kevlarhelmet
+req str 36
++ force 26
++ piercing 15
++ fire 21
++ poison 42
+end
+
+start
+Battle Helmet Prototype
+req str 21
++ force 49
++ piercing 32
+end
+
+start
+Usual Battle Helmet
+req str 31
++ force 59
++ piercing 39
+end
+
+start
+Advanced Battle Helmet
+req str 41
++ force 68
++ piercing 45
+end
+
+start
+Bad Duranium Helmet
+graphic shelterhelmet
+req str 70
++ force 64
++ piercing 48
++ energy 48
+end
+
+start
+Duranium Helmet
+graphic heavyhelmet
+req str 80
++ force 71
++ piercing 53
++ energy 53
+end
+
+start
+Advanced Duranium Helmet
+graphic heavyhelmet
+req str 85
++ force 73
++ piercing 56
++ energy 56
+end
+
+start
+High Density Duranium Helmet
+graphic heavyhelmet
+req str 90
++ forcing 77
++ piercing 58
++ energy 58
+end
+
+start
+Unhallowed Inquisition Helmet
+graphic shelterhelmet
+req str 49
++ force 31
++ piercing 31
++ fire 63
+end
+
+start
+Unhallowed Inquisition Helmet
+req str 46
++ force 30
++ piercing 30
++ fire 61
+end
+
+start
+Inquisition Helmet
+req str 57
++ force 35
++ piercing 35
++ fire 70
+end
+
+start
+Holy Inquisition Helmet
+graphic heavyhelmet
+req str 65
++ force 38
++ piercing 38
++ fire 76
+end
+
+start
+Gods Wish' Inquisition Helmet
+graphic heavyhelmet
+req str 75
++ force 43
++ piercing 43
++ fire 86
+end
+
+start
+Crahn Shelter Helmet
+graphic shelterhelmet
+req psi 8
++ force 11
++ piercing 11
++ fire 11
++ energy 23
+end
+
+start
+Crahn Blessed Shelter Helmet
+graphic shelterhelmet
+req psi 28
++ force 17
++ piercing 17
++ fire 17
++ energy 24
+end
+
+start
+Crahn Spirit Helmet
+graphic heavyhelmet
+req psi 52
++ force 23
++ piercing 23
++ energy 47
++ xray 23
+end
+
+start
+Crahn Blessed Spirit Helmet
+graphic heavyhelmet
+req psi 78
++ force 30
++ piercing 30
++ energy 61
++ xray 30
+end

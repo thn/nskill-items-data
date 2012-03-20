@@ -1,0 +1,277 @@
+start
+Cyber GPU v.0.1
+req int 4
++ techcombat 2.64
++ weaponlore 2.64
+- repair 1.00
+- recycle 1.00
+- research 1.00
+end
+
+start
+Melee Coordinator v.0.1
+req str 5
++ meleecombat 3.36
++ techcombat 1.12
++ weaponlore 1.12
+- heavycombat 1.00
+- pistolcombat 1.00
+- riflecombat 1.00
+end
+
+start
+Pistol Targeting Matrix v.0.1
+req dex 6
++ pistolcombat 3.55
++ techcombat 1.18
++ weaponlore 1.25
+- heavycombat 1.00
+- riflecombat 1.17
+end
+
+start
+Rifle Targeting Matrix v.0.1
+req dex 7
++ riflecombat 3.74
++ techcombat 1.25
++ weaponlore 1.25
+- heavycombat 1.00
+- pistolcombat 1.23
+end
+
+start
+Crahn Psychic Power Mask v.0.1
+req psi 9
++ focussing 4.13
++ psipower 2.75
+- hacking 1.00
+- weaponlore 1.00
+- willpower 1.00
+end
+
+start
+Drone Targeting Matrix v.0.1
+req dex 10
++ remotecontrol 4.32
++ techcombat 1.44
++ willpower 1.44
+- meleecombat 1.00
+- heavycombat 1.00
+- pistolcombat 1.00
+- riflecombat 1.00
+end
+
+start
+Heavy Targeting Matrix v.0.1
+req str 14
++ heavycombat 5.09
++ techcombat 1.67
++ wepaonlore 1.67
+- meleecombat 1.12
+- pistol combat 1.00
+- riflecombat 1.00
+end
+
+start
+Cyber GPU v.0.2
+req int 22
++ techcombat 5.52
++ weaponlore 5.52
+- repair 1.20
+- recycle 1.20
+- research 1.20
+end
+
+start
+Smart Cyber GPU v.1.01
+req int 24
++ pistolcombat 4.67
++ riflecombat 4.67
++ techcombat 2.34
+- meleecombat 1.93
+- heavycombat 1.93
+end
+
+start
+Melee Coordinator v.0.2
+req str 25
++ meleecombat 7.20
++ techcombat 2.40
++ weaponlore 2.40
+- heavycombat 1.58
+- pistolcombat 1.19
+- riflecombat 1.19
+end
+
+start
+Pistol Targeting Matrix v.0.2
+req dex 36
++ pistolcombat 9.31
++ techcombat 3.10
++ weaponlore 3.10
+- heavycombat 2.05
+- riflecombat 3.14
+end
+
+start
+Rifle Targeting Matrix v.0.2
+req dex 37
++ riflecombat 9.50
++ techcombat 3.17
++ weaponlore 3.17
+- heavycombat 2.09
+- pistolcombat 3.14
+end
+
+start
+Heavy Targeting Matrix v.0.2
+req str 38
++ heavycombat 9.70
++ techcombat 3.23
++ weaponlore 3.23
+- meleecombat 2.13
+- pistolcombat 1.60
+- riflecombat 1.60
+end
+
+start
+Crahn Psychic Power Mask v.0.2
+req psi 39
++ focussing 9.89
++ pispower 6.59
+- hacking 2.17
+- weaponlore 1.63
+- willpower 1.63
+end
+
+start
+Drone Targeting Matrix v.0.2
+req dex 40
++ remotecontrol 10.08
++ techcombat 3.36
++ willpower 3.36
+- meleecombat 1.39
+- heavycombat 1.39
+- pistolcombat 1.39
+- riflecombat 1.39
+end
+
+start
+Smart Cyber GPU v.1.02
+req int 40
++ pistolcombat 6.72
++ riflecombat 6.72
++ techcombat 3.36
+- meleecombat 2.77
+- heavycombat 2.77
+end
+
+start
+Melee Coordinator v.0.3
+req str 45
++ meleecombat 11.04
++ techcombat 3.68
++ weaponlore 3.68
+- heavycombat 2.43
+- pistolcombat 1.82
+- riflecombat 1.82
+end
+
+start
+DOY Repair Cooridinator
+graphic doyeye
+req dex 46
++ repair 18.72
+- recycle 3.09
+- research 3.09
+end
+
+start
+DOY Material Analyser
+graphic doyeye
+req dex 50
++ recycle 20.00
+- repair 3.30
+- research 3.30
+end
+
+start
+DOY Vehicle Coordinator Linkage
+graphic doyeye
+req dex 52
++ vehicleuse 20.64
+- remotecontrol 6.81
+end
+
+start
+Smart Cyber GPU v.1.03
+req int 60
++ pistolcombat 9.28
++ riflecombat 9.28
++ techcombat 4.64
+- meleecombat 3.83
+- heavycombat 3.83
+end
+
+start
+Pistol Targeting Matrix v.0.3
+req dex 66
++ pistolcombat 15.07
++ techcombat 5.02
++ weaponlore 5.02
+- heavycombat 3.31
+- riflecombat 4.97
+end
+
+start
+Rifle Targeting Matrix v.0.3
+req dex 67
++ riflecombat 15.26
++ techcombat 5.09
++ weaponlore 5.09
+- heavycombat 3.36
+- pistolcombat 5.04
+end
+
+start
+Heavy Targeting Matrix v.0.3
+req str 68
++ heavycombat 15.45
++ techcombat 5.15
++ weaponlore 5.15
+- meleecombat 3.40
+- pistolcombat 2.55
+- riflecombat 2.55
+end
+
+start
+Crahn Psychic Power Mask v.0.3
+req psi 69
++ focussing 15.65
++ psipower 10.43
+- weaponlore 2.58
+- willpower 2.58
+- hacking 3.44
+end
+
+start
+Drone Targeting Matrix v.0.3
+req dex 70
++ remotecontrol 15.84
++ techcombat 5.28
++ willpower 5.28
+- meleecombat 2.18
+- heavycombat 2.18
+- pistolcombat 2.18
+- riflecombat 2.18
+end
+
+start
+Smart Cyber GPU v.1.04
+req dex 72
++ pistolcombat 10.82
++ riflecombat 10.82
++ techcombat 5.41
+- meleecombat 4.46
+- heavycombat 4.46
+end

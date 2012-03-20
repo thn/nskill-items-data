@@ -1,0 +1,204 @@
+start
+Shabby Carbon Vest
+req str 46
++ force 49
++ piercing 61
++ poison 12
+end
+
+start
+Good Carbon Vest
+req str 54
++ force 54
++ piercing 67
++ poison 13
+end
+
+start
+Great Carbon Vest
+req str 62
++ force 59
++ piercing 74
++ poison 14
+end
+
+start
+Outstanding Carbon Vest
+req str 72 
++ force 66
++ piercing 82
++ poison 16
+end
+
+start
+Light Kevlar Vest
+req str 9
++ force 15
++ piercing 9
++ fire 12
++ poison 25
+end
+
+start
+Medium Kevlar Vest
+req str 21
++ force 20
++ piercing 12
++ fire 16
++ poison 32
+end
+
+start
+Heavy Kevlar Vest
+req str 33
++ force 25
++ piercing 15
++ fire 20
++ poison 40
+end
+
+start
+Battle Vest Prototype
+req str 18
++ force 46
++ piercing 30
+end
+
+start
+Usual Battle Vest
+req str 28
++ force 56
++ piercing 37
+end
+
+start
+Advanced Battle Vest
+req str 38
++ force 65
++ piercing 43
+end
+
+start
+Titanium Vest
+graphic titan
+req str 55
++ force 17
++ piercing 71
++ fire 89
+end
+
+start
+Viper King
+req str 60
++ force 77
++ piercing 77
++ poison 38
+end
+
+start
+Bad Duranium Vest
+req str 67
++ force 62
++ piercing 47
++ energy 47
+end
+
+start
+Duranium Vest
+req str 77
++ force 69
++ piercing 51
++ energy 51
+end
+
+start
+Advanced Duranium Vest
+req str 82
++ force 72
++ piercing 54
++ energy 54
+end
+
+start
+High Density Duranium Vest
+req str 87
++ forcing 75
++ piercing 56
++ energy 56
+end
+
+start
+Unhallowed Inquisition Vest
+req str 46
++ force 30
++ piercing 30
++ fire 61
+end
+
+start
+Unhallowed Inquisition Vest
+req str 46
++ force 30
++ piercing 30
++ fire 61
+end
+
+start
+Inquisition Vest
+req str 54
++ force 33
++ piercing 33
++ fire 67
+end
+
+start
+Holy Inquisition Vest
+req str 62
++ force 37
++ piercing 37
++ fire 74
+end
+
+start
+Gods Wish' Inquisition Vest
+req str 72
++ force 42
++ piercing 42
++ fire 84
+end
+
+start
+Crahn Shelter Vest
+req psi 5
++ force 10
++ piercing 10
++ fire 10
++ energy 21
+end
+
+start
+Crahn Blessed Shelter Vest
+req psi 25
++ force 16
++ piercing 16
++ fire 16
++ energy 32
+end
+
+start
+Crahn Spirit Vest
+req psi 50
++ force 23
++ piercing 23
++ energy 46
++ xray 23
+end
+
+start
+Crahn Blessed Spirit Vest
+req psi 75
++ force 30
++ piercing 30
++ energy 60
++ xray 30
+end

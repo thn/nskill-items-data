@@ -1,0 +1,103 @@
+//Spy
+start
+Crahn Spy Booster
+req psi 15
+req ppu 53
+req focussing 18
+psi amp 1
++ hacking 4.06
++ implant 3.04
++ agility 2.03
+end
+
+start
+Crahn Blessed Spy Booster
+req psi 55
+req ppu 106
+req focussing 59
+psi amp 1
++ hacking 10.61
++ implant 7.96
++ agility 5.31
+end
+
+start
+Crahn Holy Spy Booster
+req psi 95
+req ppu 136
+req focussing 81
+psi amp 1
++ hacking 17.16
++ implant 12.87
++ agility 8.58
+end
+
+//Const
+start
+Crahn Construction Booster
+req psi 15
+req ppu 53
+req focussing 18
+psi amp 1
++ construction 4.06
++ reseach 3.04
++ recycle 2.03
+end
+
+start
+Crahn Blessed Construction Booster
+req psi 55
+req ppu 106
+req focussing 59
+psi amp 1
++ construction 10.61
++ research 7.96
++ recycle 5.31
+end
+
+start
+Crahn Holy Construction Booster
+req psi 95
+req ppu 136
+req focussing 81
+psi amp 1
++ construction 17.16
++ research 12.87
++ recycle 8.58
+end
+
+//Support
+start
+Crahn Supporter Booster
+req psi 15
+req ppu 53
+req focussing 18
+psi amp 1
++ repair 4.06
++ transport 3.04
++ barter 2.03
+end
+
+start
+Crahn Blessed Supporter Booster
+req psi 55
+req ppu 106
+req focussing 59
+psi amp 1
++ repair 10.61
++ transport 7.96
++ barter 5.31
+end
+
+start
+Crahn Holy Supporter Booster
+req psi 95
+req ppu 136
+req focussing 81
+psi amp 1
++ repair 17.16
++ transport 12.87
++ barter 8.58
+end
+
+

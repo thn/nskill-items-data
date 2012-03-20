@@ -1,0 +1,57 @@
+start
+tl 25
+Crahn Absorber
+req psi 25
+req ppu 71
+req focussing 31
+psi amp 1
++ energy 20.51%
++ xray 20.51%
+end
+
+start
+tl 95
+Crahn Holy Absorber
+req psi 95
+req ppu 136
+req focussing 81
+psi amp 1
++ energy 35.21%
++ xray 35.21%
+end
+
+
+start
+tl 62
+Crahn Blessed Absorber
+req psi 62
+req ppu 111
+req focussing 63
+psi amp 1
++ energy 26.98%
++ xray 26.98%
+end
+
+
+start
+tl 28
+Crahn Absorber Sanctum
+req psi 28
+req ppu 76
+req focussing 35
+psi amp 1
++ energy 16.51%
++ xray 16.51%
+end
+
+
+start
+tl 32
+Crahn Group Absorber
+req psi 32
+req ppu 81
+req focussing 40
+psi amp 1
++ energy 17.51%
++ xray 17.51%
+end

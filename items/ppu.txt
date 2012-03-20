@@ -1,0 +1,1783 @@
+start
+tl 25
+Crahn Absorber
+graphic abs
+id 7888
+req psi 25
+req ppu 71
+req focussing 31
+end
+
+
+
+start
+tl 28
+Crahn Absorber Sanctum
+graphic abs
+id 7882
+req psi 28
+req ppu 76
+req focussing 35
+end
+
+
+
+start
+tl 82
+Crahn AntiAbsorber
+graphic abs
+id 7888
+req psi 82
+req ppu 126
+req focussing 75
+end
+
+
+
+start
+tl 36
+Crahn AntiContamination
+id 7888
+req psi 36
+req ppu 86
+req focussing 45
+end
+
+
+
+start
+tl 81
+Crahn AntiDeflector
+graphic def
+id 78888
+req psi 81
+req ppu 125
+req focussing 75
+end
+
+
+
+start
+tl 30
+Crahn AntiEnergy
+id 788887
+req psi 30
+req ppu 79
+req focussing 37
+end
+
+
+
+start
+tl 28
+Crahn AntiFire
+id 788887
+req psi 28
+req ppu 76
+req focussing 35
+end
+
+
+
+start
+tl 83
+Crahn AntiHeal
+id 788889
+req psi 83
+req ppu 127
+req focussing 76
+end
+
+
+
+start
+tl 78
+Crahn AntiParalyse
+id 788888
+req psi 78
+req ppu 123
+req focussing 73
+end
+
+
+
+start
+tl 40
+Crahn AntiPoison
+id 788888
+req psi 40
+req ppu 91
+req focussing 50
+end
+
+
+
+start
+tl 84
+Crahn AntiProtector
+graphic pro
+id 788889
+req psi 84
+req ppu 128
+req focussing 76
+end
+
+
+
+start
+tl 24
+Crahn AntiX-Ray
+id 788887
+req psi 24
+req ppu 70
+req focussing 30
+end
+
+
+
+start
+tl 40
+Crahn Basic Resist Booster
+graphic br
+id 7888802
+req psi 40
+req ppu 91
+req focussing 50
+end
+
+
+
+start
+tl 62
+Crahn Blessed Absorber
+graphic abs
+id 7888889
+req psi 62
+req ppu 111
+req focussing 63
+end
+
+
+
+start
+tl 78
+Crahn Blessed Absorber Sanctum
+graphic abs
+id 7888827
+req psi 78
+req ppu 123
+req focussing 73
+end
+
+
+
+start
+tl 94
+Crahn Blessed AntiAbsorber
+graphic abs
+id 788889
+req psi 94
+req ppu 135
+req focussing 80
+end
+
+
+
+start
+tl 60
+Crahn Blessed AntiContamination
+id 788881
+req psi 60
+req ppu 110
+req focussing 62
+end
+
+
+
+start
+tl 93
+Crahn Blessed AntiDeflector
+graphic def
+id 788889
+req psi 93
+req ppu 134
+req focussing 80
+end
+
+
+
+start
+tl 54
+Crahn Blessed AntiEnergy
+id 788887
+req psi 54
+req ppu 105
+req focussing 58
+end
+
+
+
+start
+tl 52
+Crahn Blessed AntiFire
+id 788887
+req psi 52
+req ppu 104
+req focussing 57
+end
+
+
+
+start
+tl 95
+Crahn Blessed AntiHeal
+id 788889
+req psi 95
+req ppu 136
+req focussing 81
+end
+
+
+
+start
+tl 90
+Crahn Blessed AntiParalyse
+id 788888
+req psi 90
+req ppu 132
+req focussing 79
+end
+
+
+
+start
+tl 64
+Crahn Blessed AntiPoison
+id 788888
+req psi 64
+req ppu 113
+req focussing 65
+end
+
+
+
+start
+tl 96
+Crahn Blessed AntiProtector
+graphic pro
+id 788889
+req psi 96
+req ppu 137
+req focussing 81
+end
+
+
+
+start
+tl 48
+Crahn Blessed AntiX-Ray
+id 7888872
+req psi 48
+req ppu 101
+req focussing 55
+end
+
+
+
+start
+tl 75
+Crahn Blessed Basic Resist Booster
+graphic br
+id 78888021
+req psi 75
+req ppu 121
+req focussing 71
+end
+
+
+
+start
+tl 55
+Crahn Blessed Construction Booster
+graphic boost
+id 78888014
+req psi 55
+req ppu 106
+req focussing 59
+end
+
+
+
+start
+tl 8
+Crahn Blessed Creature Focus CAG 1
+graphic focus
+id 78888601
+req psi 8
+req ppu 30
+req focussing 10
+end
+
+
+
+start
+tl 36
+Crahn Blessed Creature Focus CAG 2
+graphic focus
+id 78888604
+req psi 36
+req ppu 86
+req focussing 45
+end
+
+
+
+start
+tl 74
+Crahn Blessed Creature Focus CAG 3
+graphic focus
+id 78888607
+req psi 74
+req ppu 120
+req focussing 71
+end
+
+
+
+start
+tl 84
+Crahn Blessed DamageBlocker
+id 7888889
+req psi 84
+req ppu 128
+req focussing 76
+end
+
+
+
+start
+tl 29
+Crahn Blessed DamageBoost
+graphic db
+id 7888828
+req psi 29
+req ppu 77
+req focussing 36
+end
+
+
+
+start
+tl 41
+Crahn Blessed DamageBoost Sanctum
+graphic db
+id 7888829
+req psi 41
+req ppu 92
+req focussing 51
+end
+
+
+
+start
+tl 35
+Crahn Blessed Deflector
+graphic def
+id 78888885
+req psi 35
+req ppu 85
+req focussing 43
+end
+
+
+
+start
+tl 41
+Crahn Blessed Deflector Sanctum
+graphic def
+id 78888891
+req psi 41
+req ppu 92
+req focussing 51
+end
+
+
+
+start
+tl 75
+Crahn Blessed Distract Mind
+graphic focus
+id 78888501
+req psi 75
+req ppu 121
+req focussing 71
+end
+
+
+
+start
+tl 55
+Crahn Blessed Drone Combat Booster
+graphic booster
+id 78888003
+req psi 55
+req ppu 106
+req focussing 59
+end
+
+
+
+start
+tl 79
+Crahn Blessed Group Absorber
+graphic abs
+id 78888896
+req psi 79
+req ppu 124
+req focussing 74
+end
+
+
+
+start
+tl 33
+Crahn Blessed Group DamageBoost
+graphic db
+id 7888803
+req psi 33
+req ppu 82
+req focussing 41
+end
+
+
+
+start
+tl 45
+Crahn Blessed Group Deflector
+graphic def
+id 78888888
+req psi 45
+req ppu 97
+req focussing 53
+end
+
+
+
+start
+tl 67
+Crahn Blessed Group Heal
+id 7888840
+req psi 67
+req ppu 115
+req focussing 66
+end
+
+
+
+start
+tl 53
+Crahn Blessed Group ParaShock
+id 7888844
+req psi 53
+req ppu 104
+req focussing 58
+end
+
+
+
+start
+tl 51
+Crahn Blessed Group Protector
+graphic pro
+id 78894
+req psi 51
+req ppu 103
+req focussing 56
+end
+
+
+
+start
+tl 75
+Crahn Blessed Hazard Resist Booster
+graphic haz
+id 78888027
+req psi 75
+req ppu 121
+req focussing 71
+end
+
+
+
+start
+tl 55
+Crahn Blessed Heal
+id 7888836
+req psi 55
+req ppu 106
+req focussing 59
+end
+
+
+
+start
+tl 58
+Crahn Blessed Heal Sanctum
+id 7888826
+req psi 58
+req ppu 108
+req focussing 61
+end
+
+
+
+start
+tl 75
+Crahn Blessed Heat Resist Booster
+graphic heat
+id 78888024
+req psi 75
+req ppu 121
+req focussing 71
+end
+
+
+
+start
+tl 55
+Crahn Blessed Heavy Combat Booster
+graphic booster
+id 78888991
+req psi 55
+req ppu 106
+req focussing 59
+end
+
+
+
+start
+tl 55
+Crahn Blessed Melee Combat Booster
+graphic booster
+id 78888000
+req psi 55
+req ppu 106
+req focussing 59
+end
+
+
+
+start
+tl 38
+Crahn Blessed ParaShock
+id 7888841
+req psi 38
+req ppu 89
+req focussing 47
+end
+
+
+
+start
+tl 48
+Crahn Blessed ParaShock Sanctum
+id 7888847
+req psi 48
+req ppu 101
+req focussing 55
+end
+
+
+
+start
+tl 55
+Crahn Blessed Pistol Combat Booster
+graphic booster
+id 78888994
+req psi 55
+req ppu 106
+req focussing 59
+end
+
+
+
+start
+tl 44
+Crahn Blessed Protector
+graphic pro
+id 78891
+req psi 44
+req ppu 96
+req focussing 52
+end
+
+
+
+start
+tl 64
+Crahn Blessed Protector Sanctum
+graphic pro
+id 78897
+req psi 67
+req ppu 115
+req focussing 66
+end
+
+
+
+start
+tl 75
+Crahn Blessed Provoke Enemy
+graphic focus
+id 78888504
+req psi 75
+req ppu 121
+req focussing 71
+end
+
+
+
+start
+tl 55
+Crahn Blessed PSI Combat Booster
+graphic booster
+id 78888006
+req psi 55
+req ppu 106
+req focussing 59
+end
+
+
+
+start
+tl 75
+Crahn Blessed PSI Shield
+id 78888507
+req psi 75
+req ppu 121
+req focussing 71
+end
+
+
+
+start
+tl 76
+Crahn Blessed Resurrection
+graphic rezz
+id 7888807
+req psi 76
+req ppu 122
+req focussing 72
+end
+
+
+
+start
+tl 55
+Crahn Blessed Rifle Combat Booster
+graphic booster
+id 78888997
+req psi 55
+req ppu 106
+req focussing 59
+end
+
+
+
+start
+tl 55
+Crahn Blessed Spy Booster
+graphic boost
+id 78888011
+req psi 55
+req ppu 106
+req focussing 59
+end
+
+
+
+start
+tl 55
+Crahn Blessed Supporter Booster
+graphic boost
+id 78888017
+req psi 55
+req ppu 106
+req focussing 59
+end
+
+
+
+start
+tl 15
+Crahn Construction Booster
+graphic boost
+id 78888013
+req psi 15
+req ppu 53
+req focussing 18
+end
+
+
+
+start
+tl 4
+Crahn Creature Focus CAG 1
+graphic focus
+id 78888600
+req psi 4
+req ppu 15
+req focussing 5
+end
+
+
+
+start
+tl 24
+Crahn Creature Focus CAG 2
+graphic focus
+id 78888603
+req psi 24
+req ppu 70
+req focussing 30
+end
+
+
+
+start
+tl 60
+Crahn Creature Focus CAG 3
+graphic focus
+id 78888606
+req psi 60
+req ppu 110
+req focussing 62
+end
+
+
+
+start
+tl 72
+Crahn DamageBlocker
+id 7888888
+req psi 72
+req ppu 119
+req focussing 70
+end
+
+
+
+start
+tl 8
+Crahn DamageBoost
+graphic db
+id 7888800
+req psi 8
+req ppu 30
+req focussing 10
+end
+
+
+
+start
+tl 12
+Crahn DamageBoost Sanctum
+graphic db
+id 7888805
+req psi 12
+req ppu 45
+req focussing 15
+end
+
+
+
+start
+tl 3
+Crahn Deflector
+graphic def
+id 78888884
+req psi 3
+req ppu 11
+req focussing 3
+end
+
+
+
+start
+tl 7
+Crahn Deflector Sanctum
+graphic def
+id 78888890
+req psi 7
+req ppu 26
+req focussing 8
+end
+
+
+
+start
+tl 40
+Crahn Distract Mind
+graphic focus
+id 78888500
+req psi 40
+req ppu 91
+req focussing 50
+end
+
+
+
+start
+tl 15
+Crahn Drone Combat Booster
+graphic booster
+id 78888002
+req psi 15
+req ppu 53
+req focussing 18
+end
+
+
+
+start
+tl 32
+Crahn Group Absorber
+graphic abs
+id 78888895
+req psi 32
+req ppu 81
+req focussing 40
+end
+
+
+
+start
+tl 16
+Crahn Group DamageBoost
+graphic db
+id 7888802
+req psi 16
+req ppu 55
+req focussing 20
+end
+
+
+
+start
+tl 9
+Crahn Group Deflector
+graphic def
+id 78888887
+req psi 9
+req ppu 33
+req focussing 11
+end
+
+
+
+start
+tl 15
+Crahn Group Heal
+id 7888811
+req psi 15
+req ppu 53
+req focussing 18
+end
+
+
+
+start
+tl 17
+Crahn Group ParaShock
+id 7888843
+req psi 17
+req ppu 56
+req focussing 21
+end
+
+
+
+start
+tl 14
+Crahn Group Protector
+graphic pro
+id 78893
+req psi 14
+req ppu 51
+req focussing 17
+end
+
+
+
+start
+tl 40
+Crahn Hazard Resist Booster
+graphic haz
+id 78888026
+req psi 40
+req ppu 91
+req focussing 50
+end
+
+
+
+start
+tl 3
+Crahn Heal
+id 7888801
+req psi 3
+req ppu 11
+req focussing 3
+end
+
+
+
+start
+tl 9
+Crahn Heal Sanctum
+id 78888882
+req psi 9
+req ppu 33
+req focussing 11
+end
+
+
+
+start
+tl 40
+Crahn Heat Resist Booster
+graphic heat
+id 78888023
+req psi 40
+req ppu 91
+req focussing 50
+end
+
+
+
+start
+tl 15
+Crahn Heavy Combat Booster
+graphic booster
+id 78888990
+req psi 15
+req ppu 53
+req focussing 18
+end
+
+
+
+start
+tl 95
+Crahn Holy Absorber
+graphic abs
+id 78888894
+req psi 95
+req ppu 136
+req focussing 81
+end
+
+
+
+start
+tl 102
+Crahn Holy Absorber Sanctum
+graphic abs
+id 78888898
+req psi 102
+req ppu 141
+req focussing 84
+end
+
+
+
+start
+tl 106
+Crahn Holy AntiAbsorber
+graphic abs
+id 7888802
+req psi 106
+req ppu 144
+req focussing 85
+end
+
+
+
+start
+tl 84
+Crahn Holy AntiContamination
+id 7888812
+req psi 84
+req ppu 128
+req focussing 76
+end
+
+
+
+start
+tl 105
+Crahn Holy AntiDeflector
+graphic def
+id 7888801
+req psi 105
+req ppu 143
+req focussing 85
+end
+
+
+
+start
+tl 78
+Crahn Holy AntiEnergy
+id 7888876
+req psi 78
+req ppu 123
+req focussing 73
+end
+
+
+
+start
+tl 76
+Crahn Holy AntiFire
+id 7888879
+req psi 76
+req ppu 122
+req focussing 72
+end
+
+
+
+start
+tl 107
+Crahn Holy AntiHeal
+id 7888800
+req psi 107
+req ppu 145
+req focussing 86
+end
+
+
+
+start
+tl 102
+Crahn Holy AntiParalyse
+id 7888885
+req psi 102
+req ppu 141
+req focussing 84
+end
+
+
+
+start
+tl 88
+Crahn Holy AntiPoison
+id 7888882
+req psi 88
+req ppu 131
+req focussing 78
+end
+
+
+
+start
+tl 108
+Crahn Holy AntiProtector
+graphic pro
+id 7888803
+req psi 108
+req ppu 146
+req focussing 86
+end
+
+
+
+start
+tl 72
+Crahn Holy AntiX-Ray
+id 7888873
+req psi 72
+req ppu 119
+req focussing 70
+end
+
+
+
+start
+tl 95
+Crahn Holy Basic Resist Booster
+graphic br
+id 78888022
+req psi 95
+req ppu 136
+req focussing 81
+end
+
+
+
+start
+tl 95
+Crahn Holy Construction Booster
+graphic boost
+id 78888015
+req psi 95
+req ppu 136
+req focussing 81
+end
+
+
+
+start
+tl 16
+Crahn Holy Creature Focus CAG 1
+graphic focus
+id 78888602
+req psi 16
+req ppu 55
+req focussing 20
+end
+
+
+
+start
+tl 48
+Crahn Holy Creature Focus CAG 2
+graphic focus
+id 78888605
+req psi 48
+req ppu 101
+req focussing 55
+end
+
+
+
+start
+tl 88
+Crahn Holy Creature Focus CAG 3
+graphic focus
+id 78888608
+req psi 88
+req ppu 131
+req focussing 78
+end
+
+
+
+start
+tl 92
+Crahn Holy Creature Focus CAG-Gold
+graphic focus
+id 78888609
+req psi 92
+req ppu 134
+req focussing 80
+end
+
+
+
+start
+tl 96
+Crahn Holy DamageBlocker
+id 7888870
+req psi 96
+req ppu 137
+req focussing 81
+end
+
+
+
+start
+tl 46
+Crahn Holy DamageBoost
+graphic db
+id 7888801
+req psi 46
+req ppu 99
+req focussing 53
+end
+
+
+
+start
+tl 64
+Crahn Holy DamageBoost Sanctum
+graphic db
+id 7888806
+req psi 64
+req ppu 113
+req focussing 65
+end
+
+
+
+start
+tl 64
+Crahn Holy Deflector
+graphic def
+id 78888886
+req psi 64
+req ppu 113
+req focussing 65
+end
+
+
+
+start
+tl 69
+Crahn Holy Deflector Sanctum
+graphic def
+id 78888892
+req psi 69
+req ppu 116
+req focussing 68
+end
+
+
+
+start
+tl 95
+Crahn Holy Distract Mind
+graphic focus
+id 78888502
+req psi 95
+req ppu 136
+req focussing 81
+end
+
+
+
+start
+tl 95
+Crahn Holy Drone Combat Booster
+graphic booster
+id 78888004
+req psi 95
+req ppu 136
+req focussing 81
+end
+
+
+
+start
+tl 105
+Crahn Holy Group Absorber
+graphic abs
+id 78888897
+req psi 105
+req ppu 143
+req focussing 85
+end
+
+
+
+start
+tl 54
+Crahn Holy Group DamageBoost
+graphic db
+id 7888804
+req psi 54
+req ppu 105
+req focussing 58
+end
+
+
+
+start
+tl 75
+Crahn Holy Group Deflector
+graphic def
+id 78888889
+req psi 75
+req ppu 121
+req focussing 71
+end
+
+
+
+start
+tl 98
+Crahn Holy Group Heal
+id 78888881
+req psi 98
+req ppu 138
+req focussing 82
+end
+
+
+
+start
+tl 83
+Crahn Holy Group ParaShock
+id 7888845
+req psi 83
+req ppu 127
+req focussing 76
+end
+
+
+
+start
+tl 80
+Crahn Holy Group Protector
+graphic pro
+id 78895
+req psi 80
+req ppu 125
+req focussing 75
+end
+
+
+
+start
+tl 95
+Crahn Holy Hazard Resist Booster
+graphic haz
+id 78888028
+req psi 95
+req ppu 136
+req focussing 81
+end
+
+
+
+start
+tl 85
+Crahn Holy Heal
+id 78888880
+req psi 85
+req ppu 128
+req focussing 77
+end
+
+
+
+start
+tl 91
+Crahn Holy Heal Sanctum
+id 78888883
+req psi 91
+req ppu 133
+req focussing 79
+end
+
+
+
+start
+tl 95
+Crahn Holy Heat Resist Booster
+graphic heat
+id 78888025
+req psi 95
+req ppu 136
+req focussing 81
+end
+
+
+
+start
+tl 95
+Crahn Holy Heavy Combat Booster
+graphic booster
+id 78888992
+req psi 95
+req ppu 136
+req focussing 81
+end
+
+
+
+start
+tl 95
+Crahn Holy Melee Combat Booster
+graphic booster
+id 78888001
+req psi 95
+req ppu 136
+req focussing 81
+end
+
+
+
+start
+tl 67
+Crahn Holy ParaShock
+id 7888842
+req psi 67
+req ppu 115
+req focussing 66
+end
+
+
+
+start
+tl 76
+Crahn Holy ParaShock Sanctum
+id 7888848
+req psi 76
+req ppu 122
+req focussing 72
+end
+
+
+
+start
+tl 95
+Crahn Holy Pistol Combat Booster
+graphic booster
+id 78888995
+req psi 95
+req ppu 136
+req focussing 81
+end
+
+
+
+start
+tl 71
+Crahn Holy Protector
+graphic pro
+id 78892
+req psi 71
+req ppu 118
+req focussing 69
+end
+
+
+
+start
+tl 84
+Crahn Holy Protector Sanctum
+graphic pro
+id 78898
+req psi 84
+req ppu 128
+req focussing 76
+end
+
+
+
+start
+tl 95
+Crahn Holy Provoke Enemy
+graphic focus
+id 78888505
+req psi 95
+req ppu 136
+req focussing 81
+end
+
+
+
+start
+tl 95
+Crahn Holy PSI Combat Booster
+graphic booster
+id 78888007
+req psi 95
+req ppu 136
+req focussing 81
+end
+
+
+
+start
+tl 95
+Crahn Holy PSI Shield
+id 78888508
+req psi 95
+req ppu 136
+req focussing 81
+end
+
+
+
+start
+tl 104
+Crahn Holy Resurrection
+graphic rezz
+id 7888808
+req psi 104
+req ppu 143
+req focussing 85
+end
+
+
+
+start
+tl 95
+Crahn Holy Rifle Combat Booster
+graphic booster
+id 78888998
+req psi 95
+req ppu 136
+req focussing 81
+end
+
+
+
+start
+tl 95
+Crahn Holy Spy Booster
+graphic boost
+id 78888012
+req psi 95
+req ppu 136
+req focussing 81
+end
+
+
+
+start
+tl 95
+Crahn Holy Supporter Booster
+graphic boost
+id 78888018
+req psi 95
+req ppu 136
+req focussing 81
+end
+
+
+
+start
+tl 15
+Crahn Melee Combat Booster
+graphic booster
+id 78888999
+req psi 15
+req ppu 53
+req focussing 18
+end
+
+
+
+start
+tl 6
+Crahn ParaShock
+id 7888840
+req psi 6
+req ppu 22
+req focussing 7
+end
+
+
+
+start
+tl 14
+Crahn ParaShock Sanctum
+id 7888846
+req psi 14
+req ppu 51
+req focussing 17
+end
+
+
+
+start
+tl 15
+Crahn Pistol Combat Booster
+graphic booster
+id 78888993
+req psi 15
+req ppu 53
+req focussing 18
+end
+
+
+
+start
+tl 12
+Crahn Protector
+graphic pro
+id 78890
+req psi 12
+req ppu 45
+req focussing 15
+end
+
+
+
+start
+tl 18
+Crahn Protector Sanctum
+graphic pro
+id 78896
+req psi 18
+req ppu 58
+req focussing 22
+end
+
+
+
+start
+tl 40
+Crahn Provoke Enemy
+graphic focus
+id 78888503
+req psi 40
+req ppu 91
+req focussing 50
+end
+
+
+
+start
+tl 15
+Crahn PSI Combat Booster
+graphic booster
+id 78888005
+req psi 15
+req ppu 53
+req focussing 18
+end
+
+
+
+start
+tl 40
+Crahn PSI Shield
+id 78888506
+req psi 40
+req ppu 91
+req focussing 50
+end
+
+
+
+start
+tl 43
+Crahn Resurrection
+graphic rezz
+id 7888806
+req psi 43
+req ppu 95
+req focussing 51
+end
+
+
+
+start
+tl 15
+Crahn Rifle Combat Booster
+graphic booster
+id 78888996
+req psi 15
+req ppu 53
+req focussing 18
+end
+
+
+
+start
+tl 15
+Crahn Spy Booster
+graphic boost
+id 78888010
+req psi 15
+req ppu 53
+req focussing 18
+end
+
+
+
+start
+tl 15
+Crahn Supporter Booster
+graphic boost
+id 78888016
+req psi 15
+req ppu 53
+req focussing 18
+end
+
+
+
+start
+tl 10
+Crahns Rejuvenation
+id 788556
+req ppu 30
+
+end
+
+
+
+start
+tl 108
+HOLY ABSORPTION
+graphic abs
+id 78888211
+req psi 108
+req ppu 146
+req focussing 86
+end
+
+
+
+start
+tl 110
+HOLY CATHARSIS
+id 7888899
+req psi 110
+req ppu 147
+req focussing 87
+end
+
+
+
+start
+tl 100
+HOLY DEFLECTION
+graphic def
+id 78888210
+req psi 100
+req ppu 140
+req focussing 83
+end
+
+
+
+start
+tl 108
+HOLY EXORCIST
+id 7888807
+req psi 108
+req ppu 146
+req focussing 86
+end
+
+
+
+start
+tl 104
+HOLY PROTECTION
+graphic pro
+id 78888212
+req psi 104
+req ppu 143
+req focussing 85
+end
+
+
+
+start
+tl 106
+HOLY TRUE SIGHT SANCTUM
+id 7888852
+req psi 106
+req ppu 144
+req focussing 85
+end
+
+
+
+start
+tl 104
+HOLY UNPROTECTOR
+graphic pro
+id 7888805
+req psi 104
+req ppu 143
+req focussing 85
+end

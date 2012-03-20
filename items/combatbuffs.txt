@@ -1,0 +1,214 @@
+nosort
+//For things like this listing, makes sense to have them grouped, rather than alphabetical
+
+//drone
+start
+Crahn Drone Combat Booster
+req psi 95
+req ppu 136
+req focussing 81
+psi amp 1
++ remotecontrol 5.07
++ techcombat 2.54
++ willpower 2.54
+end
+
+start
+Crahn Blessed Drone Combat Booster
+req psi 55
+req ppu 106
+req focussing 59
+psi amp 1
++ remotecontrol 13.26
++ techcombat 6.63
++ willpower 6.63
+end
+
+start
+Crahn Holy Drone Combat Booster
+req psi 95
+req ppu 136
+req focussing 81
+psi amp 1
++ remotecontrol 21.46
++ techcombat 10.73
++ willpower 10.73
+end
+
+//Heavy Combat
+start
+Crahn Heavy Combat Booster
+req psi 15
+req ppu 53
+req focussing 18
+psi amp 1
++ heavycombat 5.07
++ techcombat 2.54
++ weaponlore 2.54
+end
+
+start
+Crahn Blessed Heavy Combat Booster
+req psi 55
+req ppu 106
+req focussing 59
+psi amp 1
++ heavycombat 13.26
++ techcombat 6.63
++ weaponlore 6.63
+end
+
+start
+Crahn Holy Heavy Combat Booster
+req psi 95
+req ppu 136
+req focussing 81
+psi amp 1
++ heavycombat 21.46
++ techcombat 10.73
++ weaponlore 10.73
+end
+
+
+
+//Melee
+start
+Crahn Melee Combat Booster
+req psi 15
+req ppu 53
+req focussing 18
+psi amp 1
++ meleecombat 5.07
++ techcombat 2.54
++ weaponlore 2.54
+end
+
+start
+Crahn Blessed Melee Combat Booster
+req psi 55
+req ppu 106
+req focussing 59
+psi amp 1
++ meleecombat 13.26
++ techcombat 6.63
++ weaponlore 6.63
+end
+
+start
+Crahn Holy Melee Combat Booster
+req psi 95
+req ppu 136
+req focussing 81
+psi amp 1
++ meleecomabt 21.46
++ techcombat 10.73
++ weaponlore 10.73
+end
+
+//pistols
+start
+Crahn Pistol Combat Booster
+req psi 15
+req ppu 53
+req focussing 18
+psi amp 1
++ pistolcombat 5.07
++ techcombat 2.54
++ weaponlore 2.54
+end
+
+start
+Crahn Blessed Pistol Combat Booster
+req psi 55
+req ppu 106
+req focussing 59
+psi amp 1
++ pistolcombat 13.26
++ techcombat 6.63
++ weaponlore 6.63
+end
+
+start
+Crahn Holy Pistol Combat Booster
+req psi 95
+req ppu 136
+req focussing 81
+psi amp 1
++ pistolcombat 21.46
++ techcombat 10.73
++ weaponlore 10.73
+end
+
+
+
+//Psi
+start
+Crahn PSI Combat Booster
+req psi 95
+req ppu 16
+req focussing 81
+psi amp 1
++ apu 5.07
++ psiuse 2.54
++ focussing 2.54
+end
+
+start
+Crahn Blessed Psi Combat Booster
+req psi 55
+req ppu 106
+req focussing 59
+psi amp 1
++ apu 13.26
++ psiuse 6.63
++ focussing 6.63
+end
+
+start
+Crahn Holy PSI Combat Booster
+req psi 95
+req ppu 16
+req focussing 81
+psi amp 1
++ apu 21.46
++ psiuse 10.73
++ focussing 10.73
+end
+
+
+
+
+//rifles
+start
+Crahn Rifle Combat Booster
+req psi 15
+req ppu 53
+req focussing 18
+psi amp 1
++ riflecombat 5.07
++ techcombat 2.54
++ weaponlore 2.54
+end
+
+start
+Crahn Blessed Rifle Combat Booster
+req psi 55
+req ppu 106
+req focussing 59
+psi amp 1
++ riflecombat 13.26
++ techcombat 6.63
++ weaponlore 6.63
+end
+
+start
+Crahn Holy Rifle Combat Booster
+req psi 95
+req ppu 136
+req focussing 81
+psi amp 1
++ riflecombat 21.46
++ techcombat 10.73
++ weaponlore 10.73
+end
+

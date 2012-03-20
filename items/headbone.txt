@@ -1,0 +1,30 @@
+start
+Biotech Antigamma Headbone
+graphic agheadbone
+req str 28
++ xray 7.78
++ resistpsi 5.18
+end
+
+start
+Experimental Headbone
+graphic exheadbone
+req str 50
++ force 12.00
++ resistpsi 8.00
+end
+
+start
+Headbone
+req str 10
++ force 4.32
++ resistpsi 2.88
+end
+
+start
+Advanced Headbone
+graphic adheadbone
+req str 30
++ force 8.16
++ resistpsi 5.44
+end

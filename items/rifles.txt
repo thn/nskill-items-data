@@ -1,0 +1,645 @@
+start
+tl 63
+'Ice Age' FZ-31b Freezer
+req dex 63
+req riflecombat 94
+req techcombat 64
+graphic thunderstorm
+end
+
+
+
+start
+tl 23
+A&W 'Protector' Pumpgun
+req dex 23
+req riflecombat 53
+graphic termi
+end
+
+
+
+start
+tl 26
+A&W 'Snowflake' Freezer
+req dex 26
+req riflecombat 57
+req techcombat 32
+graphic thunderstorm
+end
+
+
+
+start
+tl 40
+A&W 'Steady' RF-113 Rifle
+req dex 40
+req riflecombat 75
+graphic desperado
+end
+
+
+
+start
+tl 13
+Archer 'Companion' Rifle
+req dex 13
+req riflecombat 32
+graphic paineaser
+end
+
+
+
+start
+tl 42
+Arctic Winter' Freezer
+req dex 42
+req riflecombat 76
+req techcombat 51
+graphic thunderstorm
+end
+
+
+
+start
+tl 30
+Assault Rifle
+req dex 30
+req riflecombat 62
+graphic paineaser
+end
+
+
+
+start
+tl 30
+Assault Rifle
+req dex 30
+req riflecombat 62
+graphic paineaser
+end
+
+
+
+start
+tl 113
+Ceres Assault Rifle CAR-47
+req wocdex 1
+req riflecombat 121
+req dex 113
+graphic AK
+end
+
+
+
+start
+tl 103
+DESPERADO
+req dex 103
+req riflecombat 116
+graphic desperado
+end
+
+
+
+start
+tl 115
+DISRUPTOR
+req dex 115
+req riflecombat 122
+req techcombat 89
+graphic disruptor
+end
+
+
+
+
+start
+tl 44
+Enhanced Assault Rifle
+req dex 44
+req riflecombat 78
+graphic paineaser
+end
+
+
+
+start
+tl 79
+Enhanced Gatlin Rifle
+req dex 79
+req riflecombat 104
+graphic libra
+end
+
+
+
+start
+tl 82
+Enhanced Plasma Rifle
+req dex 82
+req riflecombat 106
+req techcombat 75
+graphic fl
+end
+
+
+
+start
+tl 21
+Enhanced Street Model Rifle
+req dex 21
+req riflecombat 51
+graphic desperado
+end
+
+
+
+start
+tl 102
+FAR-6000 Reaper Assault Rifle
+req wocdex 1
+req riflecombat 108
+req dex 102
+graphic reaper
+end
+
+
+
+start
+tl 114
+FIRST LOVE
+req dex 114
+req riflecombat 122
+req techcombat 89
+graphic fl
+end
+
+
+
+start
+tl 73
+Fusion Rifle
+req dex 73
+req riflecombat 101
+req techcombat 70
+graphic redeemer
+end
+
+
+
+start
+tl 61
+Gatlin Rifle
+req dex 61
+req riflecombat 92
+graphic libra
+end
+
+
+
+start
+tl 110
+HEALING LIGHT
+req dex 110
+req riflecombat 120
+req techcombat 87
+graphic disruptor
+end
+
+
+
+start
+tl 59
+HEW 'Lightcaster' Raygun
+req dex 59
+req riflecombat 90
+req techcombat 61
+graphic rog
+end
+
+
+
+start
+tl 53
+HEW 'Liquid Fire' Rifle
+req dex 53
+req riflecombat 85
+req techcombat 58
+graphic fl
+end
+
+
+
+start
+tl 115
+HVSR-90 Ronin Sniper Rifle
+req wocdex 1
+req riflecombat 123
+req dex 115
+graphic ronin
+end
+
+
+
+start
+tl 108
+Infiltration Assault Rifle IAR-47
+graphic iar
+req wocdex 1
+req riflecombat 114
+req dex 108
+graphic ak
+end
+
+
+
+start
+tl 97
+Ionic Shotgun Rifle
+graphic ionrifle
+req dex 97
+req riflecombat 113
+end
+
+
+
+start
+tl 2
+Lazar Rifle
+req dex 2
+req riflecombat 5
+graphic desperado
+end
+
+
+
+start
+tl 104
+LIBRA
+req dex 104
+req riflecombat 117
+graphic libra
+end
+
+
+
+start
+tl 6
+Mendicant Rifle
+req dex 6
+req riflecombat 15
+graphic paineaser
+end
+
+
+
+start
+tl 93
+PAIN EASER
+req dex 93
+req riflecombat 111
+graphic paineaser
+end
+
+
+
+start
+tl 70
+Plasma Rifle
+req dex 70
+req riflecombat 100
+req techcombat 68
+graphic fl
+end
+
+
+
+start
+tl 75
+Prototype Tangent-Laserbeam-Rifle
+req dex 75
+req riflecombat 102
+req techcombat 71
+graphic disruptor
+end
+
+
+
+start
+tl 9
+Pumpgun
+req dex 9
+req riflecombat 22
+graphic termi
+end
+
+
+
+start
+tl 76
+R-AS331 Raygun
+req dex 76
+req riflecombat 103
+req techcombat 72
+graphic rog
+end
+
+
+
+start
+tl 98
+RAY OF GOD
+req dex 98
+req riflecombat 114
+req techcombat 82
+graphic rog
+end
+
+
+
+start
+tl 88
+Raygun 'Yagers Gaze'
+req dex 88
+req riflecombat 109
+req techcombat 78
+graphic rog
+end
+
+
+
+start
+tl 105
+REDEEMER
+req dex 105
+req riflecombat 117
+req techcombat 85
+graphic redeemer
+end
+
+
+
+start
+tl 67
+Ryker Laser Rifle LDR-872
+req dex 67
+req riflecombat 97
+req techcombat 66
+graphic disruptor
+end
+
+
+
+start
+tl 98
+S.W.A.T. Assault Rifle
+req wocdex 1
+req riflecombat 104
+req dex 98
+graphic swatgun
+end
+
+
+
+start
+tl 4
+Secured Sniper Rifle
+req riflecombat 30
+graphic sh
+end
+
+
+
+start
+tl 111
+SILENT HUNTER
+req dex 111
+req riflecombat 120
+req techcombat 87
+graphic sh
+end
+
+
+
+start
+tl 10
+Sniper Rifle
+req riflecombat 40
+graphic sh
+end
+
+
+
+start
+tl 5
+Standard Street Model Rifle
+req dex 5
+req riflecombat 12
+graphic desperado
+end
+
+
+
+start
+tl 35
+Tangent 'Enforcer' Pumpgun
+req dex 35
+req riflecombat 68
+graphic termi
+end
+
+
+
+start
+tl 85
+Tangent 'Lightbringer 2' FR-345
+req dex 85
+req riflecombat 107
+req techcombat 77
+graphic redeemer
+end
+
+
+
+start
+tl 56
+Tangent 'Lightbringer' FR-118
+req dex 56
+req riflecombat 88
+req techcombat 60
+graphic redeemer
+end
+
+
+
+start
+tl 79
+Tangent 'Commando' Sniper Rifle
+req dex 79
+req riflecombat 104
+req techcombat 74
+graphic sh
+end
+
+
+
+start
+tl 81
+Tangent 'Stabber' Pulselaser Rifle
+req dex 81
+req riflecombat 105
+req techcombat 75
+graphic disruptor
+end
+
+
+
+start
+tl 26
+Tangent 'Substandard' Pulselaser Rifle
+req dex 26
+req riflecombat 57
+req techcombat 32
+graphic disruptor
+end
+
+
+
+start
+tl 48
+Tangent 'Sureshot' Laser Rifle
+req dex 48
+req riflecombat 81
+req techcombat 55
+graphic disruptor
+end
+
+
+
+start
+tl 17
+Tangent B1 Rifle
+req dex 17
+req riflecombat 42
+req techcombat 21
+graphic sh
+end
+
+
+
+start
+tl 52
+Tangent Pulselaser Rifle
+req dex 52
+req riflecombat 85
+req techcombat 57
+graphic disruptor
+end
+
+
+
+start
+tl 38
+Tangent Sniper Rifle
+req dex 38
+req riflecombat 72
+req techcombat 47
+graphic sh
+end
+
+
+
+start
+tl 87
+TERMINATOR
+req dex 87
+req riflecombat 108
+graphic termi
+end
+
+
+
+start
+tl 88
+TG RayGun Rifle
+req dex 88
+req riflecombat 109
+req techcombat 78
+graphic rog
+end
+
+
+
+start
+tl 101
+THUNDERSTORM
+req dex 101
+req riflecombat 115
+req techcombat 83
+graphic thunderstorm
+end
+
+
+
+start
+tl 75
+Tsunami Assault Rifle TSU-3265
+req dex 75
+req riflecombat 102
+graphic paineaser
+end
+
+
+
+start
+tl 17
+Unlabeled 'Slowfire' Rifle
+req dex 17
+req riflecombat 42
+req techcombat 21
+graphic disruptor
+end
+
+
+
+start
+tl 38
+Unlabeled Gatlin Rifle
+req dex 38
+req riflecombat 72
+graphic libra
+end
+
+
+
+start
+tl 57
+Unregistered 'Black Market' Assault Rifle
+req dex 57
+req riflecombat 89
+graphic paineaser
+end
+
+
+
+start
+tl 65
+Unregistered 'Black Market' Pumpgun
+req dex 65
+req riflecombat 95
+graphic termi
+end
+
+
+
+start
+tl 78
+Unregistered 'Black Market' RF-102 Rifle
+req dex 78
+req riflecombat 104
+graphic paineaser
+end
+
+
+

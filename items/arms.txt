@@ -1,0 +1,38 @@
+start
+Biotech Antigamma Arm
+graphic agarm
+req str 25
++ xray 7.20
++ meleecombat 4.80
+end
+
+start
+Experimental Arm
+graphic exparm
+req str 46
++ force 11.23
++ meleecombat 7.49
+end
+
+start
+Arm
+req str 6
++ force 3.55
++ meleecombat 2.37
+end
+
+start
+Advanced Arm
+graphic adarm
+req str 26
++ force 7.39
++ meleecombat 4.93
+end
+
+start
+Bat Queen Arm
+graphic bqarm
+req str 75
++ force 16.80
++ meleecombat 11.20
+end

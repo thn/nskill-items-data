@@ -1,0 +1,920 @@
+start
+Law Enforcer
++ Enforced Law 1
+end
+
+start
+Crahn PSI Controller v.0.1
+req psi 4
+graphic psiimp
++ psi 1.00
++ psipower 3.96
+- int 1.00
+- weapon-lore 1.39
+end
+
+start
+Experience Melee Memory v.0.0.1 Beta
+req str 5
++ meleecombat 5.60
+- pistolcombat 1.00
+- riflecombat 1.00
+- techcombat 1.00
+end
+
+start
+Targetingcomputer v.0.0.1
+req dex 6
++ techcombat 3.55
++ weaponlore 2.37
+- meleecombat 1.95
+end
+
+start
+Close Combat CPU v.0.1
+req dex 7
++ pistolcombat 3.74
++ techcombat 1.25
++ weaponlore 1.25
+- riflecombat 1.03
+- heavycombat 1.03
+end
+
+start
+Crahn Defence Field v.0.1
+req psi 8
+graphic psiimp
++ psiresist 6.56
+- int 1.00
+- hacking 1.30
+end
+
+start
+Neural Advancement v.0.1
+req int 9
++ int 1.44
+end
+
+start
+Long Distance CPU v.0.1
+req dex 10
++ riflecombat 4.32
++ techcombat 1.44
++ weaponlore 1.44
+- pistol combat 1.19
+- meleecombat 1.19
+end
+
+start
+Drone Distance Interface v.1.1
+req dex 10
++ dex 1.00
++ willpower 5.40
+- int 1.00
+- weeaponlore 1.90
+end
+
+start
+Persistence Advancement CPU V.0.1
+req con 10
++ con 1.60
+end
+
+start
+Coordination Advancement v.0.1
+req dex 11
++ dex 1.76
+end
+
+start
+Crahn PSI-Resistor v.0.1
+req psi 11
+graphic psiimp
++ psiresist 7.84
+- int 1.00
+- psipower 1.55
+end
+
+start
+Crahn PSI Experience Memory Alpha 1
+req psi 12
+graphic psiimp
++ psi 1.92
+end
+
+start
+Enhanced Physics CPU v.0.1
+req str 13
++str 2.24
+end
+
+start
+Crahn PSI Aggressor CPU v.1.1
+req psi 16
+graphic psiimp
++ psi 1.00
++ apu 3.65
++ psipower 1.20
+- ppu 3.01
+end
+
+start
+Synapse Soldier Mod S-11
+req str 16
++ str 1.00
++ heavycombat 7.30
+- meleecombat 1.50
+- athletics 1.50
+end
+
+start
+Experience Memory Barter CPU V0.01 5.60 barter
+req int 1
+req barter 15
++barter 5.60
+end
+
+start
+Crahn PSI Defender CPU v.1.1
+req psi 17
+graphic psiimp
++ psi 1.00
++ ppu 3.78
++ psipower 3.78
+- apu 3.12
+end
+
+start
+Synapse Beserk Mod X-11
+req str 18
++ str 1.00
++ meleecombat 7.81
+- heavycombat 1.61
+- endurance 1.61
+end
+
+start
+Construction Coordinator v.1.0
+req int 19
++ int 1.01
++ construction 8.06
+- repair 1.66
+- recycle 1.66
+end
+
+start
+Balance Advancer v.1.0.1
+req dex 19
++ dex 1.01
++ agility 8.06
+- con 1.00
+- athletics 2.66
+end
+
+start
+Neural Advancement v.0.2
+req int 20
++ int 3.20
+end
+
+start
+Persistance Advancement CPU v.0.2
+req con 21
++ con 3.35
+end
+
+start
+Advanced Movement Controller v.1.1
+req con 21
++ con 1.07
++ athletics 4.29
++ endurance 4.29
+- dex 1.00
+- agility 2.83
+end
+
+start
+Coordination Advancement v.0.2
+req dex 20
++ dex 3.52
+end
+
+start
+Vehicle Interface v.1.1
+req dex 23
++ dex 1.13
++ vehicleuse 9.09
+- con 1.00
+- athletics 3.00
+end
+
+start
+Hacking Accelerator v.1.1
+req int 23
++ int 1.13
++ hacking 9.09
+- psi 1.00
+- focussing 3.00
+end
+
+start
+Mindcontrol CPU v.1.1
+req dex 23
++ dex 1.13
++ remotecontrol 6.82
++ willpower 2.27
+- endurance 1.87
+- health 1.87
+end
+
+start
+Crahn PSI Experience Memory Alpha 2
+req psi 22
+graphic psiimp
++ psi 3.68
+end
+
+start
+Enhanced Physics CPU v.0.2
+req str 24
++ str 3.84
+end
+
+start
+Enhanced Physics CPU v.0.3
+req str 32
++ str 5.12
+end
+
+start
+Experimental Crahn PSI controller v.1.0.1
+req psi 25
+graphic psiimp
++ psi 1.20
++ psiuse 4.80
++ focussing 4.80
+- techcombat 1.98
+- weaponlore 1.98
+end
+
+start
+Experimental Mindcontrol CPU v.2.1
+req dex 25
++ dex 1.20
++ remotecontrol 6.00
++ willpower 2.40
+- vehicleuse 1.58
+- weaponlore 2.38
+end
+
+start
+Neural Advancement v.0.3
+req int 28
++ int 4.48
+end
+
+start
+Crahn PSI Controller v.0.2
+req psi 29
+graphic psiimp
++ psi 1.66
++ psiuse 9.96
+- int 1.00
+- weaponlore 3.50
+end
+
+start
+Experience Melee Memory v.0.22 Beta
+req str 30
++ meleecombat 13.80
+- pistolcombat 1.61
+- riflecombat 1.61
+- techcombat 1.61
+end
+
+start
+Coordination Advancement v.0.3
+req dex 29
++ dex 4.80
+end
+
+start
+Experimental Ballistic Chip v.2.1
+req dex 31
++ techcombat 5.57
++ weaponlore 8.35
+- meleecombat 2.76
+- remotecontrol 1.84
+end
+
+start
+Balance Advancer v.1.0.2
+req dex 32
++ dex 1.42
++ agility 11.39
+- con 1.00
+- athletics 3.76
+end
+
+start
+Crahn Defence Field v.0.2
+req psi 33
+graphic psiimp
++ psiresist 14.56
+- int 1.00
+- hacking 2.88
+end
+
+start
+Targetingcomputer v.0.02
+req dex 33
++ techcombat 8.74
++ weaponlore 5.82
+- meleecombat 4.80
+end
+
+start
+Close Combat CPU v.0.2
+req dex 34
++ pistolcombat 8.93
++ techcombat 2.98
++ weaponlore 2.98
+- riflecombat 2.46
+- heavycombat 2.46
+end
+
+start
+Crahn PSI Experience Memory Alpha 3
+req psi 34
+graphic psiimp
++ psi 4.96
+end
+
+start
+Crahn PSI Resistor Chip v.0.2
+req psi 37
+graphic psiimp
++ psiresist 15.84
+- int 1.00
+- psiuse 3.14
+end
+
+start
+Long Distance CPU v.0.2
+req dex 37
++ riflecombat 9.50
++ techcombat 3.17
++ weaponlore 3.17
+- pistolcombat 2.61
+- meleecombat 2.61
+end
+
+start
+Drone Distance Interface v.1.2
+req dex 37
++ dex 1.98
++ willpower 11.88
+- int 1.00
+- weaponlore 4.18
+end
+
+start
+Crahn PSI Aggressor CPU v.1.2
+req psi 41
+graphic psiimp
++ psi 1.71
++ apu 6.85
++ psiuse 2.26
+- ppu 5.65
+end
+
+start
+Synapse Soldier Mod S-12
+req str 41
++ str 1.71
++ heavycombat 13.70
+- meleecombat 2.82
+- athletics 2.82
+end
+
+start
+Synapse Soldier Mod S-13
+req str 66
++ str 2.51
++ heavycombat 20.10
+- meleecombat 4.14
+- athletics 4.14
+end
+
+start
+Construction Cooridinator v.2.0
+req int 46
++ int 1.87
++ construction 14.98
++ repair 3.09
++ recycle 3.09
+end
+
+start
+Advanced Movement Controller v.1.2
+req con 47
++ con 1.90
++ athletics 7.62
++ endurance 7.62
+- dex 1.00
+- agility 5.03
+end
+
+start
+Vehicle Interface v.1.2
+req dex 49
++ dex 1.97
++ vehicleuse 15.74
+- con 1.00
+- athletics 5.19
+end
+
+start
+Experimental Crahn PSI Controller v.1.0.2
+req psi 50
+graphic psiimp
++ psi 2.00
++ psiuse 8.00
++ focussing 8.00
+- techcombat 3.30
+- weaponlore 3.30
+end
+
+start
+Hacking Accelerator v.1.2
+req int 50
++ int 2.00
++ hacking 16.00
+- psi 1.00
+- focussing 5.28
+end
+
+start
+Mindcontrol CPU v.1.2
+req dex 50
++ dex 2.00
++ remotecontrol 12.00
++ willpower 4.00
+- endurance 3.30
+- health 3.30
+end
+
+start
+Crahn PSI Controller v.0.3
+req psi 54
+graphic psiimp
++ psi 2.66
++ psiuse 15.96
+- int 1.00
+- weaponlore 5.62
+end
+
+start
+Experimental Mindcontrol CPU v.2.2
+req dex 54
++ dex 2.13
++ remotecontrol 12.77
++ willpower 4.26
+- vehicleuse 2.81
+- weaponlore 4.21
+end
+
+start
+Experience Melee Memory v.0.0.3 Beta
+req str 55
++ meleecombat 21.60
+- pistolcombat 2.35
+- riflecombat 2.35
+- techcombat 2.35
+end
+
+start
+Balance Advancer v.1.03
+req dex 58
++ dex 2.26
++ agility 18.05
+- con 1.00
+- athletics 5.96
+end
+
+start
+Crahn Defence Field v.0.3
+req psi 58
+graphic psiimp
++ psiresist 22.56
+- int 1.49
+- hacking 4.47
+end
+
+start
+Targetingcomputer v.0.0.3
+req dex 61
++ techcombat 14.11
++ weaponlore 9.41
+- meleecombat 7.76
+end
+
+start
+Experimental Ballistic Chip v.2.2
+req dex 62
++ techcombat 9.41
++ weaponlore 14.11
+- meleecombat 4.66
+- remotecontrol 3.11
+end
+
+start
+Vehicle Interface v.1.3
+req dex 62
++ dex 2.38
++ vehicleuse 19.07
+- con 1.00
+- athletics 6.29
+end
+
+start
+Crahn PSI Resistor v.0.3
+req psi 62
+graphic psiimp
++ psiresist 23.84
+- int 1.58
+- psiuse 4.72
+end
+
+start
+Drone Distance Interface v.1.3
+req dex 65
++ dex 3.10
++ willpower 18.60
+- int 1.00
+- weaponlore 6.55
+end
+
+start
+Long Distance CPU v.0.3
+req dex 65
++ riflecombat 14.88
++ techcombat 4.96
++ weaponlore 4.96
+end
+
+start
+Crahn PSI Aggressor CPU v.1.3
+req psi 66
+graphic psiimp
++ psi 2.51
++ apu 10.05
++ psiuse 3.32
+- ppu 8.29
+end
+
+start
+Crahn PSI Defender CPU v.1.3
+req psi 67
+graphic psiimp
++ psi 2.55
++ ppu 10.18
++ psiuse 10.18
+- apu 8.40
+end
+
+start
+Synapse Beserk Mod X-13
+req str 68
++ str 2.58
++ meleecombat 20.61
+- heavycombat 4.25
+- endurance 4.25
+end
+
+start
+Synapse Beserk Mod X-12
+req str 43
++ str 1.77
++ meleecombat 14.21
+- heavycombat 2.93
+- endurance 2.93
+end
+
+start
+Advanced Movement Controller v.1.3
+req con 70
++ con 2.64
++ athletic 10.56
++ endurance 10.56
+- dex 1.00
+- agility 6.97
+end
+
+start
+Construction Cooridinator v.3.0
+req int 74
++ int 2.77
++ construction 22.14
+- repair 4.57
+- recycle 4.57
+end
+
+start
+Experimental Crahn PSI Controller v.1.0.3
+req psi 75
+graphic psiimp
++ psi 2.80
++ psiuse 11.20
++ focussing 11.20
+- techcombat 4.62
+- weaponlore 4.62
+end
+
+start
+Experimental Mindcontrol CPU v.2.3
+req dex 76
++ dex 2.83
++ remotecontrol 16.99
++ willpower 5.66
+- vehicleuse 3.74
+- wepaonlore 5.61
+end
+
+start
+Hacking Accelerator v.1.3
+req int 78
++ int 2.89
++ hacking 23.17
+- psi 1.00
+- focussing 7.65
+end
+
+start
+Mindcontrol CPU v.1.3
+req dex 78
++ dex 2.89
++ remotecontrol 17.38
++ willpower 5.79
+- endurance 4.78
+- health 4.78
+end
+
+start
+Experimental Ballistic Chip v.2.3
+req dex 79
++ techcombat 11.71
++ weaponlore 17.57
+- meleecombat 5.80
+- remotecontrol 3.86
+end
+
+start
+Marine's CPU
+graphic sm
+req str 81
++ str 1.90
++ transport 15.21
++ force 9.51
++ piercing 9.51
+- int 1.00
+- hacking 5.02
+end
+
+start
+Special Rigger Interface
+graphic sri
+req dex 81
++ dex 3.80
++ remotecontrol 15.21
++ willpower 15.21
+- health 2.51
+- int 3.77
+end
+
+start
+T-Haven CPU
+graphic th
+req int 35
++ repair 9.91
++ recycle 9.91
++ research 9.91
++ construction 9.91
+- techcombat 3.27
+- weaponlore 3.27
+end
+
+start
+Protopharm Resistor Chip
+graphic ppr
+req con 35
++ energy 15.86
++ xray 11.89
++ poison 11.89
+end
+
+start
+Biotech M.O.V.E.O.N CPU
+graphic moveon
+req con 35
++ con 3.96
++ endurance 15.86
++ health 7.93
++ transport 7.93
+end
+
+start
+NCPD Special Unit CPU
+graphic ncpd
+req con 35
++ poison 7.48
++ energy 14.96
++ xray 7.48
+- dex 1
+- agility 2.96
+end
+
+start
+Freedom Fighter CPU
+graphic ff
+req con 35
++ fire 7.48
++ poison 14.96
++ piercing 7.48
+- dex 1
+- agility 2.96
+end
+
+start
+Crahn Combat Core CPU
+req psi 82
+graphic ccc
++ psi 3.85
++ psiuse 15.38
++ apu 7.69
++ focussing 7.69
+- ppu 6.34
+end
+
+start
+Special Forces CPU
+graphic sf
+req dex 83
++ dex 3.88
++ riflecombat 15.54
++ techcombat 15.54
+- str 1.00
+- meleecombat 5.13
+end
+
+start
+Special Science CPU
+graphic ss
+req int 84
++ int 3.93
++ construction 7.86
++ research 7.86
++ transport 15.71
+- con 1.29
+- endurance 3.89
+end
+
+start
+Crahn Support Core CPU
+req psi 85
+graphic csc
++ psi 3.97
++ psiuse 15.88
++ ppu 7.94
++ focussing 7.94
+- apu 6.55
+end
+
+start
+Special SWAT Processor
+graphic swat
+req dex 85
++ dex 3.88
++ pistolcombat 15.54
++ techcombat 15.54
+- str 1.00
+- heavycombat 5.13
+end
+
+start
+Area MC5 Hercules CPU
+graphic mc5herc
+req str 95
++ str 5.23
++ meleecombat 10.46
++ piercing 10.46
++ athletics 10.46
++ health 10.46
+- pistolcombat 4.32
+- riflecombat 4.32
+end
+
+start
+Area MC5 Hawking CPU
+graphic mc5hwk
+req int 95
++ int 5.23
++ hacking 20.92
++ construction 10.46
++ research 10.46
+- dex 1.73
+- agility 5.18
+end
+
+start
+Area MC5 Close Combat Projector
+graphic mc5ccp
+req dex 95
++ dex 5.23
++ pistolcombat 20.92
++ techcombat 10.46
++ weaponlore 10.46
+- psiuse 4.32
+- focussing 4.32
+http://www.techhaven.org/db/popup/1764.html
+end
+
+start
+Area MC5 Distance Projector
+graphic mc5dip
+req dex 95
++ dex 5.23
++ riflecombat 20.92
++ techcombat 10.46
++ weaponlore 10.46
+- psiuse 4.32
+- focussing 4.32
+end
+
+start
+Area MC5 Dimension Splitter
+graphic mc5ds
+req psi 95
++ psi 5.23
++ psiuse 20.92
++ focussing 10.46
++ psipower 10.46
+- int 1.73
+end
+
+start
+Area MC5 Ballistic CPU
+graphic mc5ball
+req str 100
++ str 5.23
++ heavycombat 10.46
++ transport 10.46
++ endurance 10.46
++ health 10.46
+- dex 1.73
+- weaponlore 5.19
+end
+
+start
+Area MC5 Riggers Dream
+graphic mc5rd
+req dex 100
++ dex 5.23
++ int 1
++ techcombat 10.46
++ remotecontrol 20.92
++ willpower 10.46
+- con 1.73
+- endurance 5.18
+end
+
+start
+Close Combat CPU v.0.3
+req dex 65
++ pistolcombat 14.88
++ techcombat 4.96
++ weaponlore 4.96
+- riflecombat 4.09
+- heavycombat 4.09
+end
+
+start
+Advanced Tactical Mercenary CPU
+graphic atm
+TL 81
+REQ Con 35
++FORCE 14.96
++FIRE 7.48
++POISON 7.48
+-DEX 1.00
+-AGL 2.96
+end
+
+start
+Crahn PSI Defender CPU v.1.2
+req psi 42
++ psi 1.75
++ psiuse 6.98
++ ppu 6.98 
+- apu 5.76
+end

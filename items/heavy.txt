@@ -1,0 +1,731 @@
+start
+tl 70
+'Cleansing' Flamethrower
+graphic dev
+id 5428
+req str 70
+req heavycombat 100
+end
+
+
+
+start
+tl 34
+'Defender' Rocket Launcher
+graphic moonie
+id 544
+req str 34
+req heavycombat 67
+end
+
+
+
+start
+tl 90
+'Special' RC-13 RayGun Cannon
+graphic doombeamer
+id 5423
+req str 90
+req heavycombat 110
+req techcombat 79
+end
+
+
+
+start
+tl 63
+A&W 'Burning Air' Plasma Wave
+graphic cs
+id 54
+req str 63
+req heavycombat 94
+req techcombat 64
+end
+
+
+
+start
+tl 93
+Advanced Anti Air Rocket Launcher
+graphic moonie
+id 54357
+req str 93
+req heavycombat 111
+req techcombat 80
+end
+
+
+
+start
+tl 98
+Advanced Anti Vehicle Rocket Launcher
+graphic moonie
+id 54352
+req str 89
+req heavycombat 109
+end
+
+
+
+start
+tl 72
+Anti Air Rocket Launcher
+graphic moonie
+id 54356
+req str 72
+req heavycombat 101
+req techcombat 70
+end
+
+
+
+start
+tl 64
+Anti Vehicle Rocket Launcher
+graphic moonie
+id 54351
+req str 64
+req heavycombat 95
+end
+
+
+
+start
+tl 49
+Basic Anti Air Rocket Launcher
+graphic moonie
+id 54355
+req str 49
+req heavycombat 82
+req techcombat 55
+end
+
+
+
+start
+tl 42
+Basic Anti Vehicle Rocket Launcher
+graphic moonie
+id 54350
+req str 42
+req heavycombat 76
+end
+
+
+
+start
+tl 114
+CREED
+graphic creed
+id 546
+req str 114
+req heavycombat 122
+req techcombat 89
+end
+
+
+
+start
+tl 105
+CURSED SOUL
+graphic cs
+id 540
+req str 105
+req heavycombat 117
+req techcombat 85
+end
+
+
+
+start
+tl 108
+DEVOURER
+graphic dev
+id 544
+req str 108
+req heavycombat 119
+end
+
+
+
+start
+tl 112
+DOOM BEAMER
+graphic doombeamer
+id 543
+req str 112
+req heavycombat 121
+req techcombat 88
+end
+
+
+
+start
+tl 65
+Enhanced Freezer Cannon
+graphic summer
+id 5410
+req str 65
+req heavycombat 95
+req techcombat 65
+end
+
+
+
+start
+tl 81
+Enhanced Gatlin Cannon
+graphic eof
+id 5409
+req str 81
+req heavycombat 105
+end
+
+
+
+start
+tl 102
+EQUILIBRIUM OF FORCES
+graphic eof
+id 54
+req str 102
+req heavycombat 116
+end
+
+
+
+start
+tl 10
+F12 Flamer
+graphic dev
+id 5420
+req str 10
+req heavycombat 25
+end
+
+
+
+start
+tl 46
+F24 Flamer
+graphic dev
+id 54
+req str 46
+req heavycombat 80
+end
+
+
+
+start
+tl 98
+F24.88 Flamethrower
+graphic dev
+id 547
+req str 92
+req heavycombat 111
+end
+
+
+
+start
+tl 44
+Freezer Cannon
+graphic summer
+id 5432
+req str 44
+req heavycombat 78
+req techcombat 52
+end
+
+
+
+start
+tl 75
+Fusion Cannon
+graphic mal
+id 54
+req str 75
+req heavycombat 102
+req techcombat 71
+end
+
+
+
+start
+tl 63
+Gatlin Cannon
+graphic eof
+id 540
+req str 63
+req heavycombat 94
+end
+
+
+
+start
+tl 23
+Grenade Launcher
+graphic grenade
+id 541
+req str 23
+req heavycombat 53
+end
+
+
+
+start
+tl 31
+Hand Grenade
+graphic freedom
+id 542
+req str 31
+req heavycombat 63
+end
+
+
+
+start
+tl 61
+HEW 'Burner' RC275
+id 545
+req str 61
+req heavycombat 92
+req techcombat 63
+end
+
+
+
+start
+tl 40
+HEW 'Slipstream' Plasma Wave
+graphic cs
+id 545
+req str 40
+req heavycombat 75
+req techcombat 50
+end
+
+
+
+start
+tl 100
+Ionic Shotgun Cannon
+graphic ioncannon
+id 544
+req str 100
+req heavycombat 115
+end
+
+
+
+start
+tl 90
+Judgement Day Launcher
+id 5400
+req str 90
+req heavycombat 110
+end
+
+
+
+start
+tl 50
+Laser Cannon
+graphic creed
+id 5430
+req str 50
+req heavycombat 83
+req techcombat 56
+end
+
+
+
+start
+tl 107
+MALEDICTION
+graphic mal
+id 541
+req str 107
+req heavycombat 118
+req techcombat 86
+end
+
+
+
+start
+tl 115
+MIRL-600 Warhammer
+graphic moonie
+id 54020
+req woc strength 1
+req heavycombat 123
+req str 115
+end
+
+
+
+start
+tl 110
+MOON STRIKER
+graphic moonie
+id 542
+req str 110
+req heavycombat 120
+end
+
+
+
+start
+tl 87
+NCPD 'TriDe' Fusion Cannon
+graphic mal
+id 5403
+req str 87
+req heavycombat 108
+req techcombat 77
+end
+
+
+
+start
+tl 72
+Plasma Cannon
+graphic cs
+id 5433
+req str 72
+req heavycombat 101
+req techcombat 70
+end
+
+
+
+start
+tl 75
+Prototype Tangent-Laserbeam-Cannon
+graphic creed
+id 54
+req str 75
+req heavycombat 102
+req techcombat 71
+end
+
+
+
+start
+tl 100
+RAVAGER
+graphic creed
+id 545
+req str 100
+req heavycombat 115
+req techcombat 83
+end
+
+
+
+start
+tl 78
+RayGun Cannon
+graphic doombeamer
+id 5424
+req str 78
+req heavycombat 104
+req techcombat 73
+end
+
+
+
+start
+tl 48
+Rocket Launcher
+graphic moonie
+id 54
+req str 48
+req heavycombat 81
+end
+
+
+
+start
+tl 69
+Ryker Laser Cannon
+graphic creed
+id 5408
+req str 69
+req heavycombat 99
+req techcombat 68
+end
+
+
+
+start
+tl 67
+Ryker Rocket Launcher
+graphic moonie
+id 5404
+req str 67
+req heavycombat 97
+end
+
+
+
+start
+tl 76
+Ryker 'Vulcano' Grenade Launcher
+graphic grenade
+id 549
+req str 76
+req heavycombat 103
+end
+
+
+
+start
+tl 90
+S.T.O.R.M. Laser
+graphic creed
+id 5400
+req str 90
+req heavycombat 110
+req techcombat 79
+end
+
+
+
+start
+tl 24
+Self-Constructed 'Spraycan' Flamer
+graphic dev
+id 540
+req str 24
+req heavycombat 55
+end
+
+
+
+start
+tl 5
+Self-Constructed Trash Grenade
+id 545
+req str 5
+req heavycombat 12
+end
+
+
+
+start
+tl 110
+Special Forces Plasma Wave
+graphic cs
+id 546
+req str 110
+req heavycombat 120
+req techcombat 87
+end
+
+
+
+start
+tl 115
+Special Raygun Cannon
+graphic doombeamer
+id 54
+req str 115
+req heavycombat 122
+req techcombat 89
+end
+
+
+
+start
+tl 3
+Street Model Grenade Launcher
+graphic grenade
+id 54
+req str 3
+req heavycombat 7
+end
+
+
+
+start
+tl 97
+SUMMER LEECH
+graphic summer
+id 54
+req str 97
+req heavycombat 113
+req techcombat 82
+end
+
+
+
+start
+tl 42
+Tangent GL-253c Launcher
+id 5406
+req str 42
+req heavycombat 76
+end
+
+
+
+start
+tl 52
+Tangent Hand Grenade
+graphic freedom
+id 541
+req str 52
+req heavycombat 85
+end
+
+
+
+start
+tl 84
+Tangent Plasma Cannon
+graphic cs
+id 5411
+req str 84
+req heavycombat 107
+req techcombat 76
+end
+
+
+
+start
+tl 81
+Tangent Plasma Wave
+graphic cs
+id 545
+req str 81
+req heavycombat 105
+req techcombat 75
+end
+
+
+
+start
+tl 75
+Tangent Speed Gun
+graphic eof
+id 540
+req str 75
+req heavycombat 102
+end
+
+
+
+start
+tl 90
+TG RayGun Cannon
+graphic doombeamer
+id 54
+req str 90
+req heavycombat 110
+req techcombat 79
+end
+
+
+
+start
+tl 75
+TG-275 'Freedom Strike'
+graphic freedom
+id 544
+req str 75
+req heavycombat 102
+end
+
+
+
+start
+tl 21
+Trash Hand Grenade
+graphic freedom
+id 543
+req str 21
+req heavycombat 51
+end
+
+
+
+start
+tl 58
+Unlabeled 'Atomsmelt' Cannon
+id 543
+req str 58
+req heavycombat 90
+req techcombat 61
+end
+
+
+
+start
+tl 28
+Unlabeled Freezer Cannon
+graphic summer
+id 540
+req str 28
+req heavycombat 60
+req techcombat 35
+end
+
+
+
+start
+tl 40
+Unlabeled Gatlin Cannon
+graphic eof
+id 54
+req str 40
+req heavycombat 75
+end
+
+
+
+start
+tl 16
+Unlabeled Hand Grenade
+graphic freedom
+id 544
+req str 16
+req heavycombat 40
+end
+
+
+
+start
+tl 19
+Unlabeled Laser Cannon
+graphic creed
+id 54
+req str 19
+req heavycombat 47
+req techcombat 23
+end
+
+
+
+start
+tl 55
+Unlabeled Plasma Cannon
+graphic cs
+id 541
+req str 55
+req heavycombat 87
+req techcombat 59
+end
+
+
+
+start
+tl 92
+WINDING ARGUMENT
+id 545
+req str 92
+req heavycombat 111
+end
+
+
+

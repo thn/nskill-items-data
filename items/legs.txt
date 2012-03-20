@@ -1,0 +1,30 @@
+start
+Biotech Antigamma Leg
+graphic agleg
+req str 31
++ xray 8.35
++ transport 5.57
+end
+
+start
+Experimental Leg
+graphic expleg
+req str 52
++ force 12.38
++ transport 8.26
+end
+
+start
+Leg
+req str 12
++ force 4.70
++ transport 3.14
+end
+
+start
+Advanced Leg
+graphic adleg
+req str 32
++ force 8.54
++ transport 5.70
+end

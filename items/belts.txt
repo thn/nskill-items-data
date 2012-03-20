@@ -1,0 +1,284 @@
+start
+Light Kevlar Belt
+req str 7
++ force 14
++ piercing 8
++ fire 11
++ poison 23
+end
+
+start
+Medium Kevlar Belt
+req str 19
++ force 11
++ piercing 11
++ fire 15
++ poison 31
+end
+
+start
+Heavy Kevlar Belt
+req str 31
++ force 24
++ piercing 14
++ fire 19
++ poison 39
+end
+
+
+start
+Battle Belt Prototype
+req str 16
++ force 44
++ piecring 29
+end
+
+start
+Usual Battle Belt
+req str 26
++ force 54
++ piercing 36
+end
+
+start
+Shabby Carbon Belt
+req str 44
++ force 47
++ piercing 59
++ poison 11
+end
+
+start
+Good Carbon Belt
+req str 52
++ force 53
++ piercing 66
++ poison 13
+end
+
+start
+Bad Duranium Belt
+req str 65
++ force 61
++ piercing 41
++ energy 46
+end
+
+start
+Duranium Belt
+req str 75
++ force 67
++ piercing 50
++ energy 50
+end
+
+start
+Unhallowed Inquisition Belt
+req str 44
++ force 29
++ piercing 29
++ fire 59
+end
+
+start
+Inquisition belt
+req str 52
++ force 33
++ piercing 33
++ fire 66
+end
+
+start
+Medium Poison Protection Belt
+req int 65
++ force 42
++ poison 98
+end
+
+start
+Light Energyfield Belt
+req int 5
++ force 11
++ fire 11
++ energy 23
++ xray 11
+end
+
+start
+Medium Energyfield Belt
+req int 14
++ force 13
++ fire 13
++ energy 27
++ xray 13
+end
+
+start
+Heavy Energyfield Belt
+req int 21
++ force 15
++ fire 15
++ energy 31
++ xray 15
+end
+
+start
+Light Deflector Belt
+req int 48
++ force 81
++ piercing 34
+end
+
+start
+Medium Deflector Belt
+req int 68
++ force 101
++ piercing 43
+end
+
+start
+Light Energy Protection Belt
+req int 44
++ force 33
++ energy 77
+end
+
+start
+Medium Energy Protection Belt
+req int 64
++ force 41
++ energy 97
+end
+
+start
+Light Fire Protection Belt
+req int 41
++ force 31
++ fire 74
+end
+
+start
+Medium Fire Protection Belt
+req int 61
++ force 40
++ fire 94
+end
+
+start
+Light Poison Protection Belt
+req int 45
++ force 33
++ poison 78
+end
+
+start
+Great Carbon Belt
+req str 60
++ force 58
++ piercing 72
++ poison 14
+end
+
+start
+Outstanding Carbon belt
+req str 70
++ force 64
++ piercing 80
++ poison 16
+end
+
+start
+Advanced Duranium Belt
+req str 80
++ force 71
++ piercing 53
++ energy 53
+end
+
+start
+High Density Duranium
+req str 85
++ force 74
++ piercing 55
++ energy 55
+end
+
+start
+Holy Inquisition Belt
+req str 60
++ force 36
++ piercing 36
++ fire 72
+end
+
+start
+Gods Wish' Inquisition Belt
+req str 72
++ force 41
++ piercing 41
++ fire 82
+end
+
+start
+Heavy Deflector Belt
+req int 88
++ force 121
++ piercing 52
+end
+
+start
+Heavy Energy Protection Belt
+req int 84
++ force 50
++ energy 117
+end
+
+start
+Heavy Fire Protection Belt
+req int 81
++ force 49
++ fire 114
+end
+
+start
+Heavy Poison Protection Belt
+req int 85
++ force 50
++ poison 118
+end
+
+start
+Crahn Shelter Belt
+req psi 12
++ force 12
++ piercing 12
++ fire 12
++ energy 35
+end
+
+start
+Crahn Blessed Shelter Belt
+req psi 34
++ force 18
++ piercing 18
++ fire 18
++ energy 37
+end
+
+start
+Crahn Spirit Belt
+req psi 58
++ force 25
++ piercing 25
++ xray 25
++ energy 50
+end
+
+start
+Crahn Blessed Spirit Belt
+req psi 84
++ force 32
++ piercing 32
++ xray 32
++ energy 65
+end

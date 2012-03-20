@@ -1,0 +1,496 @@
+start
+tl 61
+a&w advanced assault drone ga-2
+req dex 61
+req willpower 63
+req remotecontrol 92
+end
+
+
+start
+tl 3
+a&w basic lightweight attack drone
+req dex 3
+req willpower 3
+req remotecontrol 7
+end
+
+
+start
+tl 37
+a&w heavy assault drone ga-1
+req dex 37
+req willpower 46
+req remotecontrol 71
+end
+
+
+start
+tl 88
+a&w hellfire assault drone ga-3
+req dex 88
+req willpower 78
+req remotecontrol 109
+end
+
+
+start
+tl 10
+a&w light assault drone pi-1
+req dex 10
+req willpower 12
+req remotecontrol 25
+end
+
+
+start
+tl 6
+a&w lightweight attack drone
+req dex 6
+req willpower 7
+req remotecontrol 15
+end
+
+
+start
+tl 13
+a&w medium assault drone ar-1
+req dex 13
+req willpower 16
+req remotecontrol 32
+end
+
+
+start
+tl 45
+a&w scout drone lr-1
+req dex 45
+req willpower 53
+req remotecontrol 79
+end
+
+
+start
+tl 15
+a&w scout drone mr-1
+req dex 15
+req willpower 18
+req remotecontrol 37
+end
+
+
+start
+tl 5
+a&w scout drone sr-1
+req dex 5
+req willpower 6
+req remotecontrol 12
+end
+
+
+start
+tl 112
+devastator ion drone
+req dex 112
+req willpower 88
+req remotecontrol 121
+end
+
+
+start
+tl 104
+devils breath ion nuke drone
+req dex 104
+req willpower 85
+req remotecontrol 117
+end
+
+
+start
+tl 104
+exp ion nuke mk 1 drone
+req dex 104
+req willpower 85
+req remotecontrol 117
+end
+
+
+start
+tl 96
+experimental ion blaster drone
+req dex 96
+req willpower 81
+req remotecontrol 113
+end
+
+
+start
+tl 91
+hew advanced assault drone gal-3000
+req dex 91
+req willpower 79
+req remotecontrol 110
+end
+
+
+start
+tl 95
+hew advanced assault drone plc-1000
+req dex 95
+req willpower 81
+req remotecontrol 112
+end
+
+
+start
+tl 101
+hew advanced battle drone fc-1000
+req dex 101
+req willpower 83
+req remotecontrol 115
+end
+
+
+start
+tl 78
+hew advanced battle drone rg-1000
+req dex 78
+req willpower 73
+req remotecontrol 104
+end
+
+
+start
+tl 110
+hew advanced particlebeam drone pb-20
+req dex 110
+req willpower 87
+req remotecontrol 120
+end
+
+
+start
+tl 74
+hew advanced support drone mr-1000
+req dex 74
+req willpower 71
+req remotecontrol 102
+end
+
+
+start
+tl 108
+hew advanced war drone rk-1000
+req dex 108
+req willpower 86
+req remotecontrol 119
+end
+
+
+start
+tl 30
+hew battle drone rg-50
+req dex 30
+req willpower 37
+req remotecontrol 62
+end
+
+
+start
+tl 98
+hew heavy assault drone fa-1000
+req dex 98
+req willpower 82
+req remotecontrol 114
+end
+
+
+start
+tl 64
+hew heavy assault drone gal-100
+req dex 64
+req willpower 65
+req remotecontrol 95
+end
+
+
+start
+tl 67
+hew heavy assault drone plc-100
+req dex 67
+req willpower 66
+req remotecontrol 97
+end
+
+
+start
+tl 71
+hew heavy battle drone fc-100
+req dex 71
+req willpower 69
+req remotecontrol 100
+end
+
+
+start
+tl 54
+hew heavy battle drone rg-100
+req dex 54
+req willpower 58
+req remotecontrol 86
+end
+
+
+start
+tl 67
+hew heavy kamikaze drone kk-400
+req dex 67
+req willpower 66
+req remotecontrol 97
+end
+
+
+start
+tl 105
+hew heavy particlebeam drone pb-4
+req dex 105
+req willpower 85
+req remotecontrol 117
+end
+
+
+start
+tl 51
+hew heavy support drone mr-100
+req dex 51
+req willpower 56
+req remotecontrol 84
+end
+
+
+start
+tl 81
+hew heavy war drone rk-500
+req dex 81
+req willpower 75
+req remotecontrol 105
+end
+
+
+start
+tl 70
+hew ion blaster mk-1 drone
+req dex 70
+req willpower 68
+req remotecontrol 100
+end
+
+
+start
+tl 88
+hew ion blaster mk-2 drone
+req dex 88
+req willpower 78
+req remotecontrol 109
+end
+
+
+start
+tl 17
+hew light assault drone l-100
+req dex 17
+req willpower 21
+req remotecontrol 42
+end
+
+
+start
+tl 23
+hew light assault drone sfa-100
+req dex 23
+req willpower 28
+req remotecontrol 53
+end
+
+
+start
+tl 20
+hew light assault drone spl-100
+req dex 20
+req willpower 25
+req remotecontrol 50
+end
+
+
+start
+tl 28
+hew light battle drone sfc-100
+req dex 28
+req willpower 35
+req remotecontrol 60
+end
+
+
+start
+tl 15
+hew light kamikaze drone kk-100
+req dex 15
+req willpower 18
+req remotecontrol 37
+end
+
+
+start
+tl 27
+hew light support drone mr-50
+req dex 27
+req willpower 33
+req remotecontrol 58
+end
+
+
+start
+tl 34
+hew light war drone rk-50
+req dex 34
+req willpower 42
+req remotecontrol 67
+end
+
+
+start
+tl 47
+hew medium assault drone fa-100
+req dex 47
+req willpower 54
+req remotecontrol 80
+end
+
+
+start
+tl 40
+hew medium assault drone tl-100
+req dex 40
+req willpower 50
+req remotecontrol 75
+end
+
+
+start
+tl 40
+hew medium kamikaze drone kk-200
+req dex 40
+req willpower 50
+req remotecontrol 75
+end
+
+
+start
+tl 57
+hew medium war drone rk-250
+req dex 57
+req willpower 60
+req remotecontrol 89
+end
+
+
+start
+tl 84
+hew particlebeam drone pb-1
+req dex 84
+req willpower 76
+req remotecontrol 107
+end
+
+
+start
+tl 115
+mosquito
+req dex 115
+req willpower 89
+req remotecontrol 122
+end
+
+
+start
+tl 115
+particle nemesis
+req dex 115
+req willpower 89
+req remotecontrol 122
+end
+
+
+start
+tl 115
+punisher
+req dex 115
+req willpower 89
+req remotecontrol 122
+end
+
+
+start
+tl 112
+raging weasel ceres ion drone
+req dex 112
+req willpower 88
+req remotecontrol 121
+end
+
+
+start
+tl 115
+raptor
+req dex 115
+req willpower 89
+req remotecontrol 122
+end
+
+
+start
+tl 93
+revenge
+req dex 93
+req willpower 80
+req remotecontrol 111
+end
+
+
+start
+tl 70
+tech angels ion blaster mk-1 drone
+req dex 70
+req willpower 68
+req remotecontrol 100
+end
+
+
+start
+tl 88
+tech angels ion blaster mk-2 drone
+req dex 88
+req willpower 78
+req remotecontrol 109
+end
+
+
+start
+tl 96
+tech angels prototype ion blaster mk- 3 drone
+req dex 96
+req willpower 81
+req remotecontrol 113
+end
+
+
+start
+tl 15
+zg 21 drone
+req dex 10
+req willpower 12
+req remotecontrol 25
+end
+
+
+

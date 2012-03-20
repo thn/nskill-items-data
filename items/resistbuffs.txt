@@ -1,0 +1,102 @@
+//basic resist booster
+start
+Crahn Basic Resist Booster
+req psi 40
+req ppu 91
+req focussing 50
+psi amp 1
++ force 12.23
++ piercing 12.23
++ health 4.08
+end
+
+start
+Crahn Blessed Resist Booster
+req psi 75
+req ppu 121
+req focussing 71
+psi amp 1
++ force 20.83
++ piercing 20.83
++ health 6.94
+end
+
+start
+Crahn Holy Basic Resist Booster
+req psi 95
+req ppu 136
+req focussing 81
+psi amp 1
++ force 25.74
++ piercing 25.74
++ health 8.58
+end
+
+//Haz
+start
+Crahn Hazard Resist Booster
+req psi 40
+req ppu 91
+req focussing 50
+psi amp 1
++ poison 12.23
++ xray 12.23
++ health 4.08
+end
+
+start
+Crahn Blessed Hazard Resist Booster
+req psi 75
+req ppu 121
+req focussing 71
+psi amp 1
++ poison 20.83
++ xray 20.83
++ health 6.94
+end
+
+start
+Crahn Holy Hazard Resist Booster
+req psi 95
+req ppu 136
+req focussing 81
+psi amp 1
++ poison 25.74
++ xray 25.74
++ health 8.58
+end
+
+
+//Heat
+start
+Crahn Heat Resist Booster
+req psi 40
+req ppu 91
+req focussing 50
+psi amp 1
++ fire 12.23
++ energy 12.23
++ health 4.08
+end
+
+start
+Crahn Blessed Heat Resist Booster
+req psi 75
+req ppu 121
+req focussing 71
+psi amp 1
++ fire 20.83
++ energy 20.83
++ health 6.94
+end
+
+start
+Crahn Holy Heat Resist Booster
+req psi 95
+req psi 136
+req focussing 81
+psi amp 1
++ fire 25.74
++ energy 25.74
++ health 8.58
+end

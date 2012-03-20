@@ -1,0 +1,30 @@
+start
+Experimental Foot
+graphic exfoot
+req str 44
++ force 9.04
++ agility 9.04
+end
+
+start
+Foot
+req str 4
++ force 2.64
++ agility 2.64
+end
+
+start
+Advanced Foot
+graphic adfoot
+req str 24
++ force 5.84
++ agility 5.84
+end
+
+start
+Biotech Antigamma Foot
+graphic agfoot
+req str 23
++ xray 5.68
++ agility 5.68
+end

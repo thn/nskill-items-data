@@ -1,0 +1,260 @@
+start
+Thyronol
++ str 2.82
+duration 180
+end
+
+start
+Serumderibat
++ dex 2.82
+duration 180
+end
+
+start
+Paratemol
++ con 2.82
+duration 180
+end
+
+start
+Destrosol
++ int 2.82
+duration 180
+end
+
+start
+Trisolin
++ meleecombat 10.55
+duration 180
+end
+
+start
+Pentaserin
++ techcombat 10.55
+duration 180
+end
+
+start
+Terisamol
++ transport 10.55
+duration 180
+end
+
+start
+Etharudol
++ agility 10.55
+duration 180
+end
+
+start
+Hemoserol
++ health 10.55
+duration 180
+end
+
+start
+Gemilirimol
++ endurance 10.55
+duration 180
+end
+
+start
+Epantenrol
++ athletics 10.55
+duration 180
+end
+
+start
+Ferinerol
++ heavycombat 10.55
+duration 180
+end
+
+start
+Thiosforanol
++ weaponlore 10.55
+duration 180
+end
+
+start
+Demerisol
++ psiuse 10.55
+duration 180
+end
+
+start
+Havenin
++ psi 2.82
+duration 180
+end
+
+start
+Havenin Forte
++ psi 1.51
++ focussing 15.11
++ psiuse 12.09
+duration 300
+end
+
+start
+Havenin X-Forte
++ psi 2.16
++ focussing 21.66
++ psiuse 17.33
+duration 600
+end
+
+start
+Dolinskin
++ psi 1.51
++ psiuse 12.09
++ hacking 15.11
+duration 300
+end
+
+start
+Whiteflash
++ dex 1.51
++ techcombat 12.09
++ agility 15.11
+duration 300
+end
+
+start
+X-Strong
++ str 1.51
++ transport 15.11
++ force 6.04
++ piercing 6.04
+duration 300
+end
+
+start
+Paratemol Forte
++ con 1.51
++ athletics 15.11
++ health 12.09
+duration 300
+end
+
+start
+Destrosol Forte
++ int 1.51
++ weaponlore 15.11
++ willpower 12.09
+duration 300
+end
+
+start
+Paratemol X-Forte
++ con 2.16
++ athletics 21.66
++ health 17.33
+duration 600
+end
+
+start
+Destrosol X-Forte
++ int 2.16
++ weaponlore 21.66
++ willpower 17.33
+duration 600
+end
+
+start
+X-Beast
++ str 2.16
++ heavycombat 21.66
++ force 8.66
++ piercing 8.66
+duration 600
+end
+
+start
+Redflash
++ dex 2.16
++ techcombat 17.33
++ agility 21.66
+duration 600
+end
+
+start
+Green Dragon
++ poison 60.43
+- endurance 24.17
+- health 36.36
+duration 600
+end
+
+start
+Red Dragon
++ fire 60.43
+- endurance 24.17
+- health 36.36
+duration 600
+end
+
+start
+White Dragon
++ energy 60.43
+- endurance 24.17
+- health 36.36
+duration 600
+end
+
+start
+Blue Dragon
++ xray 60.43
+- endurance 24.17
+- health 36.36
+duration 600
+end
+
+start
+Resist Potion: Energy
++ energy 30.21
+duration 180
+end
+
+start
+Resist Potion: Fire
++ fire 30.21
+duration 180
+end
+
+start
+Resist Potion: Poison
++ poison 30.21
+duration 180
+end
+
+start
+Resist Potion: X-Ray
++ xray 30.21
+duration 180
+end
+
+start
+Blue Fairy
++ int 1.51
++ construction 9.06
++ research 9.06
++ implant 9.06
+duration 300
+end
+
+start
+Kri Nakh Mushroom
++ int 3.02
++ psiuse 12.09
++ focussing 12.09
+duration 600
+end
+
+start
+Nightspider
++ psi 1.51
++ psiuse 12.09
++ implant 15.11
+duration 300
+end

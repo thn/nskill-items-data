@@ -1,0 +1,947 @@
+start
+tl 90
+Chaos Queen Flame Avalanche
+id 111234
+graphic fireball
+req psi 90
+req apu 132
+req focussing 79
+end
+
+start
+tl 10
+Cleaning Fire
+id 1115802323
+graphic fireball
+req psi 10
+req apu 37
+req focussing 12
+end
+
+start
+tl 35
+Crahn Blessed Energy Ball
+graphic energyball
+id 1117125
+req psi 35
+req apu 85
+req focussing 43
+end
+
+start
+tl 47
+Crahn Blessed Energy Ball Blast
+id 1117664
+graphic energyball
+req psi 47
+req apu 100
+req focussing 54
+end
+
+start
+tl 57
+Crahn Blessed Energy Barrel
+graphic holyt
+id 11164
+req psi 57
+req apu 107
+req focussing 60
+end
+
+start
+tl 60
+Crahn Blessed Energy Beam
+graphic holyl
+id 1116843
+req psi 60
+req apu 110
+req focussing 62
+end
+
+start
+tl 33
+Crahn Blessed Energy Bolt
+graphic energybolt
+id 1113544
+req psi 33
+req apu 82
+req focussing 41
+end
+
+start
+tl 55
+Crahn Blessed Energy Halo
+graphic energyhalo
+id 11178
+req psi 55
+req apu 106
+req focussing 59
+end
+
+start
+tl 40
+Crahn Blessed Energy Lance
+graphic energylance
+id 111754433
+req psi 40
+req apu 91
+req focussing 50
+end
+
+start
+tl 43
+Crahn Blessed Fire Ball
+id 111584334
+req psi 43
+req apu 95
+req focussing 51
+end
+
+start
+tl 55
+Crahn Blessed Fire Ball Blast
+id 1116034
+req psi 55
+req apu 106
+req focussing 59
+end
+
+start
+tl 65
+Crahn Blessed Fire Barrel
+graphic firestorm
+id 111566
+req psi 65
+req apu 113
+req focussing 65
+end
+
+start
+tl 68
+Crahn Blessed Fire Beam
+id 11178
+req psi 68
+req apu 116
+req focussing 67
+end
+
+start
+tl 63
+Crahn Blessed Fire Halo
+graphic firehalo
+id 11163
+req psi 63
+req apu 112
+req focussing 64
+end
+
+start
+tl 48
+Crahn Blessed Fire Lance
+id 11139
+req psi 48
+req apu 101
+req focussing 55
+end
+
+start
+tl 43
+Crahn Blessed Frozen Ball
+id 11181
+req psi 43
+req apu 95
+req focussing 51
+end
+
+start
+tl 55
+Crahn Blessed Frozen Ball Blast
+id 11186
+req psi 55
+req apu 106
+req focussing 59
+end
+
+start
+tl 65
+Crahn Blessed Frozen Barrel
+id 11153
+req psi 65
+req apu 113
+req focussing 65
+end
+
+start
+tl 68
+Crahn Blessed Frozen Beam
+id 11192
+req psi 68
+req apu 116
+req focussing 67
+end
+
+start
+tl 40
+Crahn Blessed Frozen Bolt
+id 11138
+req psi 40
+req apu 91
+req focussing 50
+end
+
+start
+tl 63
+Crahn Blessed Frozen Halo
+id 11184
+req psi 63
+req apu 112
+req focussing 64
+end
+
+start
+tl 48
+Crahn Blessed Frozen Lance
+id 11188
+req psi 48
+req apu 101
+req focussing 55
+end
+
+start
+tl 40
+Crahn Blessed Lightning Bolt
+id 11137
+req psi 40
+req apu 91
+req focussing 50
+end
+
+start
+tl 62
+Crahn Blessed Multi Energy Bolt
+graphic menergybolt
+id 11148
+req psi 62
+req apu 111
+req focussing 63
+end
+
+start
+tl 62
+Crahn Blessed Multi Lightning Bolt
+graphic mlightning
+id 11149
+req psi 62
+req apu 111
+req focussing 63
+end
+
+start
+tl 51
+Crahn Blessed PSI Attack
+id 11151
+req psi 51
+req apu 103
+req focussing 56
+end
+
+start
+tl 49
+Crahn Blessed Toxic Ball
+graphic poisonball
+id 11191
+req psi 49
+req apu 101
+req focussing 55
+end
+
+start
+tl 61
+Crahn Blessed Toxic Ball Blast
+graphic poisonball
+id 11193
+req psi 61
+req apu 110
+req focussing 63
+end
+
+start
+tl 71
+Crahn Blessed Toxic Barrel
+graphic pesti
+id 11152
+req psi 71
+req apu 118
+req focussing 69
+end
+
+start
+tl 74
+Crahn Blessed Toxic Beam
+graphic toxicbeam
+id 11185
+req psi 74
+req apu 120
+req focussing 71
+end
+
+start
+tl 69
+Crahn Blessed Toxic Halo
+graphic thalo
+id 11196
+req psi 69
+req apu 116
+req focussing 68
+end
+
+start
+tl 54
+Crahn Blessed Toxic Lance
+graphic poisonlance
+id 11198
+req psi 54
+req apu 105
+req focussing 58
+end
+
+start
+tl 5
+Crahn Energy Ball
+id 11170
+graphic energyball
+req psi 5
+req apu 18
+req focussing 6
+end
+
+start
+tl 17
+Crahn Energy Ball Blast
+id 11172
+graphic energyball
+req psi 17
+req apu 56
+req focussing 21
+end
+
+start
+tl 27
+Crahn Energy Barrel
+graphic holyt
+id 11179
+req psi 27
+req apu 75
+req focussing 33
+end
+
+start
+tl 30
+Crahn Energy Beam
+graphic holyl
+id 11173
+req psi 30
+req apu 79
+req focussing 37
+end
+
+start
+tl 2
+Crahn Energy Bolt
+graphic energybolt
+id 11100
+req psi 2
+req apu 7
+req focussing 2
+end
+
+start
+tl 25
+Crahn Energy Halo
+graphic energyhalo
+id 11177
+req psi 25
+req apu 71
+req focussing 31
+end
+
+start
+tl 10
+Crahn Energy Lance
+graphic energylance
+id 11174
+req psi 10
+req apu 37
+req focussing 12
+end
+
+start
+tl 12
+Crahn Fire Ball
+id 11157
+req psi 12
+req apu 45
+req focussing 15
+end
+
+start
+tl 24
+Crahn Fire Ball Blast
+id 11159
+req psi 24
+req apu 70
+req focussing 30
+end
+
+start
+tl 34
+Crahn Fire Barrel
+graphic firestorm
+id 11121
+req psi 34
+req apu 84
+req focussing 42
+end
+
+start
+tl 37
+Crahn Fire Beam
+id 11161
+req psi 37
+req apu 87
+req focussing 46
+end
+
+start
+tl 32
+Crahn Fire Halo
+graphic firehalo
+id 11162
+req psi 32
+req apu 81
+req focussing 40
+end
+
+start
+tl 17
+Crahn Fire Lance
+id 11104
+req psi 17
+req apu 56
+req focussing 21
+end
+
+start
+tl 15
+Crahn Frozen Ball
+id 11180
+req psi 15
+req apu 53
+req focussing 18
+end
+
+start
+tl 27
+Crahn Frozen Ball Blast
+id 11185
+req psi 27
+req apu 75
+req focussing 33
+end
+
+start
+tl 37
+Crahn Frozen Barrel
+id 11118
+req psi 37
+req apu 87
+req focussing 46
+end
+
+start
+tl 40
+Crahn Frozen Beam
+id 11182
+req psi 40
+req apu 91
+req focussing 50
+end
+
+start
+tl 12
+Crahn Frozen Bolt
+id 11103
+req psi 12
+req apu 45
+req focussing 15
+end
+
+start
+tl 35
+Crahn Frozen Halo
+id 11183
+req psi 35
+req apu 85
+req focussing 43
+end
+
+start
+tl 20
+Crahn Frozen Lance
+id 11187
+req psi 20
+req apu 62
+req focussing 25
+end
+
+start
+tl 71
+Crahn Holy Energy Ball
+id 11170
+graphic energyball
+req psi 71
+req apu 118
+req focussing 69
+end
+
+start
+tl 77
+Crahn Holy Energy Ball Blast
+id 11172
+graphic energyball
+req psi 77
+req apu 122
+req focussing 73
+end
+
+start
+tl 82
+Crahn Holy Energy Barrel
+graphic holyt
+id 11174
+req psi 82
+req apu 126
+req focussing 75
+end
+
+start
+tl 84
+Crahn Holy Energy Beam
+graphic holyl
+id 11175
+req psi 84
+req apu 128
+req focussing 76
+end
+
+start
+tl 70
+Crahn Holy Energy Bolt
+graphic energybolt
+id 11176
+req psi 70
+req apu 117
+req focussing 68
+end
+
+start
+tl 81
+Crahn Holy Energy Halo
+graphic energyhalo
+id 11173
+req psi 81
+req apu 125
+req focussing 75
+end
+
+start
+tl 74
+Crahn Holy Energy Lance
+graphic energylance
+id 11171
+req psi 74
+req apu 120
+req focussing 71
+end
+
+start
+tl 78
+Crahn Holy Fire Ball
+id 11179
+req psi 78
+req apu 123
+req focussing 73
+end
+
+start
+tl 84
+Crahn Holy Fire Ball Blast
+id 11181
+req psi 84
+req apu 128
+req focussing 76
+end
+
+start
+tl 89
+Crahn Holy Fire Barrel
+graphic firestorm
+id 11183
+req psi 89
+req apu 131
+req focussing 78
+end
+
+start
+tl 91
+Crahn Holy Fire Beam
+id 11184
+req psi 91
+req apu 133
+req focussing 79
+end
+
+start
+tl 88
+Crahn Holy Fire Halo
+graphic firehalo
+id 11182
+req psi 88
+req apu 131
+req focussing 78
+end
+
+start
+tl 81
+Crahn Holy Fire Lance
+id 11180
+req psi 81
+req apu 125
+req focussing 75
+end
+
+start
+tl 69
+Crahn Holy Frozen Ball
+id 11193
+req psi 69
+req apu 116
+req focussing 68
+end
+
+start
+tl 75
+Crahn Holy Frozen Ball Blast
+id 11195
+req psi 75
+req apu 121
+req focussing 71
+end
+
+start
+tl 80
+Crahn Holy Frozen Barrel
+id 11197
+req psi 80
+req apu 125
+req focussing 75
+end
+
+start
+tl 82
+Crahn Holy Frozen Beam
+id 11198
+req psi 82
+req apu 126
+req focussing 75
+end
+
+start
+tl 40
+Crahn Holy Frozen Bolt
+id 11199
+req psi 68
+req apu 116
+req focussing 67
+end
+
+start
+tl 79
+Crahn Holy Frozen Halo
+id 11196
+req psi 79
+req apu 124
+req focussing 74
+end
+
+start
+tl 73
+Crahn Holy Frozen Lance
+id 11194
+req psi 73
+req apu 119
+req focussing 70
+end
+
+start
+tl 65
+Crahn Holy Lightning Bolt
+id 11141
+req psi 65
+req apu 113
+req focussing 65
+end
+
+start
+tl 85
+Crahn Holy Multi Energy Bolt
+graphic menergybolt
+id 11177
+req psi 85
+req apu 128
+req focussing 77
+end
+
+start
+tl 79
+Crahn Holy Multi Lightning Bolt
+graphic mlightning
+id 11115
+req psi 79
+req apu 124
+req focussing 74
+end
+
+start
+tl 71
+Crahn Holy PSI Attack
+id 11154
+req psi 71
+req apu 118
+req focussing 69
+end
+
+start
+tl 82
+Crahn Holy Toxic Ball
+graphic poisonball
+id 11186
+req psi 82
+req apu 126
+req focussing 75
+end
+
+start
+tl 88
+Crahn Holy Toxic Ball Blast
+graphic poisonball
+id 11188
+req psi 88
+req apu 131
+req focussing 78
+end
+
+start
+tl 93
+Crahn Holy Toxic Barrel
+graphic pesti
+id 11190
+req psi 93
+req apu 134
+req focussing 80
+end
+
+start
+tl 95
+Crahn Holy Toxic Beam
+graphic toxicbeam
+id 11191
+req psi 95
+req apu 136
+req focussing 81
+end
+
+start
+tl 92
+Crahn Holy Toxic Halo
+graphic thalo
+graphic poisonball
+id 11189
+req psi 92
+req apu 134
+req focussing 80
+end
+
+start
+tl 85
+Crahn Holy Toxic Lance
+graphic poisonlance
+id 11187
+req psi 85
+req apu 128
+req focussing 77
+end
+
+start
+tl 15
+Crahn Lightning Bolt
+id 11102
+req psi 15
+req apu 53
+req focussing 18
+end
+
+start
+tl 32
+Crahn Multi Energy Bolt
+graphic menergybolt
+id 11113
+req psi 32
+req apu 81
+req focussing 40
+end
+
+start
+tl 45
+Crahn Multi Lightning Bolt
+graphic mlightning
+id 11114
+req psi 45
+req apu 97
+req focussing 53
+end
+
+start
+tl 28
+Crahn PSI Attack
+id 11116
+req psi 28
+req apu 76
+req focussing 35
+end
+
+start
+tl 17
+Crahn Toxic Ball
+id 11190
+req psi 17
+req apu 56
+req focussing 21
+end
+
+start
+tl 29
+Crahn Toxic Ball Blast
+id 11192
+req psi 29
+req apu 77
+req focussing 36
+end
+
+start
+tl 39
+Crahn Toxic Barrel
+id 11117
+req psi 39
+req apu 90
+req focussing 48
+end
+
+start
+tl 42
+Crahn Toxic Beam
+graphic toxicbeam
+id 11194
+req psi 42
+req apu 94
+req focussing 51
+end
+
+start
+tl 37
+Crahn Toxic Halo
+graphic thalo
+id 11195
+req psi 37
+req apu 87
+req focussing 46
+end
+
+start
+tl 22
+Crahn Toxic Lance
+graphic poisonlance
+id 11197
+req psi 22
+req apu 66
+req focussing 27
+end
+
+start
+tl 7
+Crahns Justice
+id 111591
+req psi 7
+req apu 26
+req focussing 8
+end
+
+start
+tl 103
+HOLY FIRE APOCALYPSE
+graphic hfa
+id 111200
+req psi 103
+req apu 142
+req focussing 84
+end
+
+start
+tl 108
+HOLY FIRESTORM
+graphic firestorm
+id 111206
+req psi 108
+req apu 146
+req focussing 86
+end
+
+start
+tl 102
+HOLY FROSTRATION
+graphic holyl
+id 111202
+req psi 102
+req apu 141
+req focussing 84
+end
+
+start
+tl 101
+HOLY LIGHTNING
+graphic holyl
+id 111201
+req psi 101
+req apu 140
+req focussing 83
+end
+
+start
+tl 110
+HOLY PESTILENCE
+id 111207
+req psi 110
+req apu 147
+req focussing 87
+end
+
+start
+tl 107
+HOLY THUNDERSTORM
+graphic holyt
+id 111205
+req psi 107
+req apu 145
+req focussing 86
+end
+

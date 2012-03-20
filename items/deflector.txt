@@ -1,0 +1,53 @@
+start
+tl 3
+Crahn Deflector
+req psi 3
+req ppu 11
+req focussing 3
+psi amp 1
++ force 15.78%
++ piercing 15.78%
+end
+
+start
+tl 64
+Crahn Holy Deflector
+req psi 64
+req ppu 113
+req focussing 65
+psi amp 1
++ force 30.78%
++ piercing 30.78%
+end
+
+start
+tl 9
+Crahn Group Deflector
+req psi 9
+req ppu 33
+req focussing 11
+psi amp 1
++ force 9.58%
++ piercing 9.58%
+end
+
+
+start
+tl 7
+Crahn Deflector Sanctum
+req psi 7
+req ppu 26
+req focussing 8
+psi amp 1
++ force 7.58%
++ piercing 7.58%
+end
+
+start
+tl 35
+Crahn Blessed Deflector
+req psi 35
+req ppu 85
+req focussing 43
+psi amp 1
+end

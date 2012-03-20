@@ -1,0 +1,38 @@
+start
+Biotech Antigamma Chest
+graphic agchest
+req str 33
++ xray 5.82
++ endurance 8.74
+end
+
+start
+Chest
+req str 15
++ force 3.52
++ endurance 5.28
+end
+
+start
+Advanced Chest
+graphic advchest
+req str 35
++ force 6.08
++ endurance 9.12
+end
+
+start
+Bat Queen Chest
+graphic bqchest
+req str 80
++ force 17.76
++ endurance 11.84
+end
+
+start
+Experimental Chest
+graphic expchest
+req str 55
++ force 8.64
++ endurance 12.96
+end

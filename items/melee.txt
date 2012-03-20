@@ -1,0 +1,423 @@
+start
+tl 44
+Baseball Bat
+graphic bat
+id 765236523
+req str 44
+req meleecombat 78
+end
+
+
+
+start
+tl 5
+Beggar Electro Shocker
+graphic shocker
+id 76523652
+req str 5
+req meleecombat 12
+req techcombat 6
+end
+
+
+
+start
+tl 100
+BLADE OF CERES
+graphic sword
+id 765236523
+req str 100
+req meleecombat 115
+end
+
+
+
+start
+tl 24
+Brass Knuckles
+graphic knuckles
+id 765236523
+req str 24
+req meleecombat 55
+end
+
+
+
+start
+tl 49
+Claw
+graphic claw
+id 76523652
+req str 49
+req meleecombat 82
+end
+
+
+
+start
+tl 41
+Combat Knife
+graphic combatknife
+id 76523652
+req str 41
+req meleecombat 75
+end
+
+
+
+start
+tl 13
+Crummy Baseball Bat
+graphic bat
+id 7652
+req str 13
+req meleecombat 32
+end
+
+
+
+start
+tl 115
+DEVILS GRACE
+graphic devils
+id 7652365
+req str 115
+req meleecombat 122
+req techcombat 89
+end
+
+
+
+start
+tl 57
+Double-Edged Sword
+graphic sword
+id 76523
+req str 57
+req meleecombat 89
+end
+
+
+
+start
+tl 91
+E24.81 Electric Tempest
+graphic shocker
+id 7652365
+req str 91
+req meleecombat 110
+req techcombat 79
+end
+
+
+
+start
+tl 53
+Electro Shocker
+graphic shocker
+id 765236
+req str 32
+req meleecombat 65
+req techcombat 40
+end
+
+
+
+start
+tl 90
+Energy Soulblade
+graphic devils
+id 7652
+req str 90
+req meleecombat 110
+req techcombat 79
+end
+
+
+
+start
+tl 65
+Face Scratcher' Claw
+graphic claw
+id 765236
+req str 65
+req meleecombat 95
+end
+
+
+
+start
+tl 108
+Hurler King Knuckles
+graphic knuckles
+id 7652365
+req str 108
+req meleecombat 119
+end
+
+
+
+start
+tl 21
+Junk Knife
+graphic junkknife
+id 76523
+req str 21
+req meleecombat 51
+end
+
+
+
+start
+tl 5
+Knuckles
+graphic knuckles
+id 765236523
+req str 1
+end
+
+
+
+start
+tl 37
+Laserblade
+graphic devils
+id 765236523
+req str 37
+req meleecombat 71
+req techcombat 46
+end
+
+
+
+start
+tl 62
+Laserblade II
+graphic devils
+id 7652
+req str 62
+req meleecombat 93
+req techcombat 63
+end
+
+
+
+start
+tl 76
+Long Laserblade
+graphic devils
+id 7652
+req str 76
+req meleecombat 103
+req techcombat 72
+end
+
+
+
+start
+tl 83
+Long Laserblade II
+graphic devils
+id 765236523
+req str 83
+req meleecombat 106
+req techcombat 76
+end
+
+
+
+start
+tl 112
+PAW OF BEAR
+graphic claw
+id 76523652
+req str 112
+req meleecombat 121
+end
+
+
+
+start
+tl 80
+PAW OF TIGER
+graphic claw
+id 765236523
+req str 80
+req meleecombat 105
+end
+
+
+
+start
+tl 94
+PEACEMAKER
+graphic bat
+id 765236523
+req str 94
+req meleecombat 112
+end
+
+
+
+start
+tl 82
+PERFORATOR
+graphic knuckles
+id 7652365233
+req str 82
+req meleecombat 106
+end
+
+
+
+start
+tl 17
+Rusty Double-Edged Sword
+graphic sword
+id 76523652380
+req str 17
+req meleecombat 42
+end
+
+
+
+start
+tl 4
+Secured Tsurugaoka-Sword
+graphic sword
+note missing from THN, check up
+id 7652351
+req meleecombat 35
+end
+
+
+
+start
+tl 33
+Self-Constructed Claw
+graphic claw
+id 7652365236
+req str 33
+req meleecombat 66
+end
+
+
+
+start
+tl 3
+Special Alloy Knife
+graphic knife
+id 7652
+req str 1
+end
+
+
+
+start
+tl 76
+Special Forces Combat Knife
+graphic combatknife
+id 765236523
+req str 76
+req meleecombat 103
+end
+
+
+
+start
+tl 2
+Stiletto
+graphic stiletto
+id 7652365239
+req str 1
+end
+
+
+
+start
+tl 80
+Tai-Chi Double-Edged Sword
+graphic sword
+id 765236523802
+req str 80
+req meleecombat 105
+end
+
+
+
+start
+tl 71
+Tangent High-Voltage Shocker
+graphic shocker
+id 76523652325
+req str 71
+req meleecombat 100
+req techcombat 69
+end
+
+
+
+start
+tl 104
+THE DENTIST
+graphic knuckles
+id 76523652338
+req str 104
+req meleecombat 117
+end
+
+
+
+start
+tl 110
+THUNDERBOLT
+graphic shocker
+id 76523652
+req str 110
+req meleecombat 120
+req techcombat 87
+end
+
+
+
+start
+tl 10
+Tsurugaoka-Sword
+graphic jonessword
+id 76523512
+req meleecombat 45
+end
+
+
+
+start
+tl 29
+Unlabeled Electro Shocker
+graphic shocker
+id 76523652377
+req str 15
+req meleecombat 37
+req techcombat 18
+end
+
+
+
+start
+tl 97
+VEIN RIPPER
+graphic junkknife
+id 76523652332
+req str 97
+req meleecombat 113
+end
+
+
+
+start
+tl 108
+ZSUSUN
+graphic jonessword
+id 76523652339
+req str 108
+req meleecombat 119
+end

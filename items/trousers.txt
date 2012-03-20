@@ -1,0 +1,179 @@
+start
+Shabby Carbon Trousers
+req str 48
++ force 50
++ piercing 63
++ poison 12
+end
+
+start
+Good Carbon Trousers
+req str 56
++ force 55
++ piercing 69
++ poison 13
+end
+
+start
+Great Carbon Trousers
+req str 64
++ force 60
++ piercing 76
++ poison 15
+end
+
+start 
+Outstanding Carbon Trousers
+req str 74
++ force 67
++ piercing 84
++ poison 16
+end
+
+start
+Light Kevlar Pants
+req str 11
++ force 16
++ piercing 9
++ fire 13
++ poison 26
+end
+
+start
+Medium Kevlar Pants
+req str 23
++ force 21
++ piercing 12
++ fire 17
++ poison 34
+end
+
+start
+Heavy Kevlar Pants
+req str 35
++ force 26
++ piercing 15
++ fire 20
++ poison 41
+end
+
+start
+Battle Trousers Prototype
+req str 20
++ force 48
++ piercing 32
+end
+
+start
+Usual Battle Trousers
+req str 30
++ force 58
++ piercing 38
+end
+
+start
+Advanced Battle Trousers
+req str 40
++ force 67
++ piercing 45
+end
+
+start
+Bad Duranium Trousers
+req str 69
++ force 64
++ piercing 48
++ energy 48
+end
+
+start
+Duranium Trousers
+req str 79
++ force 70
++ piercing 52
++ energy 52
+end
+
+start
+Advanced Duranium Trousers
+req str 84
++ force 73
++ piercing 55
++ energy 55
+end
+
+start
+High Density Duranium Trousers
+req str 89
++ forcing 77
++ piercing 57
++ energy 57
+end
+
+start
+Unhallowed Inquisition Trousers
+req str 48
++ force 31
++ piercing 31
++ fire 63
+end
+
+start
+Inquisition Trousers
+req str 56
++ force 34
++ piercing 34
++ fire 69
+end
+
+start
+Holy Inquisition Trousers
+req str 64
++ force 38
++ piercing 38
++ fire 76
+end
+
+start
+Gods Wish' Inquisition Trousers
+req str 74
++ force 42
++ piercing 42
++ fire 85
+end
+
+start
+Crahn Shelter Pants
+req psi 8
++ force 11
++ piercing 11
++ fire 11
++ energy 23
+end
+
+start
+Crahn Blessed Shelter Pants
+req psi 28
++ force 17
++ piercing 17
++ fire 17
++ energy 34
+end
+
+start
+Crahn Spirit Pants
+req psi 54
++ force 24
++ piercing 24
++ energy 28
++ xray 24
+end
+
+start
+Crahn Blessed Spirit Pants
+req psi 80
++ force 31
++ piercing 31
++ energy 62
++ xray 31
+end

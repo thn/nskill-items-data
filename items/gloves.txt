@@ -1,0 +1,95 @@
+start
+Crahn 'Novice' Gauntlet
+req psi 1
++ psi 1.00
++ psiuse 2.59
+end
+
+start
+Crahn Amplifier Gauntlet CAG 1
+req psi 30
++ psi 1.36
++ psiuse 4.08
++ focussing 6.80
+- endurance 2.24
+- psiresist 2.24
+end
+
+start
+Gaya Tacholythium Gauntlet
+graphic gaya
+req psi 40
++ psi 2.16
++ psiuse 17.28
+end
+
+start
+Crahn Amplifier Gauntlet CAG 2
+req psi 48
++ psi 1.93
++ psiuse 5.81
++ focussing 9.68
+- endurance 3.19
+- psiresist 3.19
+end
+
+start
+Machina Construction Glove
+req int 60
+graphic constglove
++ int 2.32
++ construction 13.92
++ transport 4.64
+- techcombat 3.83
+end
+
+start
+Machina Implant Glove
+req int 60
+graphic impglove
++ int 2.32
++ implant 13.92
++ transport 4.64
+- techcombat 3.83
+end
+
+start
+Machina Recycle Glove
+graphic recglove
+req dex 60
++ dex 2.32
++ recycle 13.92
++ transport 4.64
+- techcombat 3.83
+end
+
+start
+Machina Repair Glove
+graphic repglove
+req dex 60
++ dex 2.32
++ repair 13.92
++ transport 4.64
+- techcombat 3.83
+end
+
+start
+Machina Research Glove
+graphic resglove
+req int 60
++ int 2.32
++ research 13.92
++ transport 4.64
+- techcombat 3.83
+end
+
+start
+Crahn Amplifier Gauntlet CAG 3
+graphic cag3
+req psi 64
++ psi 2.45
++ psiuse 7.34
++ focussing 12.24
+- endurance 4.04
+- psiresist 4.04
+end
