@@ -1,5 +1,5 @@
 start
-tl 26
+tl 25
 Crahn Absorber
 req psi 25
 req ppu 71
