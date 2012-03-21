@@ -872,7 +872,7 @@ req str 100
 + endurance 10.46
 + health 10.46
 - dex 1.73
-- weaponlore 5.19
+- agility 5.19
 end
 
 start
