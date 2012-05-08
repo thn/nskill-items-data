@@ -179,7 +179,7 @@ req psi 28
 + force 17
 + piercing 17
 + fire 17
-+ energy 24
++ energy 34
 end
 
 start
