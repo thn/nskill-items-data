@@ -268,7 +268,7 @@ end
 
 start
 Smart Cyber GPU v.1.04
-req dex 72
+req int 72
 + pistolcombat 10.82
 + riflecombat 10.82
 + techcombat 5.41
