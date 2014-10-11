@@ -23,6 +23,9 @@ req dex 20
 + dex 1.00
 + agility 6.24
 + athletics 3.12
+- int 1.00
+- hacking 2.08
+- weaponlore 1.00
 end
 
 start
