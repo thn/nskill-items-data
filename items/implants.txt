@@ -411,8 +411,8 @@ Construction Cooridinator v.2.0
 req int 46
 + int 1.87
 + construction 14.98
-+ repair 3.09
-+ recycle 3.09
+- repair 3.09
+- recycle 3.09
 end
 
 start
