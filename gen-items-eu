@@ -1,0 +1,29 @@
+#!/bin/bash
+#
+# This script is used to generate the items DB data for Germany and France users
+# who use a , instead of . for decimal numners.
+#
+# I am useless at writting regex - so if you can do better, feel free
+# to submit a pull request :) - Brammers
+#
+# Take a clean copy of the EN data
+#
+# WARNING: Any files in the items-eu dir is deleted
+#
+# THIS SOFTWARE IS PROVIDED "AS IS" AND ANY EXPRESSED OR IMPLIED WARRANTIES, INCLUDING,
+# BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
+# PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE REGENTS OR CONTRIBUTORS BE LIABLE FOR ANY
+# DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING,
+# BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR
+# PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
+# WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
+# ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY
+# OF SUCH DAMAGE.
+#
+rm -rf items-eu
+mkdir -p items-eu
+cp items/*.txt items-eu
+#
+# Regex funky magic stuff
+#
+perl -p -i -e 's/([\+|-] [a-z]+ [0-9]+)\.([0-9]+)/$1,$2/g' items-eu/*.txt
