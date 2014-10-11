@@ -30,4 +30,4 @@ Please fork the repository and create a pull request
 
 ## This repository
 
-This repository is maintained by the [Tech Haven Network](www.techhaven.org) on behalf of the original NSkill Authors.
+This repository is maintained by the [Tech Haven Network](http://www.techhaven.org) on behalf of the original NSkill Authors.
