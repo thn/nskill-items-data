@@ -170,7 +170,7 @@ req psi 56
 end
 
 start
-Crahn Blessed Spirt Boots
+Crahn Blessed Spirit Boots
 req psi 82
 + force 31
 + piercing 31

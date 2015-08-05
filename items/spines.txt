@@ -84,7 +84,7 @@ start
 Hardenbackbone 2
 req str 47
 + str 1.90
-+ heavycomnabt 7.62
++ heavycombat 7.62
 + transport 7.62
 - dex 1.00
 - agility 5.03
@@ -95,7 +95,7 @@ Advanced Nerves 2
 req int 52
 + int 2.07
 + hacking 8.26
-+ constuction 4.13
++ construction 4.13
 + research 4.13
 - con 1.00
 - athletics 2.73

@@ -71,7 +71,7 @@ req dex 10
 + dex 1.00
 + willpower 5.40
 - int 1.00
-- weeaponlore 1.90
+- weaponlore 1.90
 end
 
 start
@@ -145,7 +145,7 @@ graphic psiimp
 end
 
 start
-Synapse Beserk Mod X-11
+Synapse Berserk Mod X-11
 req str 18
 + str 1.00
 + meleecombat 7.81
@@ -178,7 +178,7 @@ req int 20
 end
 
 start
-Persistance Advancement CPU v.0.2
+Persistence Advancement CPU v.0.2
 req con 21
 + con 3.35
 end
@@ -407,7 +407,7 @@ req str 66
 end
 
 start
-Construction Cooridinator v.2.0
+Construction Coordinator v.2.0
 req int 46
 + int 1.87
 + construction 14.98
@@ -584,7 +584,7 @@ graphic psiimp
 end
 
 start
-Synapse Beserk Mod X-13
+Synapse Berserk Mod X-13
 req str 68
 + str 2.58
 + meleecombat 20.61
@@ -593,7 +593,7 @@ req str 68
 end
 
 start
-Synapse Beserk Mod X-12
+Synapse Berserk Mod X-12
 req str 43
 + str 1.77
 + meleecombat 14.21
@@ -612,7 +612,7 @@ req con 70
 end
 
 start
-Construction Cooridinator v.3.0
+Construction Coordinator v.3.0
 req int 74
 + int 2.77
 + construction 22.14
@@ -638,7 +638,7 @@ req dex 76
 + remotecontrol 16.99
 + willpower 5.66
 - vehicleuse 3.74
-- wepaonlore 5.61
+- weaponlore 5.61
 end
 
 start
