@@ -66,7 +66,7 @@ Heavy Targeting Matrix v.0.1
 req str 14
 + heavycombat 5.09
 + techcombat 1.67
-+ wepaonlore 1.67
++ weaponlore 1.67
 - meleecombat 1.12
 - pistol combat 1.00
 - riflecombat 1.00
@@ -178,7 +178,7 @@ req str 45
 end
 
 start
-DOY Repair Cooridinator
+DOY Repair Coordinator
 graphic doyeye
 req dex 46
 + repair 18.72

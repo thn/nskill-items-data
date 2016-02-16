@@ -30,7 +30,7 @@ start
 Battle Belt Prototype
 req str 16
 + force 44
-+ piecring 29
++ piercing 29
 end
 
 start

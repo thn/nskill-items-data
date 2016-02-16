@@ -16,7 +16,7 @@ req psi 30
 end
 
 start
-Gaya Tacholythium Gauntlet
+Gaya Tacholytium Gauntlet
 graphic gaya
 req psi 40
 + psi 2.16
