@@ -3,7 +3,7 @@
 # This script is used to generate the items DB data for Germany and France users
 # who use a , instead of . for decimal numners.
 #
-# I am useless at writting regex - so if you can do better, feel free
+# I am useless at writing regex - so if you can do better, feel free
 # to submit a pull request :) - Brammers
 #
 # Take a clean copy of the EN data
