@@ -1,37 +1,37 @@
 start
-Shabby Carbon Boots
-req str 44
+Shabby Carbon Boots 
+req str 38
++ force 38
++ piercing 49
++ poison 24
+end
+
+start
+Good Carbon Boots 
+req str 46
++ force 42
++ piercing 53
++ poison 26
+end
+
+start
+Great Carbon Boots 
+req str 54
 + force 47
-+ piercing 59
-+ poison 11
-end
-
-start
-Good Carbon Boots
-req str 52
-+ force 53
-+ piercing 66
-+ poison 13
-end
-
-start
-Great Carbon Boots
-req str 60
-+ force 58
-+ piercing 72
-+ poison 14
++ piercing 58
++ poison 30
 end
 
 start 
-Outstanding Carbon Boots
-req str 70
-+ force 64
-+ piercing 80
-+ poison 16
+Outstanding Carbon Boots 
+req str 64
++ force 52
++ piercing 65
++ poison 32
 end
 
 start
-Light Kevlar Boots
+Light Kevlar Boots 
 req str 8
 + force 16
 + piercing 9
@@ -40,16 +40,16 @@ req str 8
 end
 
 start
-Medium Kevlar Boots
+Medium Kevlar Boots 
 req str 20
-+ force 20
-+ piercing 12
++ force 12
++ piercing 16
 + fire 16
 + poison 32
 end
 
 start
-Heavy Kevlar Boots
+Heavy Kevlar Boots 
 req str 32
 + force 25
 + piercing 15
@@ -58,28 +58,31 @@ req str 32
 end
 
 start
-Battle Boots Prototype
-req str 17
+Battle Boots Prototype 
+req str 13
 + force 45
 + piercing 30
++ fire 15
 end
 
 start
-Usual Battle Boots
-req str 27
+Usual Battle Boots 
+req str 23
 + force 55
 + piercing 36
++ fire 18
 end
 
 start
-Advanced Battle Boots
-req str 37
+Advanced Battle Boots 
+req str 33
 + force 64
 + piercing 43
++ fire 21
 end
 
 start
-Bad Duranium Boots
+Bad Duranium Boots 
 req str 65
 + force 61
 + piercing 46
@@ -87,7 +90,7 @@ req str 65
 end
 
 start
-Duranium Boots
+Duranium Boots 
 req str 75
 + force 67
 + piercing 50
@@ -95,7 +98,7 @@ req str 75
 end
 
 start
-Advanced Duranium Boots
+Advanced Duranium Boots 
 req str 80
 + force 71
 + piercing 53
@@ -103,7 +106,7 @@ req str 80
 end
 
 start
-High Density Duranium Boots
+High Density Duranium Boots 
 req str 85
 + forcing 74
 + piercing 55
@@ -111,39 +114,39 @@ req str 85
 end
 
 start
-Unhallowed Inquisition Boots
-req str 45
+Unhallowed Inquisition Boots 
+req str 40
 + force 30
 + piercing 30
 + fire 60
 end
 
 start
-Inquisition Boots
-req str 53
+Inquisition Boots 
+req str 48
 + force 33
 + piercing 33
 + fire 67
 end
 
 start
-Holy Inquisition Boots
-req str 61
+Holy Inquisition Boots 
+req str 56
 + force 36
 + piercing 36
 + fire 73
 end
 
 start
-Gods Wish' Inquisition Boots
-req str 73
+Gods Wish' Inquisition Boots 
+req str 68
 + force 41
 + piercing 41
 + fire 83
 end
 
 start
-Crahn Shelter Boots
+Crahn Shelter Boots 
 req psi 10
 + force 12
 + piercing 12
@@ -152,7 +155,7 @@ req psi 10
 end
 
 start
-Crahn Blessed Shelter Boots
+Crahn Blessed Shelter Boots 
 req psi 30
 + force 17
 + piercing 17
@@ -161,19 +164,21 @@ req psi 30
 end
 
 start
-Crahn Spirit Boots
+Crahn Spirit Boots 
 req psi 56
 + force 24
 + piercing 24
 + energy 49
 + xray 24
++ fire 13
 end
 
 start
-Crahn Blessed Spirit Boots
+Crahn Blessed Spirit Boots 
 req psi 82
 + force 31
 + piercing 31
 + energy 63
 + xray 31
++ fire 16			
 end

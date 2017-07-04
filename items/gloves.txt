@@ -16,11 +16,12 @@ req psi 30
 end
 
 start
-Gaya Tacholytium Gauntlet
+Gaya Tacholythium Gauntlet
 graphic gaya
-req psi 40
-+ psi 2.16
-+ psiuse 17.28
+req psi 46
++ psi 3.42
++ psiuse 27.39
++ focussing 22.00
 end
 
 start
@@ -31,24 +32,25 @@ req psi 48
 + focussing 9.68
 - endurance 3.19
 - psiresist 3.19
++ psiuse 17.00
 end
 
 start
 Machina Construction Glove
-req int 60
+req int 55
 graphic constglove
-+ int 2.32
-+ construction 13.92
++ int 3.00
++ construction 28.00
 + transport 4.64
 - techcombat 3.83
 end
 
 start
 Machina Implant Glove
-req int 60
+req int 55
 graphic impglove
-+ int 2.32
-+ implant 13.92
++ int 3
++ implant 28.00
 + transport 4.64
 - techcombat 3.83
 end
@@ -56,9 +58,9 @@ end
 start
 Machina Recycle Glove
 graphic recglove
-req dex 60
-+ dex 2.32
-+ recycle 13.92
+req dex 55
++ dex 3.00
++ recycle 28.00
 + transport 4.64
 - techcombat 3.83
 end
@@ -66,9 +68,9 @@ end
 start
 Machina Repair Glove
 graphic repglove
-req dex 60
-+ dex 2.32
-+ repair 13.92
+req dex 55
++ dex 3.00
++ repair 28.00
 + transport 4.64
 - techcombat 3.83
 end
@@ -76,9 +78,9 @@ end
 start
 Machina Research Glove
 graphic resglove
-req int 60
-+ int 2.32
-+ research 13.92
+req int 55
++ int 3.00
++ research 28.00
 + transport 4.64
 - techcombat 3.83
 end
@@ -92,4 +94,5 @@ req psi 64
 + focussing 12.24
 - endurance 4.04
 - psiresist 4.04
++ psiuse 22.00
 end

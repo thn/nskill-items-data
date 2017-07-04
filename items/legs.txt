@@ -1,4 +1,12 @@
 start
+Advanced Leg
+graphic adleg
+req str 32
++ force 8.54
++ transport 5.70
+end
+
+start
 Biotech Antigamma Leg
 graphic agleg
 req str 31
@@ -10,8 +18,8 @@ start
 Experimental Leg
 graphic expleg
 req str 52
-+ force 12.38
-+ transport 8.26
++ force 25.00
++ transport 17.00
 end
 
 start
@@ -21,10 +29,3 @@ req str 12
 + transport 3.14
 end
 
-start
-Advanced Leg
-graphic adleg
-req str 32
-+ force 8.54
-+ transport 5.70
-end

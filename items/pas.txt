@@ -1,17 +1,21 @@
-// SPY Pistol
+// SPY ===========================================================================================================================================================
+
 
 start
-Ultimate Power Infiltrationsuit V S-256A
-req dex 115
+Holographic Projector Suit
+req int 90
 class spy
-+ force 33
-+ piercing 33
-+ xray 99
-+ dex 3.58
-+ pistolcombat 28.60
-- int 1.78
-- endurance 32.17
+graphic holo
++ force 26
++ energy 43
++ xray 53
++ dex 2.70
++ agility 11
+//- transport 10.82
++ endurance 16.00
 end
+
+// SPY Pistol ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 start
 Infiltrationsuit V 5-11
@@ -19,24 +23,11 @@ req dex 80
 class spy
 + force 24
 + piercing 24
-+ xray 74
++ xray 7
 + dex 2.45
 + pistolcombat 19.58
 - int 1.23
-- endurance 22.03
-end
-
-start
-Power Infiltrationsuit V S-256
-req dex 110
-class spy
-+ force 31
-+ piercing 31
-+ xray 93
-+ dex 3.27
-+ pistolcombat 26.14
-- int 1.63
-- endurance 29.40
+//- endurance 22.03
 end
 
 start
@@ -49,10 +40,93 @@ class spy
 + dex 2.96
 + pistolcombat 23.68
 - int 1.48
-- endurance 26.64
+//- endurance 26.64
 end
 
-// SPY Rifle
+start
+Power Infiltrationsuit V S-256
+req dex 110
+class spy
++ force 31
++ piercing 31
++ xray 93
++ energy 29
++ dex 3.27
++ pistolcombat 26.14
+- int 1.63
+//- endurance 29.40
+end
+
+start
+Regant Industries SP Mk 4 Genotoxic Suit
+req dex 110
+class spy
++ piercing 43.09
++ fire 86.00
++ poison 86.00
++ pistolcombat 19.60
++ techcombat 13.07
+- int 3.27
+- endurance 26.14
+end
+
+start
+Ultimate Power Infiltrationsuit V S-256A
+req dex 115
+class spy
++ force 33
++ piercing 33
++ xray 99
++ energy 29
++ dex 3.58
++ pistolcombat 28.60
+- int 1.78
+//- endurance 32.17
+end
+
+start
+Wisdom Of Ceres Silver Infiltration Suit
+graphic wocpa
+req dex 110
+class spy
++ force 50
++ piercing 50
++ xray 67
++ energy 26
++ dex 5.01	
++ pistolcombat 23.41
+- riflecombat 20.06
+end
+
+start
+Wisdom of Ceres Gold Infiltrationsuit G-50
+req dex 115
+class spy
+req wocdex 3
++ force 54.76
++ piercing 54.76
++ xray 73.01
++ dex 5.52
++ pistolcombat 25.74
+- riflecombat 22.08
+//- endurance 14.71
+end
+
+
+// SPY Rifle ----------------------------------------------------------------------------------------------------------------------------------------------------
+
+start
+Assassinationsuit V 5-11
+req dex 80
+class spy
++ force 24
++ piercing 24
++ xray 74
++ dex 2.45
++ riflecombat 19.58
+- int 1.23
+//- endurance 22.03
+end
 
 start
 Heavy Assassinationsuit V S-11A
@@ -64,7 +138,7 @@ class spy
 + dex 2.96
 + riflecombat 23.68
 - int 1.48
-- endurance 26.64
+//- endurance 26.64
 end
 
 start
@@ -77,20 +151,21 @@ class spy
 + dex 3.27
 + riflecombat 26.14
 - int 1.63
-- endurance 29.40
+//- endurance 29.40
++ energy 29
 end
 
 start
-Assassinationsuit V 5-11
-req dex 80
+Regant Industries SR Mk 4 Genotoxic Suit
+req dex 110
 class spy
-+ force 24
-+ piercing 24
-+ xray 74
-+ dex 2.45
-+ riflecombat 19.58
-- int 1.23
-- endurance 22.03
++ piercing 43.00
++ fire 86.00
++ poison 86.00
++ riflecombat 19.60
++ techcombat 13.07
+- int 3.27
+- endurance 26.14
 end
 
 start
@@ -100,26 +175,58 @@ class spy
 + force 33
 + piercing 33
 + xray 99
++ energy 32
 + dex 3.58
 + riflecombat 28.60
 - int 1.78
-- endurance 32.17
+//- endurance 32.17
 end
 
-//MONK PPU
+start
+Wisdom Of Ceres Silver Assassination Suit
+graphic wocpa
+req dex 110
+class spy
++ force 50
++ piercing 50
++ xray 67
++ energy 26
++ dex 5.01	
++ riflecombat 23.41
+- pistolcombat 20.06
+end
 
 start
-Crahn Spirit Passive Power Cloak
-req psi 110
-req ppu 130
+Wisdom of Ceres Gold Assassinationsuit G-50
+req dex 115
+class spy
+req wocdex 3
++ force 54.76
++ piercing 54.76
++ xray 73.01
++ dex 5.52
++ riflecombat 25.74
+- pistolcombat 22.08
+//- endurance 14.71
+end
+
+
+// MONK ===========================================================================================================================================================
+
+//MONK PPU ----------------------------------------------------------------------------------------------------------------------------------------------------
+
+start
+Crahn Passive Power Cloak
+req psi 80
+req ppu 110
 class monk
-+ force 36
-+ piercing 36
-+ energy 72
-+ psi 3.27
-+ ppu 26.14
-- apu 16.34
-- athletics 16.34
++ force 29
++ piercing 29
++ energy 58
++ psi 2.45
++ ppu 19.58
+- apu 17.58
+- athletics 6.12
 end
 
 start
@@ -132,25 +239,69 @@ class monk
 + energy 67
 + psi 2.96
 + ppu 23.68
-- apu 14.80
-- athletics 14.80
+- apu 21.68
+- athletics 7.4
 end
 
 start
-Crahn Passive Power Cloak
-req psi 80
-req ppu 110
+Crahn Spirit Passive Power Cloak
+req psi 110
+req ppu 140
 class monk
-+ force 29
-+ piercing 29
-+ energy 58
-+ psi 2.45
-+ ppu 19.58
-- apu 12.24
-- athletics 12.24
++ force 36
++ piecring 36
++ energy 72
++ psi 3.27
++ ppu 26.14
+- apu 24.14
+- athletics 8.00
 end
 
-// MONK APU
+start
+Crahn Blessed Spirit Passive Power Cloak
+req psi 1115
+req ppu 150
+class monk
++ force 39
++ piecring 39
++ energy 78
++ psi 3.58
++ ppu 28.60
+- apu 26.60
+- athletics 9.00
+end
+
+start
+Wisdom of Ceres Silver Passive Power Cloak G-50
+req psi 110
+req ppu 140
+class monk
+req wocpsi 1
++ force 42
++ piecring 42
++ energy 64
++ psi 5.01
++ ppu 23.41
+- apu 21.41
+- athletics 6
+end
+
+start
+Wisdom of Ceres Gold Passive Power Cloak G-50
+req psi 115
+req ppu 140
+class monk
+req wocpsi 3
++ force 45.63
++ piercing 45.63
++ energy 91.26
++ psi 5.52
++ ppu 25.74
+- apu 23.74
+- agility 7.36
+end
+
+// MONK APU ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 startstart
 Crahn Aggressive Power Cloak
@@ -162,8 +313,8 @@ class monk
 + energy 58
 + psi 2.45
 + apu 19.58
-- ppu 12.24
-- athletics 12.24
+- ppu 17.58
+- athletics 6.12
 end
 
 start
@@ -176,43 +327,76 @@ class monk
 + energy 67
 + psi 2.96
 + apu 23.68
-- ppu 14.80
-- athletics 14.80
+- ppu 21.68
+- athletics 7.4
 end
 
 start
 Crahn Spirit Aggressive Power Cloak
 req psi 110
-req apu 130
+req apu 140
 class monk
 + force 36
-+ piercing 36
++ piecring 36
 + energy 72
 + psi 3.27
 + apu 26.14
-- ppu 16.34
-- athletics 16.34
+- ppu 24.14
+- athletics 8.00
 end
-
-// TANK Heavy
 
 start
-Ultimate Powersuit V X-S56A
-req str 115
-class tank
-+ force 53
-+ piercing 53
-+ energy 70
-+ str 3.58
-+ heavycombat 28.60
-- dex 1.78
-- agility 32.17
+Crahn Blessed Spirit Aggressive Power Cloak
+req psi 115
+req apu 150
+class monk
++ force 39
++ piecring 39
++ energy 78
++ psi 3.58
++ apu 28.60
+- ppu 26.60
+- athletics 9.00
 end
+
+start
+Wisdom of Ceres Silver Aggressive Power Cloak G-50
+req psi 110
+req apu 140
+req wocpsi 1
+class monk
++ force 42
++ piecring 42
++ energy 64
++ psi 5.01
++ apu 23.41
+- ppu 21.41
+- athletics 6
+end
+
+start
+Wisdom of Ceres Gold Aggressive Power Cloak G-50
+req psi 115
+req apu 140
+class monk
+req wocpsi 3
++ force 45.63
++ piercing 45.63
++ energy 91.26
++ psi 5.52
++ apu 25.74
+- ppu 23.74
+- agility 7.36
+end
+
+// TANK ===========================================================================================================================================================
+
+// TANK Heavy ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 start
 Armorsuit V X-13
-req str 80
-class tank
+req str 70
+//class tank
 + force 39
 + piercing 39
 + energy 52
@@ -224,8 +408,8 @@ end
 
 start
 Heavy Armorsuit V X-13A
-req str 100
-class tank
+req str 90
+//class tank
 + force 45
 + piercing 45
 + energy 60
@@ -235,25 +419,76 @@ class tank
 - agility 26.64
 end
 
-// TANK Melee
+start
+Powersuit V X-256
+req str 110
++ force 49
++ piercing 49
++ energy 33
++ str 3.27
++ heavycombat 26.14
+- dex 1.63
+- agility 15.00
+end
 
 start
-Ultimate Powersuit V M-S56A
+Camo Powersuit V HC-3
+req str 110
+//class tank
++ poison 83
++ fire 50
++ force 33
++ str 4.18
+- con 3.35
++ heavycombat 25.08
+- athletics 26.75
+end
+
+start
+Ultimate Powersuit V X-256A
 req str 115
-class tank
 + force 53
 + piercing 53
 + energy 70
 + str 3.58
-+ meleecombat 28.60
++ heavycombat 28.60
 - dex 1.78
-- agility 32.17
+- agility 16
 end
 
 start
+Wisdom of Ceres Silver Heavy Combatsuit S-50
+graphic wocpa
+req str 110
++ force 53
++ piercing 53
++ energy 71
++ str 5.01
++ heavycombat 23.41
+- dex 5.01
+- athletics 12
+end
+
+start
+Wisdom of Ceres Gold Heavy Combatsuit G-50
+graphic wocpa
+req str 115
++ force 58
++ piercing 58
++ energy 77
++ str 5.51
++ heavycombat 25.75
+- dex 5.51
+- athletics 25.75
+end
+
+
+// TANK Melee ----------------------------------------------------------------------------------------------------------------------------------------------------
+
+start
 Armorsuit V M-13
-req str 80
-class tank
+req str 70
+//class tank
 + force 39
 + piercing 39
 + energy 52
@@ -265,8 +500,8 @@ end
 
 start
 Heavy Armorsuit V M-13A
-req str 100
-class tank
+req str 90
+//class tank
 + force 45
 + piercing 45
 + energy 60
@@ -276,12 +511,80 @@ class tank
 - agility 26.64
 end
 
-// TANK Pistol
+start
+Camo Powersuit V MC-3
+req str 110
+//class tank
++ poison 83
++ fire 50
++ force 33
++ str 4.18
+- con 3.35
++ meleecombat 25.08
+- athletics 26.75
+end
+
+start
+Powersuit Tangent V M-256
+req str 110
++ force 49
++ piercing 49
++ energy 33
++ str 3.27
++ meleecombat 26.14
+- dex 1.63
+- heavycombat 29.00
+end
+
+start
+Ultimate Powersuit V M-256A
+req str 115
+//class tank
++ force 53
++ piercing 53
++ energy 70
++ str 3.58
++ meleecombat 28.60
+- dex 1.78
+- heavycombat 32.00
+//- agility 32.17
+end
+
+start
+Wisdom of Ceres Silver Close Combatsuit S-50
+graphic wocpa
+req str 110
++ force 53
++ piercing 53
++ energy 71
++ str 5.01
++ meleecombat 23.41
+- dex 5.01
+- athletics 6
+end
+
+start
+Wisdom of Ceres Gold Close Combatsuit G-50
+req str 115
+//class tank
+req wocstr 3
++ force 58.27
++ piercing 58.27
++ energy 77.69
++ str 5.52
++ meleecombat 25.74
+- dex 5.52
+- athletics 25.74
+end
+
+
+
+// TANK Pistol ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 start
 Armorsuit V P-13
 req dex 60
-class tank
+//class tank
 + force 31
 + piercing 31
 + energy 41
@@ -294,7 +597,7 @@ end
 start
 Heavy Armorsuit V P-13A
 req dex 70
-class tank
+//class tank
 + force 38
 + piercing 38
 + energy 51
@@ -304,60 +607,64 @@ class tank
 - heavycombat 14.80
 end
 
-// TANK Rifle
-
 start
-Armorsuit V R-13
-req dex 60
+Powersuit V P-256
+req dex 80
 class tank
-+ force 31
-+ piercing 31
-+ energy 41
-+ dex 2.45
-+ riflecombat 19.58
-- meleecombat 12.24
-- heavycombat 12.24
++ force 42.0
++ piercing 42.0
++ energy 33
++ dex 3.27
++ pistolcombat 26.14
+- mellecombat 16.34
+- heavycombat 16.34
 end
 
 start
-Heavy Armorsuit V R-13A
-req dex 70
+Ultimate Powersuit V P-256A
+req dex 90
 class tank
-+ force 38
-+ piercing 38
-+ energy 51
-+ dex 2.96
-+ riflecombat 23.68
-- meleecombat 14.80
-- heavycombat 14.80
++ force 47.0
++ piercing 47.0
++ energy 32.00
++ dex 3.58
++ pistolcombat 28.60
+- meleecombat 17.87
+- heavycombat 17.87
 end
 
-// PE Pistol
+// TANK Rifle ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 start
-Tangent Close Range Battlesuit V-40
-req dex 105
-class pe
-+ force 51
-+ piercing 51
-+ energy 44
-+ dex 3.86
-+ pistolcombat 23.16
-- riflecombat 30.88
+Powersuit V R-256
+class tank
+req dex 80
++ force 42
++ piercing 42
++ energy 33
++ dex 3.27
++ riflecombat 26.14
+- meleecombat 16.34
+- heavycombat 16.34
 end
 
 start
-Tangent Long Range Battlesuit V-40
-req dex 105
-class pe
-+ force 51
-+ piercing 51
-+ energy 44
-+ dex 3.86
-+ riflecombat 23.16
-- pistolcombat 30.88
+Ultimate Powersuit V R-256A
+class tank
+req dex 90
++ force 47.0
++ piercing 47.0
++ energy 32
++ dex 3.58
++ Riflecombat 28.60
+- meleecombat 17.87
+- heavycombat 17.87
 end
 
+
+// PE ===========================================================================================================================================================
+
+// PE Pistol ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 start
 Tangent Close Range Battlesuit V-10
@@ -383,19 +690,111 @@ class pe
 - riflecombat 24.48
 end
 
-// PE Rifle
+start
+Tangent Close Range Battlesuit V-30
+req dex 90
+class pe
++ force 46
++ piercing 46
++ energy 40
++ dex 3.38
++ pistolcombat 20.28
+- riflecombat 27.04
+- athletics 11
+end
 
-start	
-Tangent Distance Battlesuit V-40
+start
+Camo Close Range Battlesuit V-30
+req dex 90
+class pe
++ poison 67
++ fire 40
++ force 26
++ dex 3.38
+- con 2.70
++ pistolcombat 20.28
+- athletics 11
+end
+
+start
+Regant Industries PP Mk 4 Genotoxic Suit
+req dex 90
+class pe
++ piercing 36.00
++ fire 73.00
++ poison 73.00
++ pistolcombat 16.22
++ techcombat 10.82
+- riflecombat 27.04
+end
+
+start
+Tangent Close Range Battlesuit V-40
 req dex 105
 class pe
 + force 51
 + piercing 51
 + energy 44
 + dex 3.86
-+ riflecombat 23.16
-- pistolcombat 30.88
++ pistolcombat 23.16
+- riflecombat 30.88
 end
+
+start
+Wisdom of Ceres Silver Close Range Battlesuit G-50
+req dex 90
+class pe
+req wocdex 1
++ force 42
++ piercing 42
++ energy 57
++ dex 5.01
++ pistolcombat 23.41
+- riflecombat 20.08
+- athletics 13.38
+end
+
+start
+Wisdom of Ceres Gold Close Range Battlesuit G-50
+req dex 105
+class pe
+req wocdex 3
++ force 47.51
++ piercing 47.51
++ energy 63.34
++ dex 5.52
++ pistolcombat 25.74
+- riflecombat 22.08
+- athletics 14.71
+end
+
+// PE Heavy Combat ----------------------------------------------------------------------------------------------------------------------------------------------------
+
+start	
+Tangent Heavy Combat Battlesuit V-30
+req str 70
+class pe
++ force 46
++ piercing 46
++ energy 40	
++ str 3.38
++ heavycombat 20.28
+- pistolcombat 20.28
+end
+
+start	
+Tangent Heavy Combat Battlesuit V-40
+req str 80
+class pe
++ force 51
++ piercing 51
++ energy 44	
++ str 3.86
++ heavycombat 23.16
+- pistolcombat 23.16
+end
+
+// PE Rifle ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 start
 Tangent Distance Battlesuit V-10
@@ -420,6 +819,106 @@ class pe
 + riflecombat 18.36
 - pistolcombat 24.48
 end
+
+start
+Tangent Distance Battlesuit V-30
+req dex 90
+class pe
++ force 46
++ piercing 46
++ energy 40
++ dex 3.38
++ riflecombat 20.28
+- pistolcombat 27.04
+end
+
+start
+Camo Distance Battlesuit V-30
+req dex 90
+class pe
++ force 26
++ fire 40
++ poison 67.00
++ dex 3.38
++ riflecombat 20.28
+- con 2.70
+- athletics 11.00 
+end
+
+start	
+Tangent Distance Battlesuit V-40
+req dex 105
+class pe
++ force 51
++ piercing 51
++ energy 44
++ dex 3.86
++ riflecombat 23.16
+- pistolcombat 30.88
+end
+
+start
+Regant Industries PR Mk 4 Genotoxic Suit
+req dex 90
+class pe
++ piercing 36.00
++ fire 73.00
++ poison 73.00
++ riflecombat 16.22
++ techcombat 10.82
+- pistolcombat 27.04
+end
+
+start
+Wisdom of Ceres Silver Long Range Battlesuit G-50
+req dex 90
+class pe
+req wocdex 1
++ force 42
++ piercing 42
++ energy 57
++ dex 5.01
++ riflecombat 23.41
+- pistolcombat 20.08
+- athletics 13.38
+end
+
+start
+Wisdom of Ceres Gold Long Range Battlesuit G-50
+req dex 105
+class pe
+req wocdex 3
++ force 47.51
++ piercing 47.51
++ energy 63.34
++ dex 5.52
++ riflecombat 25.74
+- pistolcombat 22.08
+- athletics 14.71
+end
+
+
+// PE Melle ----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+start
+Regant Industries PM Mk 4 Genotoxic Suit
+req str 80
+class pe
++ piercing 38.00
++ fire 77.00
++ poison 77.00
++ str 6.06
++ meleecombat 14.00
++ heavycombat 14.00
+- health 13.52
+end
+
+//  ===========================================================================================================================================================
+//  ===========================================================================================================================================================
+//  ===========================================================================================================================================================
+//  ===========================================================================================================================================================
+
 
 // Underarmor
 
@@ -452,6 +951,8 @@ req psi 81
 - athletics 17.32
 - health 7.42
 end
+
+// ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 start
 Crahn Argentiferous Lead Coat
@@ -486,6 +987,8 @@ req psi 73
 - fire 9.08
 end
 
+// ----------------------------------------------------------------------------------------------------------------------------------------------------
+
 start
 Light Carbonsilk Suit
 graphic carbonsilk
@@ -494,7 +997,7 @@ req str 62
 + piercing 48
 + energy 24
 + poison 24
-- fire 19.84
+- fire 9
 end
 
 start
@@ -505,7 +1008,7 @@ req str 72
 + piercing 52
 + energy 26
 + poison 26
-- fire 22.43
+- fire 11
 end
 
 start
@@ -516,8 +1019,10 @@ req str 82
 + piercing 57
 + energy 28
 + poison 28
-- fire 24.99
+- fire 13
 end
+
+// ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 start
 Shabby Glassfibre Suit
@@ -559,13 +1064,15 @@ req str 68
 - agility 21.41
 end
 
+// ----------------------------------------------------------------------------------------------------------------------------------------------------
+
 start
 Low Fesilicon Coat
 req str 26
 + force 31
 + piercing 40
 + xray 18
-- athletics 13.22
+- athletics 6
 end
 
 start
@@ -574,7 +1081,7 @@ req str 44
 + force 34
 + piercing 44
 + xray 19
-- athletics 15.26
+- athletics 8
 end
 
 start
@@ -583,8 +1090,10 @@ req str 62
 + force 42
 + piercing 54
 + xray 24
-- athletics 19.87
+- athletics 10
 end
+
+// ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 start
 Shabby Ionic Cotton Underwear
@@ -623,45 +1132,49 @@ req str 67
 - fire 15.16
 end
 
+// ----------------------------------------------------------------------------------------------------------------------------------------------------
+
 start
 Tangent Low Density Krokydolith Suit
 graphic krokydolith
-req int 20
+req int 14
 + force 6
 + fire 41
 + poison 20
-- athletics 6.38
+- athletics 5
 - health 2.74
 end
 
 start
 Tangent Medium Density Krokydolith Suit
 graphic krokydolith
-req int 44
+req int 38
 + force 9
 + fire 55
 + poison 27
-- athletics 10.68
+- athletics 7
 - health 4.58
 end
 
 start
 Tangent High Density Krokydolith Suit
 graphic krokydolith
-req int 71
+req int 65
 + force 12
 + fire 72
 + poison 36
-- athletics 15.52
+- athletics 9
 - health 6.65
 end
+
+// ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 start
 Tangent Ionic Nylon Underall
 graphic ionic
-req int 18
+req int 7
 + force 6
-+ piercing 6
++ piercing 17
 + energy 26
 + xray 26
 - agility 1.72
@@ -671,456 +1184,32 @@ end
 start
 Tangent Doublelayered Ionic Nylon Underall
 graphic ionic
-req int 42
+req int 31
 + force 9
-+ piercing 9
++ piercing 22
 + energy 36
 + xray 36
 - agility 2.95
 - fire 11.80
 end
 
+// ----------------------------------------------------------------------------------------------------------------------------------------------------
+
 start
 Tangent Triplelayered Ionic Nylon Underall
 graphic ionic
-req int 69
+req int 78
 + force 11
-+ piercing 11
++ piercing 30
 + energy 47
 + xray 47
 - agility 4.33
 - fire 17.33
 end
 
-start
-Regant Industries PP Mk 4 Genotoxic Suit
-req dex 90
-class pe
-+ piercing 36.51
-+ fire 73.02
-+ poison 73.02
-+ pistolcombat 16.22
-+ techcombat 10.82
-- riflecombat 27.04
-end
-
-start
-Regant Industries PR Mk 4 Genotoxic Suit
-req dex 90
-class pe
-+ piercing 36.51
-+ fire 73.02
-+ poison 73.02
-+ riflecombat 16.22
-+ techcombat 10.82
-- pistolcombat 27.04
-end
-
-start
-Powersuit V P-256
-req dex 80
-class tank
-+ force 42.0
-+ piercing 42.0
-+ energy 56.0
-+ dex 3.27
-+ pistolcombat 26.24
-- meleecombat 16.34
-- heavycombat 16.34
-end
-
-start
-Powersuit V R-256
-req dex 80
-class tank
-+ force 42.0
-+ piercing 42.0
-+ energy 56.0
-+ dex 3.27
-+ riflecombat 26.24
-- meleecombat 16.34
-- heavycombat 16.34
-end
-
-start
-Ultimate Powersuit V P-256A
-req dex 90
-class tank
-+ force 47.0
-+ piercing 47.0
-+ energy 62.0
-+ dex 3.58
-+ pistolcombat 28.60
-- meleecombat 17.87
-- heavycombat 17.87
-end
-
-start
-Ultimate Powersuit V R-256A
-class tank
-req dex 90
-+ force 47.0
-+ piercing 47.0
-+ energy 62.0
-+ dex 3.58
-+ riflecombat 28.60
-- meleecombat 17.87
-- heavycombat 17.87
-end
-
-start
-Wisdom of Ceres Gold Heavy Combatsuit G-50
-graphic wocpa
-req str 115
-+ force 58
-+ piercing 58
-+ energy 77
-+ str 5.51
-+ heavycombat 25.75
-- dex 5.51
-- athletics 25.75
-end
-
-start
-Wisdom of Ceres Silver Heavy Combatsuit S-50
-graphic wocpa
-req str 110
-+ force 53
-+ piercing 53
-+ energy 71
-+ str 5.01
-+ heavycombat 23.41
-- dex 5.01
-- athletics 23.41
-end
-
-start
-Wisdom of Ceres Silver Close Combatsuit S-50
-graphic wocpa
-req str 110
-+ force 53
-+ piercing 53
-+ energy 71
-+ str 5.01
-+ meleecombat 23.41
-- dex 5.01
-- athletics 23.41
-end
 
 
-start
-Holographic Projector Suit
-req int 90
-class spy
-graphic holo
-+ force 26
-+ energy 53
-+ xray 53
-+ dex 2.70
-+ agility 21.63
-- transport 10.82
-- endurance 16.22
-end
-
-start
-Tangent Close Range Battlesuit V-30
-req dex 90
-class pe
-+ force 46
-+ piercing 46
-+ energy 40
-+ dex 3.38
-+ pistolcombat 20.28
-- riflecombat 27.04
-end
-
-start
-Tangent Distance Battlesuit V-30
-req dex 90
-class pe
-+ force 46
-+ piercing 46
-+ energy 40
-+ dex 3.38
-+ riflecombat 20.28
-- pistolcombat 27.04
-end
-
-start
-Camo Close Range Battlesuit V-30
-req dex 90
-class pe
-+ poison 67
-+ fire 40
-+ force 26
-+ dex 3.38
-- con 2.70
-+ pistolcombat 20.28
-- athletics 21.63
-end
 
 
-start
-Camo Long Range Battlesuit V-30
-req dex 90
-class pe
-+ poison 67
-+ fire 40
-+ force 26
-+ dex 3.38
-- con 2.70
-+ riflecombat 20.28
-- athletics 21.63
-end
-
-start
-Camo Powersuit V HC-3
-req str 110
-class tank
-+ poison 83
-+ fire 50
-+ force 33
-+ str 4.18
-- con 3.35
-+ heavycombat 25.08
-- athletics 26.75
-end
-
-start
-Camo Powersuit V MC-3
-req str 110
-class tank
-+ poison 83
-+ fire 50
-+ force 33
-+ str 4.18
-- con 3.35
-+ meleecombat 25.08
-- athletics 26.75
-end
-
-start
-Wisdom Of Ceres Silver Infiltration Suit
-graphic wocpa
-req dex 110
-class spy
-+ force 50
-+ piercing 50
-+ xray 67
-+ dex 5.01	
-+ pistolcombat 23.41
-- riflecombat 20.06
-- endurance 13.38
-end
-
-start
-Wisdom Of Ceres Silver Assassination Suit
-graphic wocpa
-req dex 110
-class spy
-+ force 50
-+ piercing 50
-+ xray 67
-+ dex 5.01	
-+ riflecombat 23.41
-- pistolcombat 20.06
-- endurance 13.38
-end
-
-start
-Regant Industries SP Mk 4 Genotoxic Suit
-req dex 110
-class spy
-+ piercing 43.09
-+ fire 86.18
-+ poison 86.18
-+ pistolcombat 19.6
-+ techcombat 13.07
-- int 3.27
-- endurance 26.14
-end
-
-start
-Regant Industries SR Mk 4 Genotoxic Suit
-req dex 110
-class spy
-+ piercing 43.09
-+ fire 86.18
-+ poison 86.18
-+ riflecombat 19.6
-+ techcombat 13.07
-- int 3.27
-- endurance 26.14
-end
-
-start
-Regant Industries PM Mk 4 Genotoxic Suit
-req str 80
-class pe
-+ piercing 38.85
-+ fire 77.7
-+ poison 77.7
-+ str 6.06
-+ meleecombat 14.87
-- endurance 13.52
-- health 13.52
-end
-
-start
-Wisdom of Ceres Gold Close Combatsuit G-50
-req str 115
-class tank
-req wocstr 3
-+ force 58.27
-+ piercing 58.27
-+ energy 77.69
-+ str 5.52
-+ meleecombat 25.74
-- dex 5.52
-- athletics 25.74
-end
-
-start
-Wisdom of Ceres Gold Infiltrationsuit G-50
-req dex 115
-class spy
-req wocdex 3
-+ force 54.76
-+ piercing 54.76
-+ xray 73.01
-+ dex 5.52
-+ pistolcombat 25.74
-- riflecombat 22.08
-- endurance 14.71
-end
-
-start
-Wisdom of Ceres Gold Assassinationsuit G-50
-req dex 115
-class spy
-req wocdex 3
-+ force 54.76
-+ piercing 54.76
-+ xray 73.01
-+ dex 5.52
-+ riflecombat 25.74
-- pistolcombat 22.08
-- endurance 14.71
-end
-
-start
-Wisdom of Ceres Gold Close Range Battlesuit G-50
-req dex 105
-class pe
-req wocdex 3
-+ force 47.51
-+ piercing 47.51
-+ energy 63.34
-+ dex 5.52
-+ pistolcombat 25.74
-- riflecombat 22.08
-- athletics 14.71
-end
-
-start
-Wisdom of Ceres Gold Long Range Battlesuit G-50
-req dex 105
-class pe
-req wocdex 3
-+ force 47.51
-+ piercing 47.51
-+ energy 63.34
-+ dex 5.52
-+ riflecombat 25.74
-- pistolcombat 22.08
-- athletics 14.71
-end
-
-start
-Wisdom of Ceres Gold Aggressive Power Cloak G-50
-req psi 115
-req apu 140
-class monk
-req wocpsi 3
-+ force 45.63
-+ piercing 45.63
-+ energy 91.26
-+ psi 5.52
-+ apu 25.74
-- ppu 22.08
-- agility 14.71
-end
-
-start
-Wisdom of Ceres Gold Passive Power Cloak G-50
-req psi 115
-req ppu 140
-class monk
-req wocpsi 3
-+ force 45.63
-+ piercing 45.63
-+ energy 91.26
-+ psi 5.52
-+ ppu 25.74
-- apu 22.08
-- agility 14.71
-end
-
-start
-Wisdom of Ceres Silver Aggressive Power Cloak G-50
-req psi 110
-req apu 130
-req wocpsi 1
-class monk
-+ force 36
-+ piercing 36
-+ energy 72
-+ psi 3.27
-+ apu 26.14
-- ppu 16.34
-- athletics 16.34
-end
-
-start
-Wisdom of Ceres Silver Passive Power Cloak G-50
-req psi 110
-req ppu 130
-class monk
-req wocpsi 1
-+ force 36
-+ piercing 36
-+ energy 72
-+ psi 3.27
-+ ppu 26.14
-- apu 16.34
-- athletics 16.34
-end
-
-start
-Wisdom of Ceres Silver Close Range Battlesuit G-50
-req dex 90
-class pe
-req wocdex 1
-+ force 42
-+ piercing 42
-+ energy 57
-+ dex 5.01
-+ pistolcombat 23.41
-- riflecombat 20.08
-- athletics 13.38
-end
 
 
-start
-Wisdom of Ceres Silver Long Range Battlesuit G-50
-req dex 90
-class pe
-req wocdex 1
-+ force 42
-+ piercing 42
-+ energy 57
-+ dex 5.01
-+ riflecombat 23.41
-- pistolcombat 20.08
-- athletics 13.38
-end

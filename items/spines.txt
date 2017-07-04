@@ -1,76 +1,136 @@
 start
-Strengthen-Booster 1
-req str 14
-+ str 1.00
-+ transport 6.78
-- dex 1.00
-- agility 2.24
-end
-
-start
-Dexterity-Booster 1
-req dex 15
-+ dex 1.00
-+ agility 7.04
-- con 1.00
-- athletics 1.16
-- endurance 1.16
-end
-
-start
-Reflexbooster 1
-req dex 20
-+ dex 1.00
-+ agility 6.24
-+ athletics 3.12
-- int 1.00
-- hacking 2.08
-- weaponlore 1.00
-end
-
-start
-Hardenbackbone 1
-req str 22
-+ str 1.11
-+ heavycombat 4.42
-+ transport 4.42
-- dex 1.00
-- agility 2.91
-end
-
-start
-Advanced Nerves 1
+Advanced Nerves V. 1.0
 req int 25
-+ int 1.20
-+ hacking 4.80
++ int 2.40
++ hacking 9.00
 + construction 2.40
 + research 2.40
 - con 1.00
 - athletics 1.58
 - endurance 1.58
++ implant 7.00
 end
 
 start
-Strengthen-Booster 2
-req str 34
-+ str 1.49
-+ transport 11.90
-- dex 1.00
-- agility 3.93
+Advanced Nerves V. 2.0
+req int 52
++ int 4.10
++ hacking 15.00
++ constuction 4.13
++ research 4.13
+- con 1.00
+- athletics 2.73
+- endurance 2.73
++ implant 13.00
 end
 
 start
-Dexterity-Booster 2
+Advanced Nerves V. 3.0
+req int 80
++ int 5.90
++ hacking 21.00
++ construction 5.92
++ research 5.92
+- con 1.00
+- athletics 3.91
+- endurance 3.91
+end
+
+start
+Dexterity Booster V. 1.0
+req dex 15
++ dex 1.00
++ agility 7.04
+- con 1.00
+- endurance 1.16
+end
+
+start
+Dexterity Booster V. 2.0
 req dex 35
 + dex 1.52
 + agility 12.16
 - con 1.00
-- athletics 2.01
 - endurance 2.01
 end
 
 start
-Reflexbooster 2
+Dexterity Booster V. 3.0
+req dex 64
++ dex 2.48
++ agility 19.84
+- con 1.00
+- endurance 3.27
+end
+
+start
+Experimental Reflexbooster V. 2.3
+req dex 70
++ dex 2.64
++ agility 15.84
++ endurance 10.00
+- int 1.00
+- hacking 5.23
+- weaponlore 1.74
+end
+
+start
+Experimental Reflexbooster V. 2.4
+req dex 78
++ dex 2.89
++ agility 17.38
++ endurance 12.00
+- int 1.00
+- hacking 5.74
+- weaponlore 1.91
+end
+
+start
+Hardenbackbone V. 1.0
+req str 22
++ str 2.11
++ heavycombat 4.42
++ transport 4.42
+- dex 1.00
+- agility 2.91
++ piercing 4.00
+end
+
+start
+Hardenbackbone V. 2.0
+req str 47
++ str 2.90
++ heavycombat 7.62
++ transport 7.62
+- dex 1.00
+- agility 5.03
++ piercing 8.00
+end
+
+start
+Hardenbackbone V. 3.0
+req str 72
++ str 3.70
++ heavycombat 10.82
++ transport 10.82
+- dex 1.00
+- agility 7.14
++ piercing 11.00
+end
+
+start
+Reflexbooster V. 1.0
+req dex 20
++ dex 1.00
++ agility 6.24
++ athletics 3.12
+- int 1.00
+- hacking 2.06
+- weaponlore 1.00
+end
+
+start
+Reflexbooster V. 2.0
 req dex 40
 + dex 1.00
 + agility 10.08
@@ -81,29 +141,7 @@ req dex 40
 end
 
 start
-Hardenbackbone 2
-req str 47
-+ str 1.90
-+ heavycombat 7.62
-+ transport 7.62
-- dex 1.00
-- agility 5.03
-end
-
-start
-Advanced Nerves 2
-req int 52
-+ int 2.07
-+ hacking 8.26
-+ construction 4.13
-+ research 4.13
-- con 1.00
-- athletics 2.73
-- endurance 2.73
-end
-
-start
-Reflexbooster 3
+Reflexbooster V. 3.0
 req dex 55
 + dex 1.08
 + agility 12.96
@@ -114,26 +152,7 @@ req dex 55
 end
 
 start
-Strengthen-Booster 3
-req str 63
-+ str 2.41
-+ transport 19.33
-- dex 1.00
-- agility 6.38
-end
-
-start
-Dexterity-Booster 3
-req dex 64
-+ dex 2.48
-+ agility 19.84
-- con 1.00
-- athletics 3.27
-- endurance 3.27
-end
-
-start
-Reflexbooster 4
+Reflexbooster V. 4.0
 req dex 65
 + dex 1.24
 + agility 14.88
@@ -144,45 +163,31 @@ req dex 65
 end
 
 start
-Experimental-Reflexbooster 2.3
-req dex 70
-+ dex 2.64
-+ agility 15.84
-+ endurance 5.28
-- int 1.00
-- hacking 5.23
-- weaponlore 1.74
-end
-
-start
-Hardenbackbone 3
-req str 72
-+ str 2.70
-+ heavycombat 10.82
-+ transport 10.82
+Strengthen-Booster V. 1.0
+req str 14
++ str 1.00
++ transport 6.78
 - dex 1.00
-- agility 7.14
+- agility 2.24
++ meleecombat 5.00
 end
 
 start
-Experimental-Reflexbooster 2.4
-req dex 78
-+ dex 2.89
-+ agility 17.38
-+ endurance 5.79
-- int 1.00
-- hacking 5.74
-- weaponlore 1.91
+Strengthen-Booster V. 2.00
+req str 34
++ str 1.49
++ transport 11.90
+- dex 1.00
+- agility 3.93
++ meleecombat 10.00
 end
 
 start
-Advanced Nerves 3
-req int 80
-+ int 2.96
-+ hacking 11.84
-+ construction 5.92
-+ research 5.92
-- con 1.00
-- athletics 3.91
-- endurance 3.91
+Strengthen-Booster V. 3.0
+req str 63
++ str 2.41
++ transport 19.33
+- dex 1.00
+- agility 6.38
++ meleecombat 15.00
 end

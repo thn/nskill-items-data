@@ -25,7 +25,7 @@ start
 tl 62
 Crahn Blessed Absorber
 req psi 62
-req ppu 111
+req ppu 99
 req focussing 63
 psi amp 1
 + energy 26.98%

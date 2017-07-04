@@ -40,7 +40,7 @@ req ppu 53
 req focussing 18
 psi amp 1
 + construction 4.06
-+ research 3.04
++ reseach 3.04
 + recycle 2.03
 end
 

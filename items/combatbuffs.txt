@@ -3,7 +3,7 @@ nosort
 
 //drone
 start
-Crahn Drone Combat Booster
+Crahn Drone Combat Booster 
 req psi 15
 req ppu 53
 req focussing 18
@@ -14,10 +14,10 @@ psi amp 1
 end
 
 start
-Crahn Blessed Drone Combat Booster
-req psi 55
-req ppu 106
-req focussing 59
+Crahn Blessed Drone Combat Booster 
+req psi 40
+req ppu 91
+req focussing 50
 psi amp 1
 + remotecontrol 13.26
 + techcombat 6.63
@@ -25,10 +25,10 @@ psi amp 1
 end
 
 start
-Crahn Holy Drone Combat Booster
-req psi 95
-req ppu 136
-req focussing 81
+Crahn Holy Drone Combat Booster 
+req psi 70
+req ppu 117
+req focussing 68
 psi amp 1
 + remotecontrol 21.46
 + techcombat 10.73
@@ -37,7 +37,7 @@ end
 
 //Heavy Combat
 start
-Crahn Heavy Combat Booster
+Crahn Heavy Combat Booster 
 req psi 15
 req ppu 53
 req focussing 18
@@ -48,10 +48,10 @@ psi amp 1
 end
 
 start
-Crahn Blessed Heavy Combat Booster
-req psi 55
-req ppu 106
-req focussing 59
+Crahn Blessed Heavy Combat Booster 
+req psi 40
+req ppu 91
+req focussing 50
 psi amp 1
 + heavycombat 13.26
 + techcombat 6.63
@@ -59,10 +59,10 @@ psi amp 1
 end
 
 start
-Crahn Holy Heavy Combat Booster
-req psi 95
-req ppu 136
-req focussing 81
+Crahn Holy Heavy Combat Booster x 
+req psi 70
+req ppu 117
+req focussing 68
 psi amp 1
 + heavycombat 21.46
 + techcombat 10.73
@@ -85,9 +85,9 @@ end
 
 start
 Crahn Blessed Melee Combat Booster
-req psi 55
-req ppu 106
-req focussing 59
+req psi 40
+req ppu 91
+req focussing 50
 psi amp 1
 + meleecombat 13.26
 + techcombat 6.63
@@ -96,9 +96,9 @@ end
 
 start
 Crahn Holy Melee Combat Booster
-req psi 95
-req ppu 136
-req focussing 81
+req psi 70
+req ppu 117
+req focussing 68
 psi amp 1
 + meleecomabt 21.46
 + techcombat 10.73
@@ -130,9 +130,9 @@ end
 
 start
 Crahn Holy Pistol Combat Booster
-req psi 95
-req ppu 136
-req focussing 81
+req psi 70
+req ppu 117
+req focussing 68
 psi amp 1
 + pistolcombat 21.46
 + techcombat 10.73
@@ -144,9 +144,9 @@ end
 //Psi
 start
 Crahn PSI Combat Booster
-req psi 95
-req ppu 16
-req focussing 81
+req psi 15
+req ppu 53
+req focussing 18
 psi amp 1
 + apu 5.07
 + psiuse 2.54
@@ -166,9 +166,9 @@ end
 
 start
 Crahn Holy PSI Combat Booster
-req psi 95
-req ppu 16
-req focussing 81
+req psi 70
+req ppu 117
+req focussing 68
 psi amp 1
 + apu 21.46
 + psiuse 10.73
@@ -203,9 +203,9 @@ end
 
 start
 Crahn Holy Rifle Combat Booster
-req psi 95
-req ppu 136
-req focussing 81
+req psi 70
+req ppu 117
+req focussing 68
 psi amp 1
 + riflecombat 21.46
 + techcombat 10.73

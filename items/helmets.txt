@@ -1,35 +1,35 @@
 start
 Shabby Carbon Helmet
-req str 49
-+ force 51
-+ piercing 63
-+ poison 12
+req str 43
++ force 41
++ piercing 51
++ poison 25
 end
 
 start
 Good Carbon Helmet
-req str 57
-+ force 56
-+ piercing 70
-+ poison 14
+req str 51
++ force 45
++ piercing 56
++ poison 28
 end
 
 start
 Great Carbon Helmet
 graphic heavyhelmet
-req str 65
-+ force 61
-+ piercing 76
-+ poison 15
+req str 59
++ force 49
++ piercing 61
++ poison 31
 end
 
 start
 Outstanding Carbon Helmet
 graphic heavyhelmet
-req str 75
-+ force 67
-+ piercing 84
-+ poison 16
+req str 69
++ force 54
++ piercing 68
++ poison 34
 end
 
 start
@@ -64,23 +64,26 @@ end
 
 start
 Battle Helmet Prototype
-req str 21
+req str 17
 + force 49
 + piercing 32
++ fire 17
 end
 
 start
 Usual Battle Helmet
-req str 31
+req str 27
 + force 59
 + piercing 39
++ fire 20
 end
 
 start
 Advanced Battle Helmet
-req str 41
+req str 37
 + force 68
 + piercing 45
++ fire 23
 end
 
 start
@@ -130,15 +133,15 @@ end
 
 start
 Unhallowed Inquisition Helmet
-req str 46
-+ force 30
-+ piercing 30
-+ fire 61
+req str 44
++ force 31
++ piercing 31
++ fire 63
 end
 
 start
 Inquisition Helmet
-req str 57
+req str 52
 + force 35
 + piercing 35
 + fire 70
@@ -147,7 +150,7 @@ end
 start
 Holy Inquisition Helmet
 graphic heavyhelmet
-req str 65
+req str 59
 + force 38
 + piercing 38
 + fire 76
@@ -190,6 +193,7 @@ req psi 52
 + piercing 23
 + energy 47
 + xray 23
++ fire 12
 end
 
 start
@@ -200,4 +204,5 @@ req psi 78
 + piercing 30
 + energy 61
 + xray 30
++ fire 15
 end
