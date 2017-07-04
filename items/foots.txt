@@ -1,19 +1,4 @@
 start
-Experimental Foot
-graphic exfoot
-req str 44
-+ force 9.04
-+ agility 9.04
-end
-
-start
-Foot
-req str 4
-+ force 2.64
-+ agility 2.64
-end
-
-start
 Advanced Foot
 graphic adfoot
 req str 24
@@ -28,3 +13,21 @@ req str 23
 + xray 5.68
 + agility 5.68
 end
+
+start
+Experimental Foot
+graphic exfoot
+req str 44
++ force 18.00
++ agility 18.00
+end
+
+start
+Foot
+req str 4
++ force 2.64
++ agility 2.64
+end
+
+
+

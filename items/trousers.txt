@@ -1,33 +1,33 @@
 start
 Shabby Carbon Trousers
-req str 48
-+ force 50
-+ piercing 63
-+ poison 12
+req str 42
++ force 40
++ piercing 50
++ poison 25
 end
 
 start
 Good Carbon Trousers
-req str 56
-+ force 55
-+ piercing 69
-+ poison 13
+req str 50
++ force 44
++ piercing 56
++ poison 28
 end
 
 start
 Great Carbon Trousers
-req str 64
-+ force 60
-+ piercing 76
-+ poison 15
+req str 58
++ force 49
++ piercing 60
++ poison 30
 end
 
 start 
 Outstanding Carbon Trousers
-req str 74
-+ force 67
-+ piercing 84
-+ poison 16
+req str 68
++ force 54
++ piercing 67
++ poison 34
 end
 
 start
@@ -59,23 +59,26 @@ end
 
 start
 Battle Trousers Prototype
-req str 20
+req str 16
 + force 48
 + piercing 32
++ fire 16
 end
 
 start
 Usual Battle Trousers
-req str 30
+req str 26
 + force 58
 + piercing 38
++ fire 19
 end
 
 start
 Advanced Battle Trousers
-req str 40
+req str 36
 + force 67
 + piercing 45
++ fire 22
 end
 
 start
@@ -112,7 +115,7 @@ end
 
 start
 Unhallowed Inquisition Trousers
-req str 48
+req str 43
 + force 31
 + piercing 31
 + fire 63
@@ -120,7 +123,7 @@ end
 
 start
 Inquisition Trousers
-req str 56
+req str 51
 + force 34
 + piercing 34
 + fire 69
@@ -128,7 +131,7 @@ end
 
 start
 Holy Inquisition Trousers
-req str 64
+req str 59
 + force 38
 + piercing 38
 + fire 76
@@ -136,7 +139,7 @@ end
 
 start
 Gods Wish' Inquisition Trousers
-req str 74
+req str 69
 + force 42
 + piercing 42
 + fire 85
@@ -167,6 +170,7 @@ req psi 54
 + piercing 24
 + energy 28
 + xray 24
++ fire 12
 end
 
 start
@@ -176,4 +180,5 @@ req psi 80
 + piercing 31
 + energy 62
 + xray 31
++ fire 15
 end

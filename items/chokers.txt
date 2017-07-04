@@ -1,37 +1,37 @@
 start
-Shabby Carbon Choker
-req str 47
-+ force 49
-+ piercing 62
-+ poison 12
+Shabby Carbon Choker 
+req str 41
++ force 40
++ piercing 50
++ poison 25
 end
 
 start
-Good Carbon Choker
-req str 55
-+ force 54
-+ piercing 68
-+ poison 13
+Good Carbon Choker 
+req str 49
++ force 44
++ piercing 55
++ poison 28
 end
 
 start
-Great Carbon Choker
-req str 63
-+ force 60
-+ piercing 75
-+ poison 15
+Great Carbon Choker 
+req str 57
++ force 48
++ piercing 60
++ poison 30
 end
 
-start 
-Outstanding Carbon Choker
-req str 73
-+ force 66
-+ piercing 83
-+ poison 16
+start  
+Outstanding Carbon Choker 
+req str 67
++ force 53
++ piercing 67
++ poison 34
 end
 
 start
-Light Kevlar Choker
+Light Kevlar Choker 
 req str 10
 + force 16
 + piercing 9
@@ -40,7 +40,7 @@ req str 10
 end
 
 start
-Medium Kevlar Choker
+Medium Kevlar Choker 
 req str 22
 + force 20
 + piercing 12
@@ -49,7 +49,7 @@ req str 22
 end
 
 start
-Heavy Kevlar Choker
+Heavy Kevlar Choker 
 req str 34
 + force 25
 + piercing 15
@@ -58,28 +58,31 @@ req str 34
 end
 
 start
-Battle Collar Prototype
-req str 19
+Battle Collar Prototype 
+req str 15
 + force 47
 + piercing 31
++ fire 16
 end
 
 start
-Usual Battle Collar
-req str 29
+Usual Battle Collar 
+req str 25
 + force 57
 + piercing 38
++ fire 19
 end
 
 start
-Advanced Battle Collar
-req str 39
+Advanced Battle Collar 
+req str 35
 + force 66
 + piercing 44
++ fire 22
 end
 
 start
-Bad Duranium Collar
+Bad Duranium Collar 
 req str 68
 + force 63
 + piercing 47
@@ -87,7 +90,7 @@ req str 68
 end
 
 start
-Duranium Collar
+Duranium Collar 
 req str 78
 + force 69
 + piercing 52
@@ -95,7 +98,7 @@ req str 78
 end
 
 start
-Advanced Duranium Collar
+Advanced Duranium Collar 
 req str 83
 + force 73
 + piercing 54
@@ -103,7 +106,7 @@ req str 83
 end
 
 start
-High Density Duranium Collar
+High Density Duranium Collar 
 req str 88
 + forcing 76
 + piercing 57
@@ -111,39 +114,39 @@ req str 88
 end
 
 start
-Unhallowed Inquisition Choker
-req str 44
+Unhallowed Inquisition Choker 
+req str 39
 + force 29
 + piercing 29
 + fire 59
 end
 
 start
-Inquisition Necklace
-req str 52
+Inquisition Necklace 
+req str 47
 + force 33
 + piercing 33
 + fire 66
 end
 
 start
-Holy Inquisition Necklace
-req str 60
+Holy Inquisition Necklace 
+req str 55
 + force 36
 + piercing 36
 + fire 72
 end
 
 start
-Gods Wish' Inquisition Necklace
-req str 72
+Gods Wish' Inquisition Necklace 
+req str 67
 + force 41
 + piercing 41
 + fire 82
 end
 
 start
-Crahn Shelter Necklace
+Crahn Shelter Necklace 
 req psi 6
 + force 11
 + piercing 11
@@ -152,7 +155,7 @@ req psi 6
 end
 
 start
-Crahn Blessed Shelter Necklace
+Crahn Blessed Shelter Necklace 
 req psi 26
 + force 16
 + piercing 16
@@ -161,19 +164,21 @@ req psi 26
 end
 
 start
-Crahn Spirit Necklace
+Crahn Spirit Necklace 
 req psi 49
 + force 22
 + piercing 22
 + energy 45
 + xray 22
++ fire 12
 end
 
 start
-Crahn Blessed Spirit Necklace
+Crahn Blessed Spirit Necklace 
 req psi 75
 + force 30
 + piercing 30
 + energy 60
 + xray 30
++ fire 15
 end

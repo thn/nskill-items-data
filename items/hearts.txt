@@ -1,5 +1,25 @@
 start
-Cyber-Heart 1
+Advanced Heart V. 1.0
+graphic shrt
+req con 9
++ con 1.00
++ endurance 6.27
+- athletics 1.00
++ health 5.00
+end
+
+start
+Advanced Heart V. 2.0
+graphic shrt
+req con 37
++ con 1.68
++ endurance 13.44
+- athletics 3.00
++ health 9.00
+end
+
+start
+Cyber Heart V. 1.0
 req con 7
 + con 1.00
 + endurance 4.99
@@ -8,47 +28,7 @@ req con 7
 end
 
 start
-Strengthen-Heart 1
-graphic shrt
-req con 11
-+ con 1.00
-+ health 5.50
-- athletics 2.27
-end
-
-start
-Advanced-Heart 1
-graphic shrt
-req con 12
-+ con 1.00
-+ endurance 6.27
-- athletics 2.59
-end
-
-start
-Filter-Heart 1
-graphic fhrt
-req con 16
-+ con 1.00
-+ xray 3.65
-+ poison 3.65
-- endurance 1.20
-- health 1.81
-end
-
-start
-Experimental-Heart 1
-graphic shrt
-req con 16
-+ con 1.23
-+ health 4.93
-+ endurance 4.93
-- agility 1.63
-- athletics 1.63
-end
-
-start
-Cyber-Heart 2
+Cyber Heart V. 2.0
 req con 35
 + con 1.52
 + endurance 12.16
@@ -57,41 +37,59 @@ req con 35
 end
 
 start
-Strengthen-Heart 2
+Experimental Heart V. 1.0
+graphic shrt
+req con 26
++ con 1.23
++ health 4.93
++ endurance 10.00
+- agility 3.00
+end
+
+start
+Experimental Heart V. 2.0
+graphic shrt
+req con 53
++ con 2.10
++ health 8.38
++ endurance 16.00
+- agility 5.00
+end
+
+start
+Filter Heart V. 1.0
+graphic fhrt
+req con 16
++ con 1.00
++ xray 7.00
++ poison 3.65
+- endurance 1.20
+end
+
+start
+Filter Heart V. 2.0
+graphic fhrt
+req con 43
++ con 1.77
++ xray 14.00
++ poison 7.10
+- endurance 2.34
+end
+
+start
+Strengthen Heart V. 1.0
+graphic shrt
+req con 11
++ con 1.00
++ health 5.50
+- athletics 2.27
+end
+
+start
+Strengthen Heart V. 2.0
 graphic shrt
 req con 39
 + con 1.65
 + health 13.18
 - athletics 5.44
-end
-
-start
-Advanced-Heart 2
-graphic shrt
-req con 40
-+ con 1.68
-+ endurance 13.44
-- athletics 5.54
-end
-
-start
-Filter-Heart 2
-graphic fhrt
-req con 43
-+ con 1.77
-+ xray 7.10
-+ poison 7.10
-- endurance 2.34
-- health 3.52
-end
-
-start
-Experimental-Heart 2
-graphic shrt
-req con 53
-+ con 2.10
-+ health 8.38
-+ endurance 8.38
-- agility 2.77
-- athletics 2.77
 end

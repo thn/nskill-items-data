@@ -1,4 +1,12 @@
 start
+Advanced Headbone
+graphic adheadbone
+req str 30
++ force 8.16
++ resistpsi 5.44
+end
+
+start
 Biotech Antigamma Headbone
 graphic agheadbone
 req str 28
@@ -10,8 +18,8 @@ start
 Experimental Headbone
 graphic exheadbone
 req str 50
-+ force 12.00
-+ resistpsi 8.00
++ force 24.00
++ resistpsi 16.00
 end
 
 start
@@ -21,10 +29,3 @@ req str 10
 + resistpsi 2.88
 end
 
-start
-Advanced Headbone
-graphic adheadbone
-req str 30
-+ force 8.16
-+ resistpsi 5.44
-end

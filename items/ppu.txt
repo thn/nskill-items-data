@@ -153,7 +153,7 @@ Crahn Blessed Absorber
 graphic abs
 id 7888889
 req psi 62
-req ppu 111
+req ppu 99
 req focussing 63
 end
 
@@ -513,9 +513,9 @@ start
 tl 55
 Crahn Blessed Heal
 id 7888836
-req psi 55
-req ppu 106
-req focussing 59
+req psi 44
+req ppu 96
+req focussing 52
 end
 
 
@@ -536,9 +536,9 @@ tl 75
 Crahn Blessed Heat Resist Booster
 graphic heat
 id 78888024
-req psi 75
-req ppu 121
-req focussing 71
+req psi 40
+req ppu 91
+req focussing 50
 end
 
 
@@ -548,9 +548,9 @@ tl 55
 Crahn Blessed Heavy Combat Booster
 graphic booster
 id 78888991
-req psi 55
-req ppu 106
-req focussing 59
+req psi 40
+req ppu 91
+req focussing 50
 end
 
 

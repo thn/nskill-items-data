@@ -1,33 +1,33 @@
 start
 Shabby Carbon Vest
-req str 46
-+ force 49
-+ piercing 61
-+ poison 12
+req str 40
++ force 39
++ piercing 49
++ poison 25
 end
 
 start
 Good Carbon Vest
-req str 54
-+ force 54
-+ piercing 67
-+ poison 13
+req str 48
++ force 43
++ piercing 54
++ poison 27
 end
 
 start
 Great Carbon Vest
-req str 62
-+ force 59
-+ piercing 74
-+ poison 14
+req str 56
++ force 48
++ piercing 60
++ poison 30
 end
 
 start
 Outstanding Carbon Vest
-req str 72 
-+ force 66
-+ piercing 82
-+ poison 16
+req str 66 
++ force 53
++ piercing 66
++ poison 33
 end
 
 start
@@ -59,23 +59,26 @@ end
 
 start
 Battle Vest Prototype
-req str 18
+req str 14
 + force 46
 + piercing 30
++ fire 15
 end
 
 start
 Usual Battle Vest
-req str 28
+req str 24
 + force 56
 + piercing 37
++ fire 19
 end
 
 start
 Advanced Battle Vest
-req str 38
+req str 34
 + force 65
 + piercing 43
++ fire 21
 end
 
 start
@@ -129,15 +132,7 @@ end
 
 start
 Unhallowed Inquisition Vest
-req str 46
-+ force 30
-+ piercing 30
-+ fire 61
-end
-
-start
-Unhallowed Inquisition Vest
-req str 46
+req str 41
 + force 30
 + piercing 30
 + fire 61
@@ -145,7 +140,7 @@ end
 
 start
 Inquisition Vest
-req str 54
+req str 49
 + force 33
 + piercing 33
 + fire 67
@@ -153,7 +148,7 @@ end
 
 start
 Holy Inquisition Vest
-req str 62
+req str 57
 + force 37
 + piercing 37
 + fire 74
@@ -161,7 +156,7 @@ end
 
 start
 Gods Wish' Inquisition Vest
-req str 72
+req str 67
 + force 42
 + piercing 42
 + fire 84
@@ -192,6 +187,7 @@ req psi 50
 + piercing 23
 + energy 46
 + xray 23
++ fire 12
 end
 
 start
@@ -201,4 +197,5 @@ req psi 75
 + piercing 30
 + energy 60
 + xray 30
++ fire 15
 end

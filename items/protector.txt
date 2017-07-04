@@ -25,3 +25,12 @@ req ppu 58
 req focussing 22
 psi amp 1
 end
+
+start
+tl 44
+Crahn Blessed Protector
+req psi 44
+req ppu 96
+req focussing 52
+psi amp 1
+end
