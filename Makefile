@@ -13,7 +13,7 @@
 clean:
 	rm -rf items-eu
 	rm -rf build
-	rm NSkillV2.zip
+	rm -f NSkillV2.zip
 .PHONY: clean
 
 items: clean
