@@ -27,7 +27,7 @@ pipeline {
                         makeEmptyDirs: false,
                         noDefaultExcludes: false,
                         patternSeparator: '[, ]+',
-                        remoteDirectory: '${env.DEPLOY_LOCATION}',
+                        remoteDirectory: env.DEPLOY_LOCATION,
                         remoteDirectorySDF: false,
                         removePrefix: '',
                         sourceFiles: 'NSkillV2.zip')],
