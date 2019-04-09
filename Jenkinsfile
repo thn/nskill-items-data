@@ -16,7 +16,7 @@ pipeline {
 		stage ('Upload to THN Server') {
 			steps {
                 sh '''
-                # Upload step
+                # Upload step (Test)
                 '''
 			}
 		}
